@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EPG>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Billie Jean King Cup</Title>
+    <EpisodeTitle>Canada - Danmark (k), doublekamp</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Playoff-kamp i Billie Jean King Cup mellem Danmark og Canada.</ShortDescription>
+    <LongDescription>Johanne Svendsen og Emma Kamper møder Gabriela Dabrowski og Victoria Mboko fra Canada i Billie Jean King Cup playoff-gruppe A i Club Sonoma i den mexicanske millionby Monterrey. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>08:25</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Fiorentina - Como</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Fiorentina møder Como i den sidste 1/8-finale i Coppa Italia.</ShortDescription>
+    <LongDescription>Fiorentina møder Como 1907 i den sidste af 1/8-finalerne i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Artemio Franchi i Firenze og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>14:00</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>16:05</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Ukraine - Danmark (m)</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Ukraine i Riga.</ShortDescription>
+    <LongDescription>I den anden af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Ukraine på neutral grund i Xiaomi Arena i den lettiske hovedstad Riga. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>18:05</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
+    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>20:20</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/02/2026</Date>
+    <StartTime>21:05</StartTime>
+    <PrimaryGenre>Boxing</PrimaryGenre>
+    <Title>Pro/am stævne</Title>
+    <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Stort boksestævne i Gilleleje med både danske og internationale fightere.</ShortDescription>
+    <LongDescription>Nogle af Gilleleje Bokseklubs stærkeste profiler skal i ringen til både professionelle og olympiske kampe, når den tredje udgave af Future Fight Night løber af stablen i Gilleleje Hallen. Kommentatorer: Peter Jørgensen og TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>01:10</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>01:30</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>07:50</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Jonathan Groth - Tomokazu Harimoto</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonathan Groth møder Tomokazu Harimoto i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Jonathan Groth møder Tomokazu Harimoto fra Japan i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>08:20</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Hwan Bae - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Hwan Bae i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Hwan Bae fra Australien i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>08:50</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
+    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>11:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Supercopa de España</Title>
+    <EpisodeTitle>FC Barcelona - Real Madrid</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Finale i den prestigefyldte Supercopa de España.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercopa de España mellem ærkerivalerne FC Barcelona og Real Madrid på King Abdullah Sports City i Jeddah. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>13:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>14:00</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>16:55</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>17:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>20:30</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Premiere</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>21:30</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/02/2026</Date>
+    <StartTime>23:35</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Fiorentina - Como</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Fiorentina møder Como i den sidste 1/8-finale i Coppa Italia.</ShortDescription>
+    <LongDescription>Fiorentina møder Como 1907 i den sidste af 1/8-finalerne i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Artemio Franchi i Firenze og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>01:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>AS Roma - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>AS Roma møder Torino i 1/8-finalen i Coppa Italia.</ShortDescription>
+    <LongDescription>AS Roma møder Torino i den næstsidste af 1/8-finalerne i den italienske pokalturnering Coppa Italia. Kampen spilles på det olympiske stadion i Rom og kommenteres af Kenneth Hansen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>09:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Fiorentina - Como</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Fiorentina møder Como i den sidste 1/8-finale i Coppa Italia.</ShortDescription>
+    <LongDescription>Fiorentina møder Como 1907 i den sidste af 1/8-finalerne i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Artemio Franchi i Firenze og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>11:05</StartTime>
+    <PrimaryGenre>Football</PrimaryGenre>
+    <Title>Mermaid Bowl</Title>
+    <EpisodeTitle>Mermaid Bowl XXXVI</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Den 36. udgave af Mermaid Bowl fra Vejle Atletikstadion.</ShortDescription>
+    <LongDescription>Aalborg 89ers møder Søllerød Gold Diggers i den 36. udgave af Mermaid Bowl på Vejle Atletikstadion, hvor DM-guldet i dansk amerikansk fodbold skal uddeles. Kommentatorer: Peter Jørgensen og Mikkel Guldbjerg Jensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>13:45</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>14:20</StartTime>
+    <PrimaryGenre/>
+    <Title>World Rowing Championships</Title>
+    <EpisodeTitle>VM 2025, dag 8</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Verdensmesterskaberne i roning fra Dianshan Lake vest for Shanghai.</ShortDescription>
+    <LongDescription>Danmark stiller i år med hele 14 atleter ved VM i roning, som finder sted på den storslåede sø Dianshan Lake vest for den kinesiske millionby Shanghai. Kommentatorer: Henrik Hvillum og Victor Feddersen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>15:00</StartTime>
+    <PrimaryGenre/>
+    <Title>World Rowing Championships</Title>
+    <EpisodeTitle>VM 2025, dag 8</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Verdensmesterskaberne i roning fra Dianshan Lake vest for Shanghai.</ShortDescription>
+    <LongDescription>Danmark stiller i år med hele 14 atleter ved VM i roning, som finder sted på den storslåede sø Dianshan Lake vest for den kinesiske millionby Shanghai. Kommentator: Henrik Hvillum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>17:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>18:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Danmark - Spanien</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Spanien i Farum Arena.</ShortDescription>
+    <LongDescription>I den første af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien på hjemmebane i Farum Arena. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>20:15</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>20:55</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/02/2026</Date>
+    <StartTime>23:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
+    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>01:15</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>07:15</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>07:45</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>08:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>10:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
+    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>17:10</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>17:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>18:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen optakt</Title>
+    <EpisodeTitle>Optakt til Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Næstved.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Arena Næstved, hvor vi varmer op til aftenens kamp i Basketligaen mellem Team FOG Næstved og BC Copenhagen. Værter: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>19:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/02/2026</Date>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>00:25</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>01:10</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>Truls Möregårdh - Tomokazu Harimoto</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Herrernes finalekamp ved WTT Finals Hong Kong.</ShortDescription>
+    <LongDescription>Herrernes finale mellem svenske Truls Möregårdh og japanske Tomokazu Harimoto ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre/>
+    <Title>DM</Title>
+    <EpisodeTitle>DM 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
+    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>08:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>09:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Supercoppa Italiana</Title>
+    <EpisodeTitle>Napoli - Bologna</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Finale i Supercoppa Italiana mellem Napoli og Bologna.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercoppa Italiana mellem Napoli og Bologna på Al-Awwal Park Stadium i Riyadh. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>10:55</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>14:20</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>15:55</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, dag 1</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>20:00</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>20:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>20:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/02/2026</Date>
+    <StartTime>23:20</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>01:30</StartTime>
+    <PrimaryGenre>Boxing</PrimaryGenre>
+    <Title>Primetime Fight Night</Title>
+    <EpisodeTitle>Jacob Bank - Tyron Zeuge</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>WBO Global-titelkamp mellem Jacob Bank og tyske Tyron Zeuge.</ShortDescription>
+    <LongDescription>Supermellemvægtskamp om den globale WBO-titel mellem ubesejrede Jacob Bank og tyske Tyron Zeuge ved det professionelle boksestævne Primetime Fight Night i Sydbank Arena i Kolding. Kommentatorer: Claus Elgaard og Kasper Fruensgaard.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>07:55</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>10:45</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, dag 2</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>17:05</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>18:00</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Shunsuke Togami - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Shunsuke Togami i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Shunsuke Togami fra Japan i anden runde af den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>18:55</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind - Félix Lebrun</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Kvartfinale mellem danske Anders Lind og franske Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentatorer: Peter Jørgensen og Michael Maze.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>19:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Danmark - Grækenland (k)</Title>
+    <EpisodeTitle>Danmark - Grækenland</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på hjemmebane Grækenland i den tredje af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Mads Knudsen og Maria Jespersen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/02/2026</Date>
+    <StartTime>22:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>00:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>01:20</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting - Nacional</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>09:05</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>11:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>14:00</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>14:30</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Hwan Bae - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Hwan Bae i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Hwan Bae fra Australien i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Shunsuke Togami - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Shunsuke Togami i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Shunsuke Togami fra Japan i anden runde af den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>15:55</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind - Sora Matsushima</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Første semifinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Den første af herrernes to semifinaler mellem danske Anders Lind og japanske Sora Matsushima ved den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>16:50</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>18:30</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>21:25</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica - Alverca</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Benfica møder Alverca i 21. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica tager imod Alverca i 21. runde af den bedste portugisiske fodboldrække, Liga Portugal. Kampen spilles på Estádio da Luz i Lissabon og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>01:40</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>07:50</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>08:15</StartTime>
+    <PrimaryGenre>Football</PrimaryGenre>
+    <Title>Mermaid Bowl</Title>
+    <EpisodeTitle>Mermaid Bowl XXXVI</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Den 36. udgave af Mermaid Bowl fra Vejle Atletikstadion.</ShortDescription>
+    <LongDescription>Aalborg 89ers møder Søllerød Gold Diggers i den 36. udgave af Mermaid Bowl på Vejle Atletikstadion, hvor DM-guldet i dansk amerikansk fodbold skal uddeles. Kommentatorer: Peter Jørgensen og Mikkel Guldbjerg Jensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>11:00</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Supercopa de España</Title>
+    <EpisodeTitle>FC Barcelona - Real Madrid</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Finale i den prestigefyldte Supercopa de España.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercopa de España mellem ærkerivalerne FC Barcelona og Real Madrid på King Abdullah Sports City i Jeddah. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>13:25</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica - Alverca</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Benfica møder Alverca i 21. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica tager imod Alverca i 21. runde af den bedste portugisiske fodboldrække, Liga Portugal. Kampen spilles på Estádio da Luz i Lissabon og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>15:30</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>17:50</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>18:50</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>19:25</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 1</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>21:30</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>01:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>07:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>08:00</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>10:00</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 1</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>13:05</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>15:40</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>17:45</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica - Alverca</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Benfica møder Alverca i 21. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica tager imod Alverca i 21. runde af den bedste portugisiske fodboldrække, Liga Portugal. Kampen spilles på Estádio da Luz i Lissabon og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>19:50</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 2</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/02/2026</Date>
+    <StartTime>21:50</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>00:15</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>00:40</StartTime>
+    <PrimaryGenre/>
+    <Title>DM</Title>
+    <EpisodeTitle>DM 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
+    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica - Alverca</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Benfica møder Alverca i 21. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica tager imod Alverca i 21. runde af den bedste portugisiske fodboldrække, Liga Portugal. Kampen spilles på Estádio da Luz i Lissabon og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>09:10</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals</Title>
+    <EpisodeTitle>1/8-finale: Truls Möregårdh - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>10:00</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 2</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>14:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>15:25</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>15:50</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>17:50</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>18:35</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, doublekamp</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>20:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>20:55</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Bologna - Lazio</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Bologna og Lazio i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem SS Lazio og de forsvarende mestre fra Bologna i den italienske pokalturnering Coppa Italia. Kampen spilles på Renato Dall'Ara i Bologna og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>23:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>01:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>08:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
+    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>10:35</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, doublekamp</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>12:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>13:20</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Bologna - Lazio</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Bologna og Lazio i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem SS Lazio og de forsvarende mestre fra Bologna i den italienske pokalturnering Coppa Italia. Kampen spilles på Renato Dall'Ara i Bologna og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>15:25</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>16:10</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>19:00</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>19:35</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 3</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/02/2026</Date>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>00:10</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Hwan Bae - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Hwan Bae i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Hwan Bae fra Australien i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Shunsuke Togami - Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Shunsuke Togami i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Shunsuke Togami fra Japan i anden runde af den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>08:25</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 3</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>10:30</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Hundested IK - Hjørring Futsal Klub</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Hundested møder Hjørring i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Hundested IK får besøg af de dobbelte danmarksmestre fra Hjørring i 16. runde af grundspillet i Futsal Ligaen. Kampen spilles i Hundested Hallen og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>12:30</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica - Alverca</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Benfica møder Alverca i 21. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica tager imod Alverca i 21. runde af den bedste portugisiske fodboldrække, Liga Portugal. Kampen spilles på Estádio da Luz i Lissabon og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>14:35</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Reportage: Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Reportage: Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>15:20</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Bologna - Lazio</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Bologna og Lazio i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem SS Lazio og de forsvarende mestre fra Bologna i den italienske pokalturnering Coppa Italia. Kampen spilles på Renato Dall'Ara i Bologna og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>18:30</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen optakt</Title>
+    <EpisodeTitle>Optakt til BK Vejen - BMS Herlev</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Vejen.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Vejen Idrætscenter, hvor vi varmer op til aftenens kamp i Basketligaen mellem BK Vejen og BMS Herlev. Værter: Jonas Kvist Jepsen og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>18:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>BK Vejen får besøg af BMS Herlev i Basketligaen.</ShortDescription>
+    <LongDescription>BK Vejen får besøg af BMS Herlev i 20. runde af Basketligaen. Kampen spilles i Vejen Idrætscenter og kommenteres af Peter Jørgensen og TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/02/2026</Date>
+    <StartTime>21:20</StartTime>
+    <PrimaryGenre>Boxing</PrimaryGenre>
+    <Title>Pro/am stævne</Title>
+    <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Stort boksestævne i Gilleleje med både danske og internationale fightere.</ShortDescription>
+    <LongDescription>Nogle af Gilleleje Bokseklubs stærkeste profiler skal i ringen til både professionelle og olympiske kampe, når den tredje udgave af Future Fight Night løber af stablen i Gilleleje Hallen. Kommentatorer: Peter Jørgensen og TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>01:20</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>01:50</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>Reportage: Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Félix Lebrun - Jonathan Groth</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonathan Groth møder Félix Lebrun i WTT Champions Montpellier.</ShortDescription>
+    <LongDescription>Danske Jonathan Groth møder Félix Lebrun fra Frankrig i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>07:45</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind - Sora Matsushima</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Sora Matsushima i WTT Champions Montpellier.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Sora Matsushima fra Japan i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>08:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>10:45</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Inter - Torino</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>12:50</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Bologna - Lazio</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Bologna og Lazio i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem SS Lazio og de forsvarende mestre fra Bologna i den italienske pokalturnering Coppa Italia. Kampen spilles på Renato Dall'Ara i Bologna og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>BK Vejen får besøg af BMS Herlev i Basketligaen.</ShortDescription>
+    <LongDescription>BK Vejen får besøg af BMS Herlev i 20. runde af Basketligaen. Kampen spilles i Vejen Idrætscenter og kommenteres af Peter Jørgensen og TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>17:20</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 1</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>19:20</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 2</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>21:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/02/2026</Date>
+    <StartTime>21:55</StartTime>
+    <PrimaryGenre>Darts</PrimaryGenre>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>00:45</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>01:20</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved årets andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Ukraine - Danmark (m)</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Ukraine i Riga.</ShortDescription>
+    <LongDescription>I den anden af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Ukraine på neutral grund i Xiaomi Arena i den lettiske hovedstad Riga. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>09:10</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind - Félix Lebrun</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Kvartfinale mellem danske Anders Lind og franske Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentatorer: Peter Jørgensen og Michael Maze.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>10:05</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind - Sora Matsushima</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Første semifinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Den første af herrernes to semifinaler mellem danske Anders Lind og japanske Sora Matsushima ved den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>11:05</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, doublekamp</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>13:05</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Kroatien - Danmark, singlekamp 3</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Supercoppa Italiana</Title>
+    <EpisodeTitle>Napoli - Bologna</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Finale i Supercoppa Italiana mellem Napoli og Bologna.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercoppa Italiana mellem Napoli og Bologna på Al-Awwal Park Stadium i Riyadh. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>16:55</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Bologna - Lazio</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Kvartfinale mellem Bologna og Lazio i Coppa Italia.</ShortDescription>
+    <LongDescription>Kvartfinale mellem SS Lazio og de forsvarende mestre fra Bologna i den italienske pokalturnering Coppa Italia. Kampen spilles på Renato Dall'Ara i Bologna og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>19:00</StartTime>
+    <PrimaryGenre>Cycling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>19:30</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>Reportage: DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra årets sæsonfinale i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>20:05</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>BK Vejen får besøg af BMS Herlev i Basketligaen.</ShortDescription>
+    <LongDescription>BK Vejen får besøg af BMS Herlev i 20. runde af Basketligaen. Kampen spilles i Vejen Idrætscenter og kommenteres af Peter Jørgensen og TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>22:25</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>6</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Supercopa de España</Title>
+    <EpisodeTitle>FC Barcelona - Real Madrid</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Finale i den prestigefyldte Supercopa de España.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercopa de España mellem ærkerivalerne FC Barcelona og Real Madrid på King Abdullah Sports City i Jeddah. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+</EPG>
