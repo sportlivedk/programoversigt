@@ -1,136 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>07:10</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Billie Jean King Cup</Title>
-    <EpisodeTitle>Canada-Danmark, doublekamp</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Playoff-kamp i Billie Jean King Cup mellem Danmark og Canada.</ShortDescription>
-    <LongDescription>Johanne Svendsen og Emma Kamper møder Gabriela Dabrowski og Victoria Mboko fra Canada i Billie Jean King Cup playoff-gruppe A i Club Sonoma i den mexicanske millionby Monterrey. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>08:25</StartTime>
-    <PrimaryGenre>Darts</PrimaryGenre>
-    <Title>SponsorWorld Masters</Title>
-    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
-    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>12:00</StartTime>
-    <PrimaryGenre>Soccer</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Fiorentina-Como</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Fiorentina møder Como i den sidste 1/8-finale i Coppa Italia.</ShortDescription>
-    <LongDescription>Fiorentina møder Como 1907 i den sidste af 1/8-finalerne i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Artemio Franchi i Firenze og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>14:00</StartTime>
-    <PrimaryGenre>Soccer</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Sporting-Nacional</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>16:05</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Ukraine-Danmark</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Ukraine i Riga.</ShortDescription>
-    <LongDescription>I den anden af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Ukraine på neutral grund i Xiaomi Arena i den lettiske hovedstad Riga. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>18:05</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>20:20</StartTime>
-    <PrimaryGenre>Table Tennis</PrimaryGenre>
-    <Title>WTT Finals</Title>
-    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/02/2026</Date>
-    <StartTime>21:05</StartTime>
-    <PrimaryGenre>Boxing</PrimaryGenre>
-    <Title>Pro/am stævne</Title>
-    <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Stort boksestævne i Gilleleje med både danske og internationale fightere.</ShortDescription>
-    <LongDescription>Nogle af Gilleleje Bokseklubs stærkeste profiler skal i ringen til både professionelle og olympiske kampe, når den tredje udgave af Future Fight Night løber af stablen i Gilleleje Hallen. Kommentatorer: Peter Jørgensen og Mads Sørensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/02/2026</Date>
-    <StartTime>01:10</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/02/2026</Date>
-    <StartTime>01:30</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
-    <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
-    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
     <Date>03/02/2026</Date>
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
@@ -174,7 +44,7 @@
     <StartTime>08:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Værløse Blue Hawks</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -200,7 +70,7 @@
     <StartTime>13:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -226,7 +96,7 @@
     <StartTime>16:55</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -252,7 +122,7 @@
     <StartTime>17:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -265,7 +135,7 @@
     <StartTime>20:30</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Premiere</Status>
@@ -304,7 +174,7 @@
     <StartTime>01:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -356,7 +226,7 @@
     <StartTime>13:45</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -395,7 +265,7 @@
     <StartTime>17:20</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -421,7 +291,7 @@
     <StartTime>20:15</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -447,7 +317,7 @@
     <StartTime>23:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Værløse Blue Hawks</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -473,7 +343,7 @@
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -486,7 +356,7 @@
     <StartTime>07:45</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -499,7 +369,7 @@
     <StartTime>08:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -512,7 +382,7 @@
     <StartTime>10:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria - Værløse Blue Hawks</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Værløse Blue Hawks</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -564,7 +434,7 @@
     <StartTime>17:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -590,7 +460,7 @@
     <StartTime>19:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
@@ -655,7 +525,7 @@
     <StartTime>08:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -681,7 +551,7 @@
     <StartTime>10:55</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -694,7 +564,7 @@
     <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -746,7 +616,7 @@
     <StartTime>20:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -772,7 +642,7 @@
     <StartTime>20:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -811,7 +681,7 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -824,7 +694,7 @@
     <StartTime>07:30</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -889,7 +759,7 @@
     <StartTime>17:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -902,7 +772,7 @@
     <StartTime>17:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -954,7 +824,7 @@
     <StartTime>22:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -967,7 +837,7 @@
     <StartTime>00:20</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1006,7 +876,7 @@
     <StartTime>09:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1019,7 +889,7 @@
     <StartTime>11:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -1045,7 +915,7 @@
     <StartTime>14:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1097,7 +967,7 @@
     <StartTime>16:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1110,7 +980,7 @@
     <StartTime>17:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1162,7 +1032,7 @@
     <StartTime>01:40</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1188,7 +1058,7 @@
     <StartTime>07:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1240,7 +1110,7 @@
     <StartTime>15:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1253,7 +1123,7 @@
     <StartTime>17:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1266,7 +1136,7 @@
     <StartTime>18:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -1318,7 +1188,7 @@
     <StartTime>01:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1331,7 +1201,7 @@
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1344,7 +1214,7 @@
     <StartTime>07:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -1383,7 +1253,7 @@
     <StartTime>12:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1396,7 +1266,7 @@
     <StartTime>13:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1448,7 +1318,7 @@
     <StartTime>21:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1461,7 +1331,7 @@
     <StartTime>00:15</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1526,7 +1396,7 @@
     <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1539,7 +1409,7 @@
     <StartTime>14:20</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1552,7 +1422,7 @@
     <StartTime>15:25</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1604,7 +1474,7 @@
     <StartTime>20:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1630,7 +1500,7 @@
     <StartTime>23:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1643,7 +1513,7 @@
     <StartTime>01:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -1656,7 +1526,7 @@
     <StartTime>07:10</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1669,7 +1539,7 @@
     <StartTime>08:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved - BC Copenhagen</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1708,7 +1578,7 @@
     <StartTime>13:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1760,7 +1630,7 @@
     <StartTime>19:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -1786,7 +1656,7 @@
     <StartTime>21:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Herrepokalfinale 2026</EpisodeTitle>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1877,7 +1747,7 @@
     <StartTime>16:30</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>Shimano MTB Liga, 6. afdeling</EpisodeTitle>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1903,7 +1773,7 @@
     <StartTime>17:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -1929,7 +1799,7 @@
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
@@ -1955,7 +1825,7 @@
     <StartTime>01:20</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1968,7 +1838,7 @@
     <StartTime>01:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1981,7 +1851,7 @@
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>SPORT LIVE vil til OL #1</EpisodeTitle>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
     <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
@@ -2020,7 +1890,7 @@
     <StartTime>12:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2111,7 +1981,7 @@
     <StartTime>00:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>DM Triatlon Serien, 5. afdeling</EpisodeTitle>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2189,7 +2059,7 @@
     <StartTime>13:55</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Bording Cup</Title>
-    <EpisodeTitle>Bording Cup, 4. afdeling</EpisodeTitle>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2241,7 +2111,7 @@
     <StartTime>20:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>BK Vejen - BMS Herlev</EpisodeTitle>
+    <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2254,7 +2124,7 @@
     <StartTime>23:15</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
-    <EpisodeTitle>Overtime #6</EpisodeTitle>
+    <EpisodeTitle>Episode 6</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo>6</EpisodeNo>
     <Status>Repeat</Status>
@@ -2267,7 +2137,7 @@
     <StartTime>00:20</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Dansk Gokart Cup, finale</EpisodeTitle>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
