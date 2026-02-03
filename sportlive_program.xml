@@ -2084,19 +2084,6 @@
     <Date>15/02/2026</Date>
     <StartTime>16:55</StartTime>
     <PrimaryGenre>Soccer</PrimaryGenre>
-    <Title>Supercoppa Italiana</Title>
-    <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Finale i Supercoppa Italiana mellem Napoli og Bologna.</ShortDescription>
-    <LongDescription>Finale i den prestigefyldte Supercoppa Italiana mellem Napoli og Bologna på Al-Awwal Park Stadium i Riyadh. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/02/2026</Date>
-    <StartTime>18:50</StartTime>
-    <PrimaryGenre>Soccer</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Bologna-Lazio</EpisodeTitle>
     <Season>2025-26</Season>
@@ -2108,7 +2095,7 @@
   </Event>
   <Event>
     <Date>15/02/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -2121,7 +2108,20 @@
   </Event>
   <Event>
     <Date>15/02/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>21:25</StartTime>
+    <PrimaryGenre>Soccer</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting-Famalicão</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Sporting møder Famalicão i 22. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder FC Famalicão i 22. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/02/2026</Date>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Episode 6</EpisodeTitle>
@@ -2131,19 +2131,6 @@
     <StillSceneUrl/>
     <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
     <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>16/02/2026</Date>
-    <StartTime>00:20</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Dansk Gokart Cup, finale</Title>
-    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>16/02/2026</Date>
