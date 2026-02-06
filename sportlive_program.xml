@@ -1,188 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
-    <Title>Bording Cup</Title>
-    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
-    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>07:30</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
-    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>08:00</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
-    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>10:35</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria-Værløse Blue Hawks</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Randers Cimbria møder Værløse Blue Hawks i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria får besøg af Værløse Blue Hawks i 18. runde af Basketligaen. Kampen spilles i Arena Randers og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>12:55</StartTime>
-    <PrimaryGenre>Soccer</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Inter-Torino</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Kvartfinale mellem Inter og Torino i Coppa Italia.</ShortDescription>
-    <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>15:05</StartTime>
-    <PrimaryGenre>Soccer</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Sporting-Nacional</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Sporting møder Nacional i 20. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Sporting Clube de Portugal møder CD Nacional i 20. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>17:10</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Korsør Aqtive days 2025</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>17:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Episode 6</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>6</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>18:45</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen optakt</Title>
-    <EpisodeTitle>Optakt til Team FOG Næstved-BC Copenhagen</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Næstved.</ShortDescription>
-    <LongDescription>Vi sender direkte fra Arena Næstved, hvor vi varmer op til aftenens kamp i Basketligaen mellem Team FOG Næstved og BC Copenhagen. Værter: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>19:10</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
-    <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/02/2026</Date>
-    <StartTime>21:35</StartTime>
-    <PrimaryGenre>Darts</PrimaryGenre>
-    <Title>SponsorWorld Masters</Title>
-    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
-    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/02/2026</Date>
-    <StartTime>00:35</StartTime>
-    <PrimaryGenre>Table Tennis</PrimaryGenre>
-    <Title>WTT Finals</Title>
-    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/02/2026</Date>
-    <StartTime>01:20</StartTime>
-    <PrimaryGenre>Table Tennis</PrimaryGenre>
-    <Title>WTT Finals</Title>
-    <EpisodeTitle>Truls Möregårdh-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Herrernes finalekamp ved WTT Finals Hong Kong.</ShortDescription>
-    <LongDescription>Herrernes finale mellem svenske Truls Möregårdh og japanske Tomokazu Harimoto ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/02/2026</Date>
-    <StartTime>02:25</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>06/02/2026</Date>
     <StartTime>06:55</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
@@ -522,7 +340,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Episode 6</EpisodeTitle>
@@ -535,7 +353,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -548,7 +366,7 @@
   </Event>
   <Event>
     <Date>08/02/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -584,6 +402,19 @@
     <StillSceneUrl/>
     <ShortDescription>Team FOG Næstved møder BC Copenhagen i Basketligaen.</ShortDescription>
     <LongDescription>Team FOG Næstved tørner sammen med BC Copenhagen i 19. runde af Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/02/2026</Date>
+    <StartTime>11:20</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/02/2026</Date>
@@ -821,7 +652,7 @@
   </Event>
   <Event>
     <Date>09/02/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Episode 6</EpisodeTitle>
@@ -831,6 +662,19 @@
     <StillSceneUrl/>
     <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
     <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/02/2026</Date>
+    <StartTime>18:45</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>09/02/2026</Date>
@@ -1042,7 +886,7 @@
   </Event>
   <Event>
     <Date>11/02/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -1055,7 +899,7 @@
   </Event>
   <Event>
     <Date>11/02/2026</Date>
-    <StartTime>00:55</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -1068,7 +912,7 @@
   </Event>
   <Event>
     <Date>11/02/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1133,7 +977,7 @@
   </Event>
   <Event>
     <Date>11/02/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Episode 6</EpisodeTitle>
@@ -1143,6 +987,19 @@
     <StillSceneUrl/>
     <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
     <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/02/2026</Date>
+    <StartTime>15:10</StartTime>
+    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <Title>Dansk Gokart Cup, finale</Title>
+    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/02/2026</Date>
@@ -1250,7 +1107,7 @@
   </Event>
   <Event>
     <Date>12/02/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Episode 6</EpisodeTitle>
@@ -1263,7 +1120,7 @@
   </Event>
   <Event>
     <Date>12/02/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-BC Copenhagen</EpisodeTitle>
