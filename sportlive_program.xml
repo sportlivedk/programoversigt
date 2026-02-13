@@ -55,7 +55,7 @@
   <Event>
     <Date>13/02/2026</Date>
     <StartTime>14:00</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -68,7 +68,7 @@
   <Event>
     <Date>13/02/2026</Date>
     <StartTime>16:30</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Mountain Biking</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
@@ -81,7 +81,7 @@
   <Event>
     <Date>13/02/2026</Date>
     <StartTime>17:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -115,7 +115,7 @@
     <Status>Live</Status>
     <StillSceneUrl/>
     <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Vejen.</ShortDescription>
-    <LongDescription>Vi sender direkte fra Vejen Idrætscenter, hvor vi varmer op til aftenens kamp i Basketligaen mellem BK Vejen og BMS Herlev. Værter: Jonas Kvist Jepsen og Anders Katholm.</LongDescription>
+    <LongDescription>Vi sender direkte fra Vejen Idrætscenter, hvor vi varmer op til aftenens kamp i Basketligaen mellem BK Vejen og BMS Herlev. Værter: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>13/02/2026</Date>
@@ -146,7 +146,7 @@
   <Event>
     <Date>14/02/2026</Date>
     <StartTime>01:30</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
@@ -172,7 +172,7 @@
   <Event>
     <Date>14/02/2026</Date>
     <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -224,7 +224,7 @@
   <Event>
     <Date>14/02/2026</Date>
     <StartTime>14:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -380,7 +380,7 @@
   <Event>
     <Date>15/02/2026</Date>
     <StartTime>13:45</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -393,7 +393,7 @@
   <Event>
     <Date>15/02/2026</Date>
     <StartTime>14:25</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -406,7 +406,7 @@
   <Event>
     <Date>15/02/2026</Date>
     <StartTime>16:55</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
@@ -419,7 +419,7 @@
   <Event>
     <Date>15/02/2026</Date>
     <StartTime>17:25</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Mountain Biking</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
@@ -484,7 +484,7 @@
   <Event>
     <Date>16/02/2026</Date>
     <StartTime>01:50</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -536,7 +536,7 @@
   <Event>
     <Date>16/02/2026</Date>
     <StartTime>12:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -549,7 +549,7 @@
   <Event>
     <Date>16/02/2026</Date>
     <StartTime>12:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -562,7 +562,7 @@
   <Event>
     <Date>16/02/2026</Date>
     <StartTime>14:50</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -575,7 +575,7 @@
   <Event>
     <Date>16/02/2026</Date>
     <StartTime>17:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -627,7 +627,7 @@
   <Event>
     <Date>17/02/2026</Date>
     <StartTime>01:25</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -692,7 +692,7 @@
   <Event>
     <Date>17/02/2026</Date>
     <StartTime>13:25</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -757,7 +757,7 @@
   <Event>
     <Date>17/02/2026</Date>
     <StartTime>21:40</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -809,7 +809,7 @@
   <Event>
     <Date>18/02/2026</Date>
     <StartTime>07:05</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -887,7 +887,7 @@
   <Event>
     <Date>18/02/2026</Date>
     <StartTime>17:20</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -926,7 +926,7 @@
   <Event>
     <Date>18/02/2026</Date>
     <StartTime>21:25</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -1056,7 +1056,7 @@
   <Event>
     <Date>19/02/2026</Date>
     <StartTime>21:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -1069,7 +1069,7 @@
   <Event>
     <Date>19/02/2026</Date>
     <StartTime>23:50</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
     <Season>2025</Season>
@@ -1082,7 +1082,7 @@
   <Event>
     <Date>20/02/2026</Date>
     <StartTime>00:15</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
@@ -1199,7 +1199,7 @@
   <Event>
     <Date>20/02/2026</Date>
     <StartTime>18:20</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -1277,7 +1277,7 @@
   <Event>
     <Date>21/02/2026</Date>
     <StartTime>07:55</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -1290,7 +1290,7 @@
   <Event>
     <Date>21/02/2026</Date>
     <StartTime>08:15</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -1303,7 +1303,7 @@
   <Event>
     <Date>21/02/2026</Date>
     <StartTime>10:45</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -1316,7 +1316,7 @@
   <Event>
     <Date>21/02/2026</Date>
     <StartTime>13:15</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -1381,7 +1381,7 @@
   <Event>
     <Date>21/02/2026</Date>
     <StartTime>23:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -1446,7 +1446,7 @@
   <Event>
     <Date>22/02/2026</Date>
     <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
@@ -1459,7 +1459,7 @@
   <Event>
     <Date>22/02/2026</Date>
     <StartTime>07:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -1589,7 +1589,7 @@
   <Event>
     <Date>23/02/2026</Date>
     <StartTime>07:05</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
@@ -1602,7 +1602,7 @@
   <Event>
     <Date>23/02/2026</Date>
     <StartTime>07:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Mountain Biking</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
@@ -1706,7 +1706,7 @@
   <Event>
     <Date>23/02/2026</Date>
     <StartTime>20:30</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -1732,7 +1732,7 @@
   <Event>
     <Date>24/02/2026</Date>
     <StartTime>01:30</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -1810,7 +1810,7 @@
   <Event>
     <Date>24/02/2026</Date>
     <StartTime>16:20</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -1836,7 +1836,7 @@
   <Event>
     <Date>24/02/2026</Date>
     <StartTime>19:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -1888,7 +1888,7 @@
   <Event>
     <Date>25/02/2026</Date>
     <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
     <Season>2025</Season>
@@ -1901,7 +1901,7 @@
   <Event>
     <Date>25/02/2026</Date>
     <StartTime>07:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -1992,7 +1992,7 @@
   <Event>
     <Date>25/02/2026</Date>
     <StartTime>20:25</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -2057,7 +2057,7 @@
   <Event>
     <Date>26/02/2026</Date>
     <StartTime>07:50</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -2070,7 +2070,7 @@
   <Event>
     <Date>26/02/2026</Date>
     <StartTime>10:20</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -2239,7 +2239,7 @@
   <Event>
     <Date>27/02/2026</Date>
     <StartTime>12:55</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -2252,7 +2252,7 @@
   <Event>
     <Date>27/02/2026</Date>
     <StartTime>13:15</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
     <Season>2026</Season>
@@ -2265,7 +2265,7 @@
   <Event>
     <Date>27/02/2026</Date>
     <StartTime>15:45</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -2291,7 +2291,7 @@
   <Event>
     <Date>27/02/2026</Date>
     <StartTime>20:35</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
@@ -2304,7 +2304,7 @@
   <Event>
     <Date>27/02/2026</Date>
     <StartTime>21:10</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Mountain Biking</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
@@ -2343,7 +2343,7 @@
   <Event>
     <Date>28/02/2026</Date>
     <StartTime>01:40</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
     <Season>2025</Season>
@@ -2369,7 +2369,7 @@
   <Event>
     <Date>28/02/2026</Date>
     <StartTime>07:05</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
     <Season>2025</Season>
@@ -2421,7 +2421,7 @@
   <Event>
     <Date>28/02/2026</Date>
     <StartTime>13:15</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
     <Season>2026</Season>
@@ -2486,7 +2486,7 @@
   <Event>
     <Date>01/03/2026</Date>
     <StartTime>01:50</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
+    <PrimaryGenre>Mountain Biking</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
     <Season>2025</Season>
@@ -2551,7 +2551,7 @@
   <Event>
     <Date>01/03/2026</Date>
     <StartTime>13:35</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
     <Season>2026</Season>
@@ -2590,7 +2590,7 @@
   <Event>
     <Date>01/03/2026</Date>
     <StartTime>19:35</StartTime>
-    <PrimaryGenre>Cycling</PrimaryGenre>
+    <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
     <Season>2025</Season>
