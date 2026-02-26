@@ -128,15 +128,12 @@
             line-height: 1.4;
         }
 
+        /* Container til fold-ud området */
         .long-description {
             display: none;
             margin-top: 15px;
             padding-top: 15px;
             border-top: 1px solid #eee;
-            /* NY ÆNDRING: Sat til 0.9em for at matche den korte beskrivelse */
-            font-size: 0.9em; 
-            color: #333;
-            line-height: 1.5;
             animation: fadeIn 0.3s ease-in-out;
         }
 
@@ -145,8 +142,27 @@
             to { opacity: 1; }
         }
 
+        /* Når kortet udvides: brug Flexbox til at placere billede og tekst pænt ved siden af hinanden */
         .program-card.expanded .long-description {
-            display: block;
+            display: flex;
+            gap: 15px; /* Luft mellem billede og tekst */
+            align-items: flex-start;
+        }
+
+        /* Styling til programmets billede */
+        .program-thumbnail {
+            width: 140px; /* Fast bredde på desktop */
+            height: auto;
+            border-radius: 6px;
+            flex-shrink: 0; /* Sikrer at billedet ikke trykkes sammen */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        /* Styling til selve fold-ud teksten */
+        .long-description-text {
+            font-size: 0.9em; 
+            color: #333;
+            line-height: 1.5;
         }
 
         .status-badge {
@@ -181,12 +197,22 @@
             border-color: #dd5f12;
         }
 
+        /* Mobil-justeringer */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
             .time-col { margin-bottom: 5px; text-align: left; }
             .content-col { padding: 0; margin-bottom: 10px; }
             .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; }
             .expand-icon { top: 15px; right: 15px; }
+            
+            /* Sørg for at billede og tekst stakkes over hinanden på små skærme */
+            .program-card.expanded .long-description {
+                flex-direction: column;
+            }
+            .program-thumbnail {
+                width: 100%;
+                max-width: 250px; /* Lidt større billede på mobil, da det er for sig selv */
+            }
         }
     </style>
 </head>
@@ -257,7 +283,10 @@
                     const epTitle = getTagValue(event, 'EpisodeTitle');
                     const status = getTagValue(event, 'Status');
                     const desc = getTagValue(event, 'ShortDescription');
+                    
+                    // Hent både den lange tekst og billedets URL fra XML
                     const longDesc = getTagValue(event, 'LongDescription');
+                    const stillUrl = getTagValue(event, 'StillSceneUrl');
 
                     // Beregn Broadcast Date (TV-døgn 06-06)
                     const broadcastDateObj = getBroadcastDate(rawDate, time);
@@ -294,7 +323,17 @@
                     let titleHtml = `<div class="title">${title}</div>`;
                     let epHtml = epTitle ? `<div class="episode">${epTitle}</div>` : '';
                     let descHtml = desc ? `<div class="description">${desc}</div>` : '';
-                    let longDescHtml = longDesc ? `<div class="long-description">${longDesc}</div>` : '';
+                    
+                    // Sammensæt fold-ud indholdet med billede og tekst
+                    let longDescContent = '';
+                    if (stillUrl) {
+                        longDescContent += `<img src="${stillUrl}" class="program-thumbnail" alt="Programbillede">`;
+                    }
+                    if (longDesc) {
+                        longDescContent += `<div class="long-description-text">${longDesc}</div>`;
+                    }
+                    
+                    let longDescHtml = longDescContent ? `<div class="long-description">${longDescContent}</div>` : '';
 
                     contentDiv.innerHTML = `${genreHtml}${titleHtml}${epHtml}${descHtml}${longDescHtml}`;
 
