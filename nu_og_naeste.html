@@ -17,14 +17,13 @@
             padding: 10px;
         }
 
-        /* NYT: Containeren er nu et link. Vi fjerner understregning og standard link-farve */
         .widget-container {
             display: flex;
             flex-direction: row; 
             gap: 15px; 
-            text-decoration: none; /* Fjerner streg under teksten */
-            color: inherit; /* Beholder den hvide farve */
-            cursor: pointer; /* Viser en 'hånd', når man holder musen over */
+            text-decoration: none; 
+            color: inherit; 
+            cursor: pointer; 
         }
 
         .program-box {
@@ -37,16 +36,14 @@
             flex-direction: column;
             flex: 1; 
             min-width: 0; 
-            transition: transform 0.2s, box-shadow 0.2s; /* Lægger animation på boksen */
+            transition: transform 0.2s, box-shadow 0.2s; 
         }
 
-        /* Gør at boksene løfter sig lidt, når man holder musen over (viser de kan klikkes) */
         .widget-container:hover .program-box {
             transform: translateY(-2px);
             box-shadow: 0 4px 10px rgba(0,0,0,0.5);
         }
 
-        /* Farvekoder på kanten */
         .box-now { border-left-color: #e74c3c; }
         .box-next { border-left-color: #dd5f12; }
 
@@ -155,7 +152,9 @@
             </div>
         </div>
         
-    </a> <script>
+    </a> 
+
+    <script>
         const XML_FILENAME = 'sportlive_program.xml';
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -185,12 +184,14 @@
             let events = eventNodes.map(node => {
                 const dateStr = getTagValue(node, 'Date');
                 const timeStr = getTagValue(node, 'StartTime');
+                const genre = getTagValue(node, 'PrimaryGenre'); // NYT: Hent genren
                 const title = getTagValue(node, 'Title');
                 const epTitle = getTagValue(node, 'EpisodeTitle');
                 
                 const parsedDate = parseDateTime(dateStr, timeStr);
 
                 return {
+                    genre: genre, // NYT: Gem genren
                     title: title,
                     epTitle: epTitle,
                     timeString: timeStr,
@@ -214,19 +215,31 @@
             }
 
             document.getElementById('loading').style.display = 'none';
-            document.getElementById('widget-container').style.display = 'flex'; // Viser nu <a>-tagget
+            document.getElementById('widget-container').style.display = 'flex'; 
 
             if (currentIndex !== -1) {
                 const currentProgram = events[currentIndex];
                 const nextProgram = (currentIndex + 1 < events.length) ? events[currentIndex + 1] : null;
 
+                // NYT: Formater titlen med genre for "Lige nu"
+                let nowDisplayTitle = currentProgram.title;
+                if (currentProgram.genre && currentProgram.genre.trim() !== '') {
+                    nowDisplayTitle = currentProgram.genre + ": " + currentProgram.title;
+                }
+
                 document.getElementById('now-time').textContent = currentProgram.timeString;
-                document.getElementById('now-title').textContent = currentProgram.title;
+                document.getElementById('now-title').textContent = nowDisplayTitle;
                 document.getElementById('now-episode').textContent = currentProgram.epTitle;
 
                 if (nextProgram) {
+                    // NYT: Formater titlen med genre for "Næste"
+                    let nextDisplayTitle = nextProgram.title;
+                    if (nextProgram.genre && nextProgram.genre.trim() !== '') {
+                        nextDisplayTitle = nextProgram.genre + ": " + nextProgram.title;
+                    }
+
                     document.getElementById('next-time').textContent = nextProgram.timeString;
-                    document.getElementById('next-title').textContent = nextProgram.title;
+                    document.getElementById('next-title').textContent = nextDisplayTitle;
                     document.getElementById('next-episode').textContent = nextProgram.epTitle;
                 } else {
                     document.getElementById('next-time').textContent = "";
@@ -235,7 +248,6 @@
                 }
             } else {
                 document.getElementById('widget-container').innerHTML = "<p style='text-align:center;'>Programoversigten opdateres...</p>";
-                // Fjerner link-adfærd, hvis der alligevel ikke er noget program
                 document.getElementById('widget-container').removeAttribute('href');
                 document.getElementById('widget-container').style.cursor = 'default';
             }
