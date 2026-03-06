@@ -11,7 +11,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #2b2b2b; /* Matcher jeres Wix baggrund */
+            background-color: #2b2b2b;
             color: #ffffff;
             margin: 0;
             padding: 10px;
@@ -130,8 +130,8 @@
     
     <a href="https://www.sport-live.dk/programoversigt" target="_top" class="widget-container" id="widget-container" style="display: none;">
         
-        <div class="program-box box-now">
-            <div class="label label-now"><span class="live-dot"></span> Lige nu</div>
+        <div class="program-box box-now" id="box-now">
+            <div class="label label-now" id="label-now"><span class="live-dot" id="live-dot"></span> Lige nu</div>
             <div class="program-info">
                 <div class="time" id="now-time">--:--</div>
                 <div class="details">
@@ -141,7 +141,7 @@
             </div>
         </div>
 
-        <div class="program-box box-next">
+        <div class="program-box box-next" id="box-next">
             <div class="label label-next">Næste</div>
             <div class="program-info">
                 <div class="time" id="next-time">--:--</div>
@@ -156,8 +156,20 @@
 
     <script>
         const XML_FILENAME = 'sportlive_program.xml';
+        const REFRESH_INTERVAL_MINUTES = 3; // Opdateringsfrekvens sat til 3 minutter
 
         document.addEventListener('DOMContentLoaded', () => {
+            // Hent data med det samme når siden åbnes (vis loading tekst)
+            fetchAndProcessData(true);
+            
+            // Sæt uret igang - kør funktionen i baggrunden hvert 3. minut (skjult)
+            setInterval(() => {
+                fetchAndProcessData(false);
+            }, REFRESH_INTERVAL_MINUTES * 60 * 1000);
+        });
+
+        // Pakket ind i en funktion, så den kan kaldes igen og igen
+        function fetchAndProcessData(isInitialLoad) {
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
             fetch(urlWithCacheBuster)
@@ -167,12 +179,15 @@
                 })
                 .then(xmlString => processWidgetData(xmlString))
                 .catch(error => {
-                    document.getElementById('loading').style.display = 'none';
-                    const errorDiv = document.getElementById('error-message');
-                    errorDiv.style.display = 'block';
-                    errorDiv.textContent = "Der opstod en fejl: " + error.message;
+                    if (isInitialLoad) {
+                        document.getElementById('loading').style.display = 'none';
+                        const errorDiv = document.getElementById('error-message');
+                        errorDiv.style.display = 'block';
+                        errorDiv.textContent = "Der opstod en fejl: " + error.message;
+                    }
+                    console.error("Fetch error:", error);
                 });
-        });
+        }
 
         function processWidgetData(xmlString) {
             const parser = new DOMParser();
@@ -184,14 +199,14 @@
             let events = eventNodes.map(node => {
                 const dateStr = getTagValue(node, 'Date');
                 const timeStr = getTagValue(node, 'StartTime');
-                const genre = getTagValue(node, 'PrimaryGenre'); // NYT: Hent genren
+                const genre = getTagValue(node, 'PrimaryGenre');
                 const title = getTagValue(node, 'Title');
                 const epTitle = getTagValue(node, 'EpisodeTitle');
                 
                 const parsedDate = parseDateTime(dateStr, timeStr);
 
                 return {
-                    genre: genre, // NYT: Gem genren
+                    genre: genre,
                     title: title,
                     epTitle: epTitle,
                     timeString: timeStr,
@@ -215,29 +230,57 @@
             }
 
             document.getElementById('loading').style.display = 'none';
-            document.getElementById('widget-container').style.display = 'flex'; 
+            const widgetContainer = document.getElementById('widget-container');
+            widgetContainer.style.display = 'flex'; 
+
+            // Nulstil alt til standard "Live" tilstand, så det kan "vågne op" efter en nattepause
+            document.getElementById('live-dot').style.display = 'inline-block';
+            document.getElementById('box-now').style.borderLeftColor = "#e74c3c";
+            document.getElementById('label-now').style.color = "#e74c3c";
+            widgetContainer.setAttribute('href', 'https://www.sport-live.dk/programoversigt');
+            widgetContainer.style.cursor = 'pointer';
 
             if (currentIndex !== -1) {
                 const currentProgram = events[currentIndex];
                 const nextProgram = (currentIndex + 1 < events.length) ? events[currentIndex + 1] : null;
 
-                // NYT: Formater titlen med genre for "Lige nu"
-                let nowDisplayTitle = currentProgram.title;
-                if (currentProgram.genre && currentProgram.genre.trim() !== '') {
-                    nowDisplayTitle = currentProgram.genre + ": " + currentProgram.title;
+                let isOffAir = false;
+                const timeSinceStart = now - currentProgram.timestamp;
+                
+                if (currentProgram.title.toLowerCase().includes('godnat')) {
+                    const godnatDurationMs = 2 * 60 * 1000; 
+                    if (timeSinceStart > godnatDurationMs) isOffAir = true;
+                } else {
+                    const maxNormalDurationMs = 8 * 60 * 60 * 1000;
+                    if (timeSinceStart > maxNormalDurationMs) isOffAir = true;
                 }
 
-                document.getElementById('now-time').textContent = currentProgram.timeString;
-                document.getElementById('now-title').textContent = nowDisplayTitle;
-                document.getElementById('now-episode').textContent = currentProgram.epTitle;
+                if (isOffAir) {
+                    // Nattepause
+                    document.getElementById('now-time').textContent = "--:--";
+                    document.getElementById('now-title').textContent = "Ingen programmer lige nu";
+                    document.getElementById('now-episode').textContent = "SPORT LIVE sender igen senere";
+                    
+                    document.getElementById('live-dot').style.display = 'none';
+                    document.getElementById('box-now').style.borderLeftColor = "#555";
+                    document.getElementById('label-now').style.color = "#aaa";
+                } else {
+                    // Lige nu (Aktivt program)
+                    let nowDisplayTitle = currentProgram.title;
+                    if (currentProgram.genre && currentProgram.genre.trim() !== '') {
+                        nowDisplayTitle = currentProgram.genre + ": " + currentProgram.title;
+                    }
+                    document.getElementById('now-time').textContent = currentProgram.timeString;
+                    document.getElementById('now-title').textContent = nowDisplayTitle;
+                    document.getElementById('now-episode').textContent = currentProgram.epTitle;
+                }
 
+                // Næste
                 if (nextProgram) {
-                    // NYT: Formater titlen med genre for "Næste"
                     let nextDisplayTitle = nextProgram.title;
                     if (nextProgram.genre && nextProgram.genre.trim() !== '') {
                         nextDisplayTitle = nextProgram.genre + ": " + nextProgram.title;
                     }
-
                     document.getElementById('next-time').textContent = nextProgram.timeString;
                     document.getElementById('next-title').textContent = nextDisplayTitle;
                     document.getElementById('next-episode').textContent = nextProgram.epTitle;
@@ -247,9 +290,21 @@
                     document.getElementById('next-episode').textContent = "";
                 }
             } else {
-                document.getElementById('widget-container').innerHTML = "<p style='text-align:center;'>Programoversigten opdateres...</p>";
-                document.getElementById('widget-container').removeAttribute('href');
-                document.getElementById('widget-container').style.cursor = 'default';
+                // Ingen programmer i kalenderen overhovedet
+                document.getElementById('now-time').textContent = "--:--";
+                document.getElementById('now-title').textContent = "Ingen programmer lige nu";
+                document.getElementById('now-episode').textContent = "Programoversigten opdateres...";
+                
+                document.getElementById('live-dot').style.display = 'none';
+                document.getElementById('box-now').style.borderLeftColor = "#555";
+                document.getElementById('label-now').style.color = "#aaa";
+
+                document.getElementById('next-time').textContent = "";
+                document.getElementById('next-title').textContent = "Ingen yderligere programmer";
+                document.getElementById('next-episode').textContent = "";
+                
+                widgetContainer.removeAttribute('href');
+                widgetContainer.style.cursor = 'default';
             }
         }
 
