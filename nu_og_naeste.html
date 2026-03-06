@@ -14,52 +14,51 @@
             background-color: #2b2b2b; /* Matcher jeres Wix baggrund */
             color: #ffffff;
             margin: 0;
-            padding: 10px; /* Lidt luft rundt om widgettet */
+            padding: 10px;
         }
 
+        /* NYT: Side om side layout */
         .widget-container {
             display: flex;
-            flex-direction: column;
-            gap: 15px; /* Luft mellem Lige Nu og Næste */
+            flex-direction: row; 
+            gap: 15px; 
         }
 
+        /* NYT: Hver boks fylder præcis 50% og har mindre luft */
         .program-box {
-            background-color: #383838; /* Lidt lysere grå end baggrunden for at skabe en boks */
+            background-color: #383838; 
             border-radius: 8px;
-            padding: 15px;
+            padding: 10px 12px; 
             border-left: 5px solid transparent;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
             display: flex;
             flex-direction: column;
+            flex: 1; 
+            min-width: 0; 
         }
 
-        /* Lige Nu boksen får en rød kant, Næste får den orange */
-        .box-now {
-            border-left-color: #e74c3c; 
-        }
+        /* Farvekoder på kanten */
+        .box-now { border-left-color: #e74c3c; }
+        .box-next { border-left-color: #dd5f12; }
 
-        .box-next {
-            border-left-color: #dd5f12;
-        }
-
+        /* NYT: Mindre skriftstørrelser */
         .label {
-            font-size: 0.8em;
+            font-size: 0.75em; 
             font-weight: bold;
             text-transform: uppercase;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
             letter-spacing: 1px;
             display: flex;
             align-items: center;
             gap: 5px;
         }
 
-        .label-now { color: #e74c3c; } /* Rød tekst til Lige nu */
-        .label-next { color: #dd5f12; } /* Orange tekst til Næste */
+        .label-now { color: #e74c3c; } 
+        .label-next { color: #dd5f12; } 
 
-        /* Den lille blinkende røde prik til "Lige nu" */
         .live-dot {
-            width: 8px;
-            height: 8px;
+            width: 7px;
+            height: 7px;
             background-color: #e74c3c;
             border-radius: 50%;
             display: inline-block;
@@ -75,38 +74,49 @@
         .program-info {
             display: flex;
             align-items: baseline;
-            gap: 10px;
+            gap: 8px;
         }
 
+        /* NYT: Mindre tekst til klokkeslæt og titler */
         .time {
-            font-size: 1.1em;
+            font-size: 1.0em; 
             font-weight: bold;
             color: #aaaaaa;
-            min-width: 50px;
+            min-width: 45px; 
         }
 
         .details {
             flex: 1;
+            word-wrap: break-word;
         }
 
         .title {
-            font-size: 1.1em;
+            font-size: 1.0em; 
             font-weight: bold;
             color: #ffffff;
-            margin: 0 0 3px 0;
+            margin: 0 0 2px 0;
+            line-height: 1.2;
         }
 
         .episode {
-            font-size: 0.9em;
+            font-size: 0.85em; 
             color: #bbbbbb;
             margin: 0;
+            line-height: 1.2;
         }
 
         #loading, #error-message {
             text-align: center;
             color: #aaa;
-            font-size: 0.9em;
-            padding: 20px 0;
+            font-size: 0.85em;
+            padding: 15px 0;
+        }
+
+        /* NYT: Responsivt design - sætter boksene over hinanden på mobiler */
+        @media (max-width: 500px) {
+            .widget-container {
+                flex-direction: column;
+            }
         }
     </style>
 </head>
@@ -185,7 +195,7 @@
                 };
             });
 
-            // Sorter listen kronologisk for en sikkerheds skyld
+            // Sorter listen kronologisk for at være helt sikker på rækkefølgen
             events.sort((a, b) => a.timestamp - b.timestamp);
 
             // 2. Find det nuværende tidspunkt
@@ -196,10 +206,8 @@
             // 3. Find det program, der er i gang lige nu
             for (let i = 0; i < events.length; i++) {
                 const eventTime = events[i].timestamp;
-                // Tidspunkt for hvornår NÆSTE program starter (hvis det findes)
                 const nextEventTime = (i + 1 < events.length) ? events[i + 1].timestamp : Infinity;
 
-                // Hvis programmet er startet, og det næste IKKE er startet endnu, så er det dette program, der kører nu
                 if (now >= eventTime && now < nextEventTime) {
                     currentIndex = i;
                     break;
@@ -231,8 +239,8 @@
                     document.getElementById('next-episode').textContent = "";
                 }
             } else {
-                // Hvis vi er uden for programoversigtens tidsrum (f.eks. for gammel XML)
-                document.getElementById('widget-container').innerHTML = "<p style='text-align:center;'>Programoversigten er ikke tilgængelig lige nu.</p>";
+                // Hvis vi er uden for programoversigtens tidsrum
+                document.getElementById('widget-container').innerHTML = "<p style='text-align:center;'>Programoversigten opdateres...</p>";
             }
         }
 
