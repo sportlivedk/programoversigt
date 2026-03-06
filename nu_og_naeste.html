@@ -17,14 +17,16 @@
             padding: 10px;
         }
 
-        /* NYT: Side om side layout */
+        /* NYT: Containeren er nu et link. Vi fjerner understregning og standard link-farve */
         .widget-container {
             display: flex;
             flex-direction: row; 
             gap: 15px; 
+            text-decoration: none; /* Fjerner streg under teksten */
+            color: inherit; /* Beholder den hvide farve */
+            cursor: pointer; /* Viser en 'hånd', når man holder musen over */
         }
 
-        /* NYT: Hver boks fylder præcis 50% og har mindre luft */
         .program-box {
             background-color: #383838; 
             border-radius: 8px;
@@ -35,13 +37,19 @@
             flex-direction: column;
             flex: 1; 
             min-width: 0; 
+            transition: transform 0.2s, box-shadow 0.2s; /* Lægger animation på boksen */
+        }
+
+        /* Gør at boksene løfter sig lidt, når man holder musen over (viser de kan klikkes) */
+        .widget-container:hover .program-box {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
         }
 
         /* Farvekoder på kanten */
         .box-now { border-left-color: #e74c3c; }
         .box-next { border-left-color: #dd5f12; }
 
-        /* NYT: Mindre skriftstørrelser */
         .label {
             font-size: 0.75em; 
             font-weight: bold;
@@ -77,7 +85,6 @@
             gap: 8px;
         }
 
-        /* NYT: Mindre tekst til klokkeslæt og titler */
         .time {
             font-size: 1.0em; 
             font-weight: bold;
@@ -112,7 +119,6 @@
             padding: 15px 0;
         }
 
-        /* NYT: Responsivt design - sætter boksene over hinanden på mobiler */
         @media (max-width: 500px) {
             .widget-container {
                 flex-direction: column;
@@ -125,7 +131,8 @@
     <div id="loading">Henter program...</div>
     <div id="error-message" style="display: none; color: #e74c3c;"></div>
     
-    <div class="widget-container" id="widget-container" style="display: none;">
+    <a href="https://www.sport-live.dk/programoversigt" target="_top" class="widget-container" id="widget-container" style="display: none;">
+        
         <div class="program-box box-now">
             <div class="label label-now"><span class="live-dot"></span> Lige nu</div>
             <div class="program-info">
@@ -147,10 +154,8 @@
                 </div>
             </div>
         </div>
-    </div>
-
-    <script>
-        // Navnet på din XML fil på GitHub
+        
+    </a> <script>
         const XML_FILENAME = 'sportlive_program.xml';
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -177,14 +182,12 @@
 
             if (eventNodes.length === 0) throw new Error("Programmet er tomt.");
 
-            // 1. Gennemgå alle programmer og omregn deres dato/tid til et rigtigt JavaScript tidsstempel
             let events = eventNodes.map(node => {
                 const dateStr = getTagValue(node, 'Date');
                 const timeStr = getTagValue(node, 'StartTime');
                 const title = getTagValue(node, 'Title');
                 const epTitle = getTagValue(node, 'EpisodeTitle');
                 
-                // Konverter "DD/MM/YYYY" og "HH:MM" til et JavaScript Date objekt
                 const parsedDate = parseDateTime(dateStr, timeStr);
 
                 return {
@@ -195,15 +198,11 @@
                 };
             });
 
-            // Sorter listen kronologisk for at være helt sikker på rækkefølgen
             events.sort((a, b) => a.timestamp - b.timestamp);
 
-            // 2. Find det nuværende tidspunkt
             const now = new Date().getTime();
-            
             let currentIndex = -1;
 
-            // 3. Find det program, der er i gang lige nu
             for (let i = 0; i < events.length; i++) {
                 const eventTime = events[i].timestamp;
                 const nextEventTime = (i + 1 < events.length) ? events[i + 1].timestamp : Infinity;
@@ -214,21 +213,17 @@
                 }
             }
 
-            // Skjul loading tekst og vis widget
             document.getElementById('loading').style.display = 'none';
-            document.getElementById('widget-container').style.display = 'flex';
+            document.getElementById('widget-container').style.display = 'flex'; // Viser nu <a>-tagget
 
-            // 4. Indsæt data i HTML'en
             if (currentIndex !== -1) {
                 const currentProgram = events[currentIndex];
                 const nextProgram = (currentIndex + 1 < events.length) ? events[currentIndex + 1] : null;
 
-                // Opdater "Lige Nu"
                 document.getElementById('now-time').textContent = currentProgram.timeString;
                 document.getElementById('now-title').textContent = currentProgram.title;
                 document.getElementById('now-episode').textContent = currentProgram.epTitle;
 
-                // Opdater "Næste" (hvis der er et)
                 if (nextProgram) {
                     document.getElementById('next-time').textContent = nextProgram.timeString;
                     document.getElementById('next-title').textContent = nextProgram.title;
@@ -239,18 +234,18 @@
                     document.getElementById('next-episode').textContent = "";
                 }
             } else {
-                // Hvis vi er uden for programoversigtens tidsrum
                 document.getElementById('widget-container').innerHTML = "<p style='text-align:center;'>Programoversigten opdateres...</p>";
+                // Fjerner link-adfærd, hvis der alligevel ikke er noget program
+                document.getElementById('widget-container').removeAttribute('href');
+                document.getElementById('widget-container').style.cursor = 'default';
             }
         }
 
-        // Hjælpefunktion: Hent værdi fra XML
         function getTagValue(parent, tagName) {
             const element = parent.getElementsByTagName(tagName)[0];
             return element ? element.textContent : '';
         }
 
-        // Hjælpefunktion: Omdan "DD/MM/YYYY" og "HH:MM" til præcis tidsstempel
         function parseDateTime(dateStr, timeStr) {
             const [day, month, year] = dateStr.split('/').map(Number);
             const [hour, minute] = timeStr.split(':').map(Number);
