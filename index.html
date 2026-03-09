@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPORT LIVE Programoversigt</title>
+    <title>Programoversigt</title>
     <style>
         /* Sikrer at bredden beregnes ens for alle elementer */
         * {
@@ -145,16 +145,16 @@
         /* Når kortet udvides: brug Flexbox til at placere billede og tekst pænt ved siden af hinanden */
         .program-card.expanded .long-description {
             display: flex;
-            gap: 15px; /* Luft mellem billede og tekst */
+            gap: 15px;
             align-items: flex-start;
         }
 
         /* Styling til programmets billede */
         .program-thumbnail {
-            width: 140px; /* Fast bredde på desktop */
+            width: 140px;
             height: auto;
             border-radius: 6px;
-            flex-shrink: 0; /* Sikrer at billedet ikke trykkes sammen */
+            flex-shrink: 0;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
@@ -205,13 +205,12 @@
             .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; }
             .expand-icon { top: 15px; right: 15px; }
             
-            /* Sørg for at billede og tekst stakkes over hinanden på små skærme */
             .program-card.expanded .long-description {
                 flex-direction: column;
             }
             .program-thumbnail {
                 width: 100%;
-                max-width: 250px; /* Lidt større billede på mobil, da det er for sig selv */
+                max-width: 250px;
             }
         }
     </style>
@@ -271,25 +270,46 @@
                     throw new Error("XML-filen er tom eller indeholder ingen 'Event' elementer.");
                 }
 
+                // --- NY LOGIK TIL AT FILTRERE GAMLE DAGE FRA ---
+                const now = new Date();
+                // Opret et dato-objekt for præcis i dag, nulstillet til midnat
+                const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                
+                // Hvis klokken er før 06:00 om morgenen, tilhører vi "i går" tv-mæssigt
+                if (now.getHours() < 6) {
+                    currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
+                }
+                const currentBroadcastTimestamp = currentBroadcastDate.getTime();
+                // -----------------------------------------------
+
                 if(loadingText) loadingText.style.display = 'none';
 
                 let currentDisplayDate = '';
+                let renderedEventsCount = 0; // Holder øje med, om vi får vist nogen events i alt
 
                 events.forEach(event => {
                     const rawDate = getTagValue(event, 'Date');
                     const time = getTagValue(event, 'StartTime');
+                    
+                    // Beregn Programmets Broadcast Date (TV-døgn 06-06)
+                    const broadcastDateObj = getBroadcastDate(rawDate, time);
+
+                    // SPRING PROGRAMMET OVER, hvis tv-datoen er ældre end i dag
+                    if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
+                        return; // return fungerer ligesom 'continue' inde i en forEach-løkke
+                    }
+
+                    renderedEventsCount++; // Vi har nu et gyldigt program at vise
+
                     const genre = getTagValue(event, 'PrimaryGenre');
                     const title = getTagValue(event, 'Title');
                     const epTitle = getTagValue(event, 'EpisodeTitle');
                     const status = getTagValue(event, 'Status');
                     const desc = getTagValue(event, 'ShortDescription');
                     
-                    // Hent både den lange tekst og billedets URL fra XML
                     const longDesc = getTagValue(event, 'LongDescription');
                     const stillUrl = getTagValue(event, 'StillSceneUrl');
 
-                    // Beregn Broadcast Date (TV-døgn 06-06)
-                    const broadcastDateObj = getBroadcastDate(rawDate, time);
                     const broadcastDateString = formatDateStandard(broadcastDateObj);
 
                     if (broadcastDateString !== currentDisplayDate) {
@@ -324,7 +344,6 @@
                     let epHtml = epTitle ? `<div class="episode">${epTitle}</div>` : '';
                     let descHtml = desc ? `<div class="description">${desc}</div>` : '';
                     
-                    // Sammensæt fold-ud indholdet med billede og tekst
                     let longDescContent = '';
                     if (stillUrl) {
                         longDescContent += `<img src="${stillUrl}" class="program-thumbnail" alt="Programbillede">`;
@@ -351,6 +370,11 @@
 
                     container.appendChild(card);
                 });
+
+                // Hvis ingen programmer blev vist (f.eks. fordi XML'en ikke er blevet opdateret endnu)
+                if (renderedEventsCount === 0) {
+                    container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
+                }
 
             } catch (innerError) {
                 if(loadingText) loadingText.style.display = 'none';
