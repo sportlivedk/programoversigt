@@ -1,162 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Como-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
-    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>09:15</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Pokalfinale</Title>
-    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
-    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
-    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>11:30</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Davis Cup</Title>
-    <EpisodeTitle>Mektic/Pavić-Ingildsen/Overbeck</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
-    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>13:00</StartTime>
-    <PrimaryGenre>Cykling</PrimaryGenre>
-    <Title>Bording Cup</Title>
-    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12434-a0cea12a-42ea-4435-838e-750b4f0cfa6f.jpg?temp_url_sig=7a6ac9d3b59f2b6007bb756ef658cdfd256cbf25&amp;temp_url_expires=4927793818</StillSceneUrl>
-    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
-    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>13:30</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Braga-Sporting</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Sporting møder Braga i 25. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Sporting Clube de Portugal møder på udebane Sporting Clube de Braga i 25. spillerunde af Liga Portugal på Estádio Municipal de Braga. Kommentator: Henrik Hvillum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>15:35</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 7</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>7</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>16:40</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Horsens IC</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Team FOG Næstved får besøg af Horsens IC i Basketligaen.</ShortDescription>
-    <LongDescription>Team FOG Næstved får besøg af Horsens IC i Basketligaens mesterskabsspil. Kampen finder sted i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>18:55</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Gentofte Fjordbold-Albertslund IF</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den første af to kvartfinaler i Futsal Ligaen mellem Gentofte Fjordbold og Albertslund.</ShortDescription>
-    <LongDescription>I den første af to kvartfinalekampe i Futsal Ligaen mødes Gentofte Fjordbold og Albertslund IF i Frederikssund Hallerne. Kommentatorer: Mads Knudsen og Clement Cliford.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>21:10</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Georgien-Danmark</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Georgien i Tbilisi Arena.</ShortDescription>
-    <LongDescription>I den fjerde af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Georgien til returkamp på udebane i Tbilisi Arena. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/03/2026</Date>
-    <StartTime>23:15</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Billie Jean King Cup</Title>
-    <EpisodeTitle>Johanne Svendsen-Victoria Mboko</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12690-578ff6e4-66a8-4d32-a70f-e6efa9c2a8ee.jpg?temp_url_sig=da610e6ff725bce91888ae966f8328a78215fbed&amp;temp_url_expires=4927877298</StillSceneUrl>
-    <ShortDescription>Playoff-kamp i Billie Jean King Cup mellem Danmark og Canada.</ShortDescription>
-    <LongDescription>Johanne Svendsen møder Victoria Mboko fra Canada i Billie Jean King Cup playoff-gruppe A i Club Sonoma i den mexicanske millionby Monterrey. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/03/2026</Date>
-    <StartTime>00:50</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Billie Jean King Cup</Title>
-    <EpisodeTitle>Svendsen/Kamper-Dabrowski/Mboko</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12690-578ff6e4-66a8-4d32-a70f-e6efa9c2a8ee.jpg?temp_url_sig=da610e6ff725bce91888ae966f8328a78215fbed&amp;temp_url_expires=4927877298</StillSceneUrl>
-    <ShortDescription>Playoff-kamp i Billie Jean King Cup mellem Danmark og Canada.</ShortDescription>
-    <LongDescription>Johanne Svendsen og Emma Kamper møder Gabriela Dabrowski og Victoria Mboko fra Canada i Billie Jean King Cup playoff-gruppe A i Club Sonoma i den mexicanske millionby Monterrey. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/03/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>09/03/2026</Date>
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
@@ -509,7 +353,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
@@ -522,7 +366,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -535,7 +379,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Braga-Sporting</EpisodeTitle>
@@ -548,7 +392,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Horsens IC</EpisodeTitle>
@@ -561,7 +405,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -574,7 +418,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -587,7 +431,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Nordmakedonien-Danmark</EpisodeTitle>
@@ -600,7 +444,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
@@ -613,7 +457,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Gentofte Fjordbold-Albertslund IF</EpisodeTitle>
@@ -626,7 +470,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Amerikansk fodbold</PrimaryGenre>
     <Title>Mermaid Bowl</Title>
     <EpisodeTitle>Aalborg 89ers-Søllerød Gold Diggers</EpisodeTitle>
@@ -639,7 +483,7 @@
   </Event>
   <Event>
     <Date>12/03/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -652,7 +496,7 @@
   </Event>
   <Event>
     <Date>12/03/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1042,14 +886,14 @@
   </Event>
   <Event>
     <Date>14/03/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Kroatien</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
@@ -1179,7 +1023,7 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
@@ -1530,7 +1374,7 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
@@ -2050,7 +1894,7 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
@@ -2193,7 +2037,7 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
