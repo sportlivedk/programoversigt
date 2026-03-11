@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EPG>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Cykling</PrimaryGenre>
+    <Title>Tour de La Provence</Title>
+    <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
+    <ShortDescription>Første etape af Tour de La Provence fra Marseille til Saint-Victoret.</ShortDescription>
+    <LongDescription>Første etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 168,82 kilometer lang rute fra Marseille til Saint-Victoret. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>09:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>10:00</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>12:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>13:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>13:40</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>14:05</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting møder Alverca i 27. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>16:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Bakken Bears møder Team FOG Næstved i Basketligaen.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Bakken Bears får besøg af Team FOG Næstved i Basketligaens mesterskabsspil. Kampen finder sted i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Jeppe Martinusen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>18:35</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>19:35</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Den første af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Den første af tre mulige semifinaler i Futsal Ligaen. Yderligere information offentliggøres senere.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/03/2026</Date>
+    <StartTime>21:50</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Thessaloniki mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>00:05</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>00:45</StartTime>
+    <PrimaryGenre>Poker</PrimaryGenre>
+    <Title>DM i poker</Title>
+    <EpisodeTitle>DM 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12543-b27091ad-94b3-44ed-a3c1-31223f5757ab.jpg?temp_url_sig=7bacba3c8d2d9aae60653f07afc13d25c368067a&amp;temp_url_expires=4927876927</StillSceneUrl>
+    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
+    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>02:10</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Cykling</PrimaryGenre>
+    <Title>Tour de La Provence</Title>
+    <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
+    <ShortDescription>Anden etape af Tour de La Provence fra Forcalquier til Montagne de Lure.</ShortDescription>
+    <LongDescription>Anden etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 180 kilometer lang rute fra Forcalquier til Montagne de Lure. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>09:20</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>11:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Bakken Bears møder Team FOG Næstved i Basketligaen.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Bakken Bears får besøg af Team FOG Næstved i Basketligaens mesterskabsspil. Kampen finder sted i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Jeppe Martinusen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>13:30</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Den første af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Den første af tre mulige semifinaler i Futsal Ligaen. Yderligere information offentliggøres senere.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>15:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>16:30</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>17:35</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Danmark-Kroatien</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>19:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Thessaloniki mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>22:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>22:40</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>23:05</StartTime>
+    <PrimaryGenre>Cykling</PrimaryGenre>
+    <Title>Bording Cup</Title>
+    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12434-a0cea12a-42ea-4435-838e-750b4f0cfa6f.jpg?temp_url_sig=7a6ac9d3b59f2b6007bb756ef658cdfd256cbf25&amp;temp_url_expires=4927793818</StillSceneUrl>
+    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
+    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/03/2026</Date>
+    <StartTime>23:35</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting møder Alverca i 27. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>01:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>02:15</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Como-Inter</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
+    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
+    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>09:30</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Pokalfinale</Title>
+    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
+    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
+    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>11:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>12:30</StartTime>
+    <PrimaryGenre/>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12919-7cd05ff0-9358-47a2-af61-9e3dba096b66.jpg?temp_url_sig=72e616c1a0112ac636b057e10f943d188f27cfb0&amp;temp_url_expires=4927782544</StillSceneUrl>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>15:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Thessaloniki mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>17:40</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting møder Alverca i 27. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>19:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>20:50</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Bakken Bears møder Team FOG Næstved i Basketligaen.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Bakken Bears får besøg af Team FOG Næstved i Basketligaens mesterskabsspil. Kampen finder sted i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Jeppe Martinusen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/03/2026</Date>
+    <StartTime>23:10</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Den første af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Den første af tre mulige semifinaler i Futsal Ligaen. Yderligere information offentliggøres senere.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>01:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>01:50</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12683-6d8b0ee1-1a00-403a-a889-3a49314c4c43.jpg?temp_url_sig=ab796be0f246643771e4cae9aff32cdd91a1494c&amp;temp_url_expires=4927876182</StillSceneUrl>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>02:10</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12683-6d8b0ee1-1a00-403a-a889-3a49314c4c43.jpg?temp_url_sig=ab796be0f246643771e4cae9aff32cdd91a1494c&amp;temp_url_expires=4927876182</StillSceneUrl>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting møder Alverca i 27. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>09:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>10:15</StartTime>
+    <PrimaryGenre>Cykling</PrimaryGenre>
+    <Title>Tour de La Provence</Title>
+    <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
+    <ShortDescription>Tredje etape af Tour de La Provence fra Rognac til Arles.</ShortDescription>
+    <LongDescription>Tredje etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 210 kilometer lang rute fra Rognac til Arles. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>12:20</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>13:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Bakken Bears møder Team FOG Næstved i Basketligaen.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Bakken Bears får besøg af Team FOG Næstved i Basketligaens mesterskabsspil. Kampen finder sted i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Jeppe Martinusen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>15:45</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>16:10</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Den første af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Den første af tre mulige semifinaler i Futsal Ligaen. Yderligere information offentliggøres senere.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>18:30</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Optakt til Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12395-e1555218-0d2f-474e-a2a5-1133b3391e75.jpg?temp_url_sig=c819648d7a0464bd04e1b4c9dc0f14c862077756&amp;temp_url_expires=4927791601</StillSceneUrl>
+    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Svendborg.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Rise Sparekasse Arena i Svendborg, hvor vi varmer op til aftenens kamp i Basketligaen mellem Svendborg Rabbits og Randers Cimbria. Værter: Jonas Kvist Jepsen og Michael Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>18:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Svendborg Rabbits får besøg af Randers Cimbria i Basketligaen.</ShortDescription>
+    <LongDescription>Svendborg Rabbits får besøg af de dobbelte pokalmestre fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Rise Sparekasse Arena i Svendborg og kommenteres af Peter Jørgensen og Michael Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>21:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Thessaloniki mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/03/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>00:20</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Como-Inter</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
+    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
+    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>02:20</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Danmark-Georgien</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
+    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Georgien i Farum Arena.</ShortDescription>
+    <LongDescription>I den tredje af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Georgien på hjemmebane i Farum Arena. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>09:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Georgien-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
+    <ShortDescription>VM-kvalifikationskamp mellem Danmark og Georgien i Tbilisi Arena.</ShortDescription>
+    <LongDescription>I den fjerde af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Georgien til returkamp på udebane i Tbilisi Arena. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>11:20</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Mektic/Pavić-Ingildsen/Overbeck</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>12:55</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Den første af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Den første af tre mulige semifinaler i Futsal Ligaen. Yderligere information offentliggøres senere.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>15:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Svendborg Rabbits får besøg af Randers Cimbria i Basketligaen.</ShortDescription>
+    <LongDescription>Svendborg Rabbits får besøg af de dobbelte pokalmestre fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Rise Sparekasse Arena i Svendborg og kommenteres af Peter Jørgensen og Michael Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>17:30</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12705-b8be2856-2b91-4848-b52b-81f824a32b03.jpg?temp_url_sig=1b0994a9d0e40bd4b014aeeb421552bf67f72d02&amp;temp_url_expires=4927877176</StillSceneUrl>
+    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>18:15</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>18:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>19:15</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Future Fight Night</Title>
+    <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-10852-ca98c60d-3d59-41b2-969a-cd2c332903bf.png?temp_url_sig=cb1fdb1c4a1b951f39effa60f01d919b33213d6c&amp;temp_url_expires=4893132254</StillSceneUrl>
+    <ShortDescription>Stort boksestævne i Gilleleje med både danske og internationale fightere.</ShortDescription>
+    <LongDescription>Nogle af Gilleleje Bokseklubs stærkeste profiler skal i ringen til både professionelle og olympiske kampe, når den tredje udgave af Future Fight Night løber af stablen i Gilleleje Hallen. Kommentatorer: Peter Jørgensen og Mads Sørensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/03/2026</Date>
+    <StartTime>23:25</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Supercoppa Italiana</Title>
+    <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12853-8bd67498-c1e4-4c4b-b032-c2f9206d41c1.jpg?temp_url_sig=ffb42e4cd5f5eed9b655df808b7d6357a24bc587&amp;temp_url_expires=4927795799</StillSceneUrl>
+    <ShortDescription>Finale i Supercoppa Italiana mellem Napoli og Bologna.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercoppa Italiana mellem Napoli og Bologna på Al-Awwal Park Stadium i Riyadh. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>01:20</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>02:05</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>07:45</StartTime>
+    <PrimaryGenre>Mountainbike</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12480-16bf9719-81dc-4911-8000-51b96558c6bc.jpg?temp_url_sig=ac171a5aeb4c90d1e57c22ca7d59d6af2f98516d&amp;temp_url_expires=4927876407</StillSceneUrl>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>08:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Nordmakedonien.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på hjemmebane Nordmakedonien i den fjerde af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Mads Knudsen og Gritt Ryder.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>10:30</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>EM-kvalifikation for kvinder</Title>
+    <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <ShortDescription>EM-kvalifikationskamp i Thessaloniki mellem Danmark og Grækenland.</ShortDescription>
+    <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>12:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>13:50</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>15:55</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>16:25</StartTime>
+    <PrimaryGenre/>
+    <Title>SponsorWorld Masters</Title>
+    <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12919-7cd05ff0-9358-47a2-af61-9e3dba096b66.jpg?temp_url_sig=72e616c1a0112ac636b057e10f943d188f27cfb0&amp;temp_url_expires=4927782544</StillSceneUrl>
+    <ShortDescription>Dansk Dart Unions finalestævne fra Storms Pakhus i Odense.</ShortDescription>
+    <LongDescription>Danmarks bedste dartspillere er samlet i Storms Pakhus i Odense for at kæmpe om en historisk høj præmiepulje i Dansk Dart Unions officielle finalestævne SponsorWorld Masters. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>19:20</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Svendborg Rabbits får besøg af Randers Cimbria i Basketligaen.</ShortDescription>
+    <LongDescription>Svendborg Rabbits får besøg af de dobbelte pokalmestre fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Rise Sparekasse Arena i Svendborg og kommenteres af Peter Jørgensen og Michael Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting møder Alverca i 27. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>23:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12646-237e66a1-e615-4035-98d7-dae6609aec8c.jpg?temp_url_sig=281dc6e306c12de62ac4f58b2989e68a0a151bc0&amp;temp_url_expires=4927793586</StillSceneUrl>
+    <ShortDescription>Kvartfinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Kvartfinale mellem danske Anders Lind og franske Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentatorer: Peter Jørgensen og Michael Maze.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>00:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12646-237e66a1-e615-4035-98d7-dae6609aec8c.jpg?temp_url_sig=281dc6e306c12de62ac4f58b2989e68a0a151bc0&amp;temp_url_expires=4927793586</StillSceneUrl>
+    <ShortDescription>Første semifinale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Den første af herrernes to semifinaler mellem danske Anders Lind og japanske Sora Matsushima ved den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>01:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Finals Hong Kong</Title>
+    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12770-7d38d8d7-0568-4d18-a18b-d9a56441a68c.jpg?temp_url_sig=e5a62ad63b261a0d5cf62c653a4ff5d254c5cf84&amp;temp_url_expires=4927793614</StillSceneUrl>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals Hong Kong.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>02:25</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Cykling</PrimaryGenre>
+    <Title>Tour de La Provence</Title>
+    <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
+    <ShortDescription>Tredje etape af Tour de La Provence fra Rognac til Arles.</ShortDescription>
+    <LongDescription>Tredje etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 210 kilometer lang rute fra Rognac til Arles. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>09:20</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Como-Inter</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
+    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
+    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>11:20</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12872-79c90f32-c458-448e-9acd-dcd98a293300.jpg?temp_url_sig=c67c69958a3a4ca5ed3a6b656b0988a079c56925&amp;temp_url_expires=4927792301</StillSceneUrl>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>14:00</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Pokalfinale</Title>
+    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
+    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
+    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>16:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>17:00</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12683-6d8b0ee1-1a00-403a-a889-3a49314c4c43.jpg?temp_url_sig=ab796be0f246643771e4cae9aff32cdd91a1494c&amp;temp_url_expires=4927876182</StillSceneUrl>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>17:20</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>17:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Svendborg Rabbits får besøg af Randers Cimbria i Basketligaen.</ShortDescription>
+    <LongDescription>Svendborg Rabbits får besøg af de dobbelte pokalmestre fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Rise Sparekasse Arena i Svendborg og kommenteres af Peter Jørgensen og Michael Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>20:05</StartTime>
+    <PrimaryGenre>Dans</PrimaryGenre>
+    <Title>EC Open</Title>
+    <EpisodeTitle>EC Open 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12379-e0295d21-463d-48fa-9332-cd3ac77efc7b.jpg?temp_url_sig=e8178c888a23b7780bb3088d288c841154d6d740&amp;temp_url_expires=4927794131</StillSceneUrl>
+    <ShortDescription>EM i streetdance, hip hop, fusion show og battle fra Glostrup.</ShortDescription>
+    <LongDescription>Glostrup Idrætspark danner rammen om EM-finalerne i streetdance, hip hop, fusion show og battle med nogle af de dygtigste europæiske dansere fra bl.a. Tyskland, Bulgarien, Grækenland og naturligvis Danmark. Kommentatorer: Mads Knudsen og Henrik "Locksmith" Christensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>22:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>23:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/03/2026</Date>
+    <StartTime>23:45</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Supercopa de España</Title>
+    <EpisodeTitle>FC Barcelona-Real Madrid</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12858-e60bcc63-8e2f-4852-8510-ba047d960b1e.jpg?temp_url_sig=f7dac14f2d999e1ef5da97c2f7aa4e3297c8e925&amp;temp_url_expires=4927795770</StillSceneUrl>
+    <ShortDescription>Finale i den prestigefyldte Supercopa de España.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercopa de España mellem ærkerivalerne FC Barcelona og Real Madrid på King Abdullah Sports City i Jeddah. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>30/03/2026</Date>
+    <StartTime>03:10</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+</EPG>
