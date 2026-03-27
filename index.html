@@ -10,6 +10,14 @@
             box-sizing: border-box;
         }
 
+        /* --- NYE SCROLL-REGLER TIL MOBIL / IFRAME --- */
+        html, body {
+            height: 100%;
+            overflow-y: auto !important;
+            -webkit-overflow-scrolling: touch !important; 
+            touch-action: pan-y !important; 
+        }
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #2b2b2b; /* Mørk baggrund til Wix */
