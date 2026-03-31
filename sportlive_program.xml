@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>01/04/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>01/04/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>01/04/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>01/04/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>01/04/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>02/04/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre/>
     <Title>DM i hurtigskak for hold</Title>
     <EpisodeTitle>DM i hurtigskak for hold 2025</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>02/04/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>03/04/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -639,7 +639,7 @@
   </Event>
   <Event>
     <Date>03/04/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>03/04/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>18:00</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>03/04/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -704,7 +704,7 @@
   </Event>
   <Event>
     <Date>03/04/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>EC Open</Title>
     <EpisodeTitle>EC Open 2025</EpisodeTitle>
@@ -717,7 +717,7 @@
   </Event>
   <Event>
     <Date>04/04/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>04/04/2026</Date>
-    <StartTime>17:05</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>04/04/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>04/04/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Future Fight Night</Title>
     <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -919,13 +919,13 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Finals Hong Kong</Title>
     <EpisodeTitle>Truls Möregårdh-Tomokazu Harimoto</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>Amerikansk fodbold</PrimaryGenre>
     <Title>Mermaid Bowl</Title>
     <EpisodeTitle>Aalborg 89ers-Søllerød Gold Diggers</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -1016,7 +1016,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
@@ -1029,7 +1029,7 @@
   </Event>
   <Event>
     <Date>05/04/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Inter</EpisodeTitle>
@@ -1042,7 +1042,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1055,7 +1055,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -1068,7 +1068,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1159,7 +1159,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>15:30</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre/>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -1172,7 +1172,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1185,7 +1185,7 @@
   </Event>
   <Event>
     <Date>06/04/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -1328,7 +1328,7 @@
   </Event>
   <Event>
     <Date>07/04/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -1393,7 +1393,7 @@
   </Event>
   <Event>
     <Date>08/04/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Finals Hong Kong</Title>
     <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
@@ -1471,7 +1471,7 @@
   </Event>
   <Event>
     <Date>08/04/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1857,20 +1857,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/04/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Kroatien</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
   <Event>
     <Date>11/04/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
@@ -1883,7 +1883,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>11/04/2026</Date>
-    <StartTime>00:55</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -1896,7 +1896,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>11/04/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2025,7 +2025,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13127-3c6f4b74-69ee-403b-a27b-dcd34baf54ea.jpg?temp_url_sig=b30be80b97264be3d4bc897ef64e39de19f346f4&amp;temp_url_expires=4929689974</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne fra Kulturhuset Skanderborg.</ShortDescription>
-    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentatorer: Peter Jørgensen og Enock Poulsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/04/2026</Date>
@@ -2068,7 +2068,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>12/04/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -2094,7 +2094,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>12/04/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -2107,7 +2107,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>12/04/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -2182,7 +2182,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13127-3c6f4b74-69ee-403b-a27b-dcd34baf54ea.jpg?temp_url_sig=b30be80b97264be3d4bc897ef64e39de19f346f4&amp;temp_url_expires=4929689974</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne fra Kulturhuset Skanderborg.</ShortDescription>
-    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentatorer: Peter Jørgensen og Enock Poulsen.</LongDescription>
   </Event>
   <Event>
     <Date>13/04/2026</Date>
@@ -2497,7 +2497,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13127-3c6f4b74-69ee-403b-a27b-dcd34baf54ea.jpg?temp_url_sig=b30be80b97264be3d4bc897ef64e39de19f346f4&amp;temp_url_expires=4929689974</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne fra Kulturhuset Skanderborg.</ShortDescription>
-    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentatorer: Peter Jørgensen og Enock Poulsen.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
@@ -2658,7 +2658,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -2671,7 +2671,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -2684,7 +2684,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -2710,7 +2710,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Benfica-Nacional</EpisodeTitle>
@@ -2723,7 +2723,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -2736,7 +2736,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
@@ -2749,7 +2749,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Albertslund IF-Hundested IK</EpisodeTitle>
@@ -2762,7 +2762,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -2775,7 +2775,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
