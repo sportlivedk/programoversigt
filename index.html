@@ -328,19 +328,9 @@
                     const card = document.createElement('div');
                     card.className = `program-card status-${status.toLowerCase()}`;
 
-                    // --- DET ENESTE DER ER ÆNDRET: KUN ÉT KORT ÅBENT AD GANGEN ---
                     card.addEventListener('click', function() {
-                        const currentlyExpanded = document.querySelector('.program-card.expanded');
-                        
-                        // Hvis der ER et åbent kort, og det IKKE er det kort vi lige har klikket på -> Luk det.
-                        if (currentlyExpanded && currentlyExpanded !== this) {
-                            currentlyExpanded.classList.remove('expanded');
-                        }
-
-                        // Åbn/luk det kort vi rent faktisk klikkede på.
                         this.classList.toggle('expanded');
                     });
-                    // -------------------------------------------------------------
 
                     const timeDiv = document.createElement('div');
                     timeDiv.className = 'time-col';
