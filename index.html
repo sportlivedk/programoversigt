@@ -5,16 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programoversigt</title>
     <style>
-        /* Sikrer at bredden beregnes ens for alle elementer */
+        /* SIKRER SCROLL PÅ MOBIL OG WIX */
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: auto !important; /* Tillader siden at vokse */
+            min-height: 100%;
+            overflow-x: hidden;
+            overflow-y: auto; /* Aktiverer scroll */
+            -webkit-overflow-scrolling: touch; /* Sikrer blød scroll på iPhone/iPad */
+            background-color: #2b2b2b;
+        }
+
         * {
             box-sizing: border-box;
         }
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #2b2b2b; /* Mørk baggrund til Wix */
             color: #333;
-            margin: 0;
             padding: 0 10px 20px 10px; 
         }
 
@@ -24,7 +33,6 @@
             margin: 0 auto;
         }
 
-        /* Fejlbesked */
         #error-display {
             background-color: #ffebee;
             color: #c62828;
@@ -36,7 +44,6 @@
             text-align: center;
         }
 
-        /* Loading tekst justering */
         #loading-text {
             margin-top: 20px;
         }
@@ -53,7 +60,6 @@
             text-transform: capitalize;
         }
 
-        /* Fjerner toppen på den allerførste dato-bjælke */
         #schedule-container .date-header:first-of-type {
             margin-top: 0;
         }
@@ -79,7 +85,6 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
         }
 
-        /* Farveindikatorer */
         .status-live { border-left-color: #e74c3c; }
         .status-repeat { border-left-color: #95a5a6; }
         .status-premiere { border-left-color: #f1c40f; }
@@ -128,7 +133,6 @@
             line-height: 1.4;
         }
 
-        /* Container til fold-ud området */
         .long-description {
             display: none;
             margin-top: 15px;
@@ -142,14 +146,12 @@
             to { opacity: 1; }
         }
 
-        /* Når kortet udvides: brug Flexbox til at placere billede og tekst pænt ved siden af hinanden */
         .program-card.expanded .long-description {
             display: flex;
             gap: 15px;
             align-items: flex-start;
         }
 
-        /* Styling til programmets billede */
         .program-thumbnail {
             width: 140px;
             height: auto;
@@ -158,7 +160,6 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
-        /* Styling til selve fold-ud teksten */
         .long-description-text {
             font-size: 0.9em; 
             color: #333;
@@ -197,7 +198,6 @@
             border-color: #dd5f12;
         }
 
-        /* Mobil-justeringer */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
             .time-col { margin-bottom: 5px; text-align: left; }
@@ -219,15 +219,19 @@
 
     <div class="container">
         <div id="error-display"></div>
-
         <div id="schedule-container">
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
     </div>
 
     <script>
-        // Konfiguration: Navnet på din XML fil på serveren
         const XML_FILENAME = 'sportlive_program.xml';
+
+        // FUNKTION TIL AT OPDATERE HØJDEN I WIX
+        function sendHeightToWix() {
+            const height = document.body.scrollHeight;
+            window.parent.postMessage(height, "*");
+        }
 
         document.addEventListener('DOMContentLoaded', () => {
             const container = document.getElementById('schedule-container');
@@ -238,19 +242,19 @@
 
             fetch(urlWithCacheBuster)
                 .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Kunne ikke hente XML filen (${response.status} ${response.statusText}).`);
-                    }
+                    if (!response.ok) throw new Error(`Kunne ikke hente XML filen.`);
                     return response.text();
                 })
                 .then(xmlString => {
                     processXML(xmlString, container, loadingText, errorDisplay);
+                    // Send højde til Wix når data er indlæst
+                    setTimeout(sendHeightToWix, 500);
                 })
                 .catch(error => {
                     if(loadingText) loadingText.style.display = 'none';
                     errorDisplay.style.display = 'block';
                     errorDisplay.textContent = "Fejl: " + error.message;
-                    console.error("Fetch error:", error);
+                    sendHeightToWix();
                 });
         });
 
@@ -258,55 +262,34 @@
             try {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(xmlString, "text/xml");
-                
-                const parserError = xmlDoc.getElementsByTagName("parsererror");
-                if (parserError.length > 0) {
-                    throw new Error("Fejl i XML-strukturen: " + parserError[0].textContent);
-                }
-
                 const events = Array.from(xmlDoc.getElementsByTagName('Event'));
 
-                if (events.length === 0) {
-                    throw new Error("XML-filen er tom eller indeholder ingen 'Event' elementer.");
-                }
+                if (events.length === 0) throw new Error("Ingen programmer fundet.");
 
-                // --- NY LOGIK TIL AT FILTRERE GAMLE DAGE FRA ---
                 const now = new Date();
-                // Opret et dato-objekt for præcis i dag, nulstillet til midnat
                 const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-                
-                // Hvis klokken er før 06:00 om morgenen, tilhører vi "i går" tv-mæssigt
-                if (now.getHours() < 6) {
-                    currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
-                }
+                if (now.getHours() < 6) currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
                 const currentBroadcastTimestamp = currentBroadcastDate.getTime();
-                // -----------------------------------------------
 
                 if(loadingText) loadingText.style.display = 'none';
 
                 let currentDisplayDate = '';
-                let renderedEventsCount = 0; // Holder øje med, om vi får vist nogen events i alt
+                let renderedEventsCount = 0;
 
                 events.forEach(event => {
                     const rawDate = getTagValue(event, 'Date');
                     const time = getTagValue(event, 'StartTime');
-                    
-                    // Beregn Programmets Broadcast Date (TV-døgn 06-06)
                     const broadcastDateObj = getBroadcastDate(rawDate, time);
 
-                    // SPRING PROGRAMMET OVER, hvis tv-datoen er ældre end i dag
-                    if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
-                        return; // return fungerer ligesom 'continue' inde i en forEach-løkke
-                    }
+                    if (broadcastDateObj.getTime() < currentBroadcastTimestamp) return;
 
-                    renderedEventsCount++; // Vi har nu et gyldigt program at vise
+                    renderedEventsCount++;
 
                     const genre = getTagValue(event, 'PrimaryGenre');
                     const title = getTagValue(event, 'Title');
                     const epTitle = getTagValue(event, 'EpisodeTitle');
                     const status = getTagValue(event, 'Status');
                     const desc = getTagValue(event, 'ShortDescription');
-                    
                     const longDesc = getTagValue(event, 'LongDescription');
                     const stillUrl = getTagValue(event, 'StillSceneUrl');
 
@@ -315,12 +298,9 @@
                     if (broadcastDateString !== currentDisplayDate) {
                         const dateHeader = document.createElement('div');
                         dateHeader.className = 'date-header';
-                        
                         const options = { weekday: 'long' };
                         const dayName = new Intl.DateTimeFormat('da-DK', options).format(broadcastDateObj);
-                        const capitalizedDayName = dayName.charAt(0).toUpperCase() + dayName.slice(1);
-
-                        dateHeader.textContent = `${capitalizedDayName} ${broadcastDateString}`;
+                        dateHeader.textContent = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} ${broadcastDateString}`;
                         container.appendChild(dateHeader);
                         currentDisplayDate = broadcastDateString;
                     }
@@ -328,20 +308,16 @@
                     const card = document.createElement('div');
                     card.className = `program-card status-${status.toLowerCase()}`;
 
-                    // --- OPPDATERET KLIK-LOGIK HER ---
                     card.addEventListener('click', function() {
-                        // Find det kort, der eventuelt allerede er foldet ud
                         const currentlyExpanded = document.querySelector('.program-card.expanded');
-                        
-                        // Hvis der ER et åbent kort, og det IKKE er det kort, vi lige har klikket på, så luk det
                         if (currentlyExpanded && currentlyExpanded !== this) {
                             currentlyExpanded.classList.remove('expanded');
                         }
-
-                        // Skift status på det kort, vi lige har klikket på
                         this.classList.toggle('expanded');
+                        
+                        // Giv browseren et øjeblik til at tegne det nye indhold, før vi opdaterer højden
+                        setTimeout(sendHeightToWix, 350);
                     });
-                    // ---------------------------------
 
                     const timeDiv = document.createElement('div');
                     timeDiv.className = 'time-col';
@@ -356,13 +332,8 @@
                     let descHtml = desc ? `<div class="description">${desc}</div>` : '';
                     
                     let longDescContent = '';
-                    if (stillUrl) {
-                        longDescContent += `<img src="${stillUrl}" class="program-thumbnail" alt="Programbillede">`;
-                    }
-                    if (longDesc) {
-                        longDescContent += `<div class="long-description-text">${longDesc}</div>`;
-                    }
-                    
+                    if (stillUrl) longDescContent += `<img src="${stillUrl}" class="program-thumbnail" alt="Programbillede">`;
+                    if (longDesc) longDescContent += `<div class="long-description-text">${longDesc}</div>`;
                     let longDescHtml = longDescContent ? `<div class="long-description">${longDescContent}</div>` : '';
 
                     contentDiv.innerHTML = `${genreHtml}${titleHtml}${epHtml}${descHtml}${longDescHtml}`;
@@ -378,11 +349,9 @@
                     card.appendChild(contentDiv);
                     card.appendChild(statusDiv);
                     card.appendChild(arrowDiv);
-
                     container.appendChild(card);
                 });
 
-                // Hvis ingen programmer blev vist (f.eks. fordi XML'en ikke er blevet opdateret endnu)
                 if (renderedEventsCount === 0) {
                     container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
                 }
@@ -390,7 +359,7 @@
             } catch (innerError) {
                 if(loadingText) loadingText.style.display = 'none';
                 errorDisplay.style.display = 'block';
-                errorDisplay.textContent = "Der opstod en fejl under behandling af data: " + innerError.message;
+                errorDisplay.textContent = "Fejl: " + innerError.message;
             }
         }
 
@@ -403,18 +372,14 @@
             const [day, month, year] = dateStr.split('/').map(Number);
             const [hour, minute] = timeStr.split(':').map(Number);
             const dateObj = new Date(year, month - 1, day);
-
-            if (hour < 6) {
-                dateObj.setDate(dateObj.getDate() - 1);
-            }
+            if (hour < 6) dateObj.setDate(dateObj.getDate() - 1);
             return dateObj;
         }
 
         function formatDateStandard(dateObj) {
             const d = String(dateObj.getDate()).padStart(2, '0');
             const m = String(dateObj.getMonth() + 1).padStart(2, '0'); 
-            const y = dateObj.getFullYear();
-            return `${d}/${m}/${y}`;
+            return `${d}/${m}/${dateObj.getFullYear()}`;
         }
     </script>
 </body>
