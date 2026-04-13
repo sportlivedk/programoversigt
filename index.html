@@ -336,9 +336,21 @@
                     const card = document.createElement('div');
                     card.className = `program-card status-${status.toLowerCase()}`;
 
+                    // --- OPDATERET KLIK-LOGIK (Akkordeon) ---
                     card.addEventListener('click', function() {
-                        this.classList.toggle('expanded');
+                        // Tjekker om dette specifikke kort allerede er åbent
+                        const isExpanded = this.classList.contains('expanded');
+                        
+                        // Find alle kort der er foldet ud og luk dem
+                        const allExpanded = container.querySelectorAll('.program-card.expanded');
+                        allExpanded.forEach(c => c.classList.remove('expanded'));
+                        
+                        // Hvis kortet IKKE var åbent før klikket, så fold det ud nu
+                        if (!isExpanded) {
+                            this.classList.add('expanded');
+                        }
                     });
+                    // -----------------------------------------
 
                     const timeDiv = document.createElement('div');
                     timeDiv.className = 'time-col';
