@@ -1,176 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Hwan Bae-Anders Lind</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12646-237e66a1-e615-4035-98d7-dae6609aec8c.jpg?temp_url_sig=281dc6e306c12de62ac4f58b2989e68a0a151bc0&amp;temp_url_expires=4927793586</StillSceneUrl>
-    <ShortDescription>Anders Lind møder Hwan Bae i WTT Champions Frankfurt.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder Hwan Bae fra Australien i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>07:30</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Finals Hong Kong</Title>
-    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12770-7d38d8d7-0568-4d18-a18b-d9a56441a68c.jpg?temp_url_sig=e5a62ad63b261a0d5cf62c653a4ff5d254c5cf84&amp;temp_url_expires=4927793614</StillSceneUrl>
-    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals Hong Kong.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>08:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>09:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Como-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
-    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>11:00</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Horsens IC tørner sammen med Randers Cimbria i Basketligaen.</ShortDescription>
-    <LongDescription>Horsens IC får besøg af pokalmestrene fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Arena Randers  og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>13:30</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Senior DM</Title>
-    <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
-    <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
-    <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>16:15</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Super Grand Prix</Title>
-    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12705-b8be2856-2b91-4848-b52b-81f824a32b03.jpg?temp_url_sig=1b0994a9d0e40bd4b014aeeb421552bf67f72d02&amp;temp_url_expires=4927877176</StillSceneUrl>
-    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>17:00</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>17:40</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>VM-kvalifikation</Title>
-    <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
-    <ShortDescription>Danmark møder Andorra i første kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder Andorra i første kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Park Vendia i Hjørring og kommenteres af 
-Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>19:50</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Skanderborg Fight Night</Title>
-    <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13127-3c6f4b74-69ee-403b-a27b-dcd34baf54ea.jpg?temp_url_sig=b30be80b97264be3d4bc897ef64e39de19f346f4&amp;temp_url_expires=4929689974</StillSceneUrl>
-    <ShortDescription>Professionelt boksestævne fra Kulturhuset Skanderborg.</ShortDescription>
-    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentatorer: Peter Jørgensen og Enock Poulsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>23:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Nacional</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Nacional i 29. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Nacional i 29. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>01:10</StartTime>
-    <PrimaryGenre>Poker</PrimaryGenre>
-    <Title>DM i poker</Title>
-    <EpisodeTitle>DM 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12543-b27091ad-94b3-44ed-a3c1-31223f5757ab.jpg?temp_url_sig=7bacba3c8d2d9aae60653f07afc13d25c368067a&amp;temp_url_expires=4927876927</StillSceneUrl>
-    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
-    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>02:40</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>15/04/2026</Date>
     <StartTime>07:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
@@ -499,7 +329,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -512,7 +342,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -525,7 +355,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -538,7 +368,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
@@ -551,7 +381,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -564,7 +394,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -577,7 +407,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -656,7 +486,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -670,7 +500,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Skotland</EpisodeTitle>
@@ -684,7 +514,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -1845,20 +1675,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Mountainbike</PrimaryGenre>
-    <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12480-16bf9719-81dc-4911-8000-51b96558c6bc.jpg?temp_url_sig=ac171a5aeb4c90d1e57c22ca7d59d6af2f98516d&amp;temp_url_expires=4927876407</StillSceneUrl>
-    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
-    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>25/04/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -1871,7 +1688,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -1885,20 +1702,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>11:50</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
+    <StartTime>11:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -1911,7 +1728,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1924,20 +1741,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>15:35</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>25/04/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Albertslund IF-Hjørring Futsal Klub</EpisodeTitle>
@@ -1950,7 +1754,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1960,6 +1764,32 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
     <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/04/2026</Date>
+    <StartTime>20:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/04/2026</Date>
+    <StartTime>20:45</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
@@ -1976,7 +1806,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -1989,7 +1819,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>25/04/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Hold offentliggøres senere</EpisodeTitle>
@@ -2002,7 +1832,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/04/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Finals Hong Kong</Title>
     <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
@@ -2173,7 +2003,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -2186,7 +2016,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
