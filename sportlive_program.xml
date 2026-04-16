@@ -1,189 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>07:10</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12683-6d8b0ee1-1a00-403a-a889-3a49314c4c43.jpg?temp_url_sig=ab796be0f246643771e4cae9aff32cdd91a1494c&amp;temp_url_expires=4927876182</StillSceneUrl>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>07:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>08:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Bolden er flad</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
-    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
-    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>08:55</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Albertslund IF-Hundested IK</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Albertslund møder Hundested i den anden af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
-    <LongDescription>Albertslund IF møder Hundested IK i den anden af tre mulige semifinaler i Futsal Ligaen. Kampen spilles i Albertslund Stadionhal og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>11:25</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>12:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>12:40</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Nacional</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Nacional i 29. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Nacional i 29. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>14:45</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 8</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>8</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>15:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Horsens IC tørner sammen med Randers Cimbria i Basketligaen.</ShortDescription>
-    <LongDescription>Horsens IC får besøg af pokalmestrene fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Arena Randers  og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>18:25</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>VM-kvalifikation</Title>
-    <EpisodeTitle>Malta-Danmark</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
-    <ShortDescription>Danmark møder Malta i første kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder Malta i første kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Park Vendia i Hjørring og kommenteres af 
-Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>20:40</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Senior DM</Title>
-    <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
-    <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
-    <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>23:20</StartTime>
-    <PrimaryGenre>Cykling</PrimaryGenre>
-    <Title>Bording Cup</Title>
-    <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12434-a0cea12a-42ea-4435-838e-750b4f0cfa6f.jpg?temp_url_sig=7a6ac9d3b59f2b6007bb756ef658cdfd256cbf25&amp;temp_url_expires=4927793818</StillSceneUrl>
-    <ShortDescription>Reportage fra fjerde afdeling af den danske landevejscup.</ShortDescription>
-    <LongDescription>Reportage fra fjerde og sidste afdeling af den danske landevejscup for eliteryttere, Bording Cup, som blev kørt d. 21. september på en 20 kilometer lang rute nordvest for Køge. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/04/2026</Date>
-    <StartTime>23:50</StartTime>
-    <PrimaryGenre>Cykling</PrimaryGenre>
-    <Title>Tour de La Provence</Title>
-    <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
-    <ShortDescription>Første etape af Tour de La Provence fra Marseille til Saint-Victoret.</ShortDescription>
-    <LongDescription>Første etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 168,82 kilometer lang rute fra Marseille til Saint-Victoret. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
-  </Event>
-  <Event>
-    <Date>16/04/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>16/04/2026</Date>
     <StartTime>06:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
@@ -2390,7 +2207,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
   </Event>
   <Event>
     <Date>29/04/2026</Date>
@@ -2520,7 +2337,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
@@ -2533,7 +2350,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Mongoliet ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
@@ -2689,7 +2506,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Mongoliet ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>01/05/2026</Date>
@@ -3016,7 +2833,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
@@ -3029,7 +2846,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Mongoliet ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Henrik Hvillum.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
