@@ -1,163 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Davis Cup</Title>
-    <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
-    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>08:50</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Davis Cup</Title>
-    <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
-    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>11:30</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Pokalfinale</Title>
-    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
-    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
-    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>13:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Bakken Bears får besøg af Horsens IC i Basketligaen.</ShortDescription>
-    <LongDescription>De forsvarende mestre fra Bakken Bears får besøg af Horsens IC i Basketligaens mesterskabsspil. Kampen afvikles i Djurslands Bank Arena i Aarhus og kommenteres af Peter Jørgensen og Anders Katholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>16:20</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Senior DM</Title>
-    <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
-    <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
-    <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Bolden er flad</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
-    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
-    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>19:55</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>VM-kvalifikation</Title>
-    <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
-    <ShortDescription>Danmark møder Andorra i første kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder Andorra i første kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Park Vendia i Hjørring og kommenteres af 
-Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>22:15</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>22:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/04/2026</Date>
-    <StartTime>23:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/04/2026</Date>
-    <StartTime>00:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Como-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Semifinale i Coppa Italia mellem Como og Inter.</ShortDescription>
-    <LongDescription>Como møder på hjemmebane Inter i det første af to semifinaleopgør i den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Giuseppe Sinigaglia i Como og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/04/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>18/04/2026</Date>
     <StartTime>06:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
@@ -652,7 +495,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>20/04/2026</Date>
@@ -770,7 +613,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>21/04/2026</Date>
@@ -1004,7 +847,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>22/04/2026</Date>
@@ -1161,7 +1004,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>23/04/2026</Date>
@@ -1253,7 +1096,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>24/04/2026</Date>
@@ -1501,7 +1344,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>26/04/2026</Date>
@@ -1579,7 +1422,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>26/04/2026</Date>
@@ -1737,7 +1580,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen.</ShortDescription>
-    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Henrik Hvillum og Simon Falden.</LongDescription>
+    <LongDescription>Randers Cimbria møder BC Copenhagen i sidste runde af mesterskabsspillet i Basketligaen. Kampen afvikles i Arena Randers og kommenteres af Martin Kring og Simon Falden.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
