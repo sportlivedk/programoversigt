@@ -1,162 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
-    <Title>Denmark Open</Title>
-    <EpisodeTitle>Finaler 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13282-cfca760a-49ad-46fd-b60e-b31b52c21d67.jpg?temp_url_sig=be744c636112708749fd568d06152dde6c1f02c1&amp;temp_url_expires=4932032788</StillSceneUrl>
-    <ShortDescription>Finaler ved den traditionsrige dartturnering Denmark Open i Esbjerg.</ShortDescription>
-    <LongDescription>Granly Hockey Arena i Esbjerg danner rammen om finalerne ved den traditionsrige turnering Denmark Open, som har været afviklet siden 1974 med deltagelse af nogle af verdens bedste dartspillere. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>10:45</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Senior DM</Title>
-    <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
-    <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
-    <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>13:25</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>14:05</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open 2026</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>14:40</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Fjerde semifinale i Basketligaen mellem Svendborg og Næstved.</ShortDescription>
-    <LongDescription>Den fjerde af fem mulige semifinalekampe i Basketligaen mellem Svendborg Rabbits og Team FOG Næstved. Kampen spilles i Rise Sparekasse Arena i Svendborg og kommenteres af Martin Kring og Michael Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>17:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 9</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>9</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>18:10</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>21:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Henrik Hvillum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>23:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Japan-Kina</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Herrernes finale mellem Japan og Kina ved hold-VM i London.</ShortDescription>
-    <LongDescription>Herrernes finalekamp mellem Japan og Kina ved bordtennis-VM for hold i den legendariske OVO Arena Wembley i London. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/05/2026</Date>
-    <StartTime>01:50</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/05/2026</Date>
-    <StartTime>02:15</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/05/2026</Date>
-    <StartTime>02:50</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>12/05/2026</Date>
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
@@ -394,7 +238,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -407,7 +251,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -748,18 +592,18 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Date>16/05/2026</Date>
     <StartTime>06:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
+    <Title>Coppa Italia</Title>
+    <EpisodeTitle>Lazio-Inter</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Henrik Hvillum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
+    <ShortDescription>Finale i den italienske pokalturnering Coppa Italia.</ShortDescription>
+    <LongDescription>Finale mellem storklubberne Lazio og Inter i den italienske pokalturnering Coppa Italia. Kampen spilles i historiske omgivelser på det olympiske stadion i Rom og kommenteres af Martin Kring og Chris Kaiser Sørensen.</LongDescription>
   </Event>
   <Event>
     <Date>16/05/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -772,7 +616,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/05/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -851,6 +695,32 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>16/05/2026</Date>
     <StartTime>21:00</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>16/05/2026</Date>
+    <StartTime>21:25</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>16/05/2026</Date>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Næstved Bordtennis-Herlev IF</EpisodeTitle>
@@ -862,21 +732,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <LongDescription>Herlev IF møder Næstved Bordtennis i den anden af tre mulige semifinaler i Bordtennisligaen for herrer. Kampen spilles i Mærk Næstved Hallen og kommenteres af Peter Jørgensen og Lars Hauth.</LongDescription>
   </Event>
   <Event>
-    <Date>16/05/2026</Date>
-    <StartTime>23:40</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Lazio-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Finale i den italienske pokalturnering Coppa Italia.</ShortDescription>
-    <LongDescription>Finale mellem storklubberne Lazio og Inter i den italienske pokalturnering Coppa Italia. Kampen spilles i historiske omgivelser på det olympiske stadion i Rom og kommenteres af Martin Kring og Chris Kaiser Sørensen.</LongDescription>
-  </Event>
-  <Event>
     <Date>17/05/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -889,16 +746,16 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Japan-Kina</EpisodeTitle>
+    <Title>Bordtennisligaen for herrer</Title>
+    <EpisodeTitle>Næstved Bordtennis-Herlev IF</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Herrernes finale mellem Japan og Kina ved hold-VM i London.</ShortDescription>
-    <LongDescription>Herrernes finalekamp mellem Japan og Kina ved bordtennis-VM for hold i den legendariske OVO Arena Wembley i London. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
+    <ShortDescription>Den anden af tre mulige semifinaler i Bordtennisligaen for herrer.</ShortDescription>
+    <LongDescription>Herlev IF møder Næstved Bordtennis i den anden af tre mulige semifinaler i Bordtennisligaen for herrer. Kampen spilles i Mærk Næstved Hallen og kommenteres af Peter Jørgensen og Lars Hauth.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
@@ -915,20 +772,33 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>11:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Næstved Bordtennis-Herlev IF</EpisodeTitle>
-    <Season>2026</Season>
+    <StartTime>11:45</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
+    <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige semifinaler i Bordtennisligaen for herrer.</ShortDescription>
-    <LongDescription>Herlev IF møder Næstved Bordtennis i den anden af tre mulige semifinaler i Bordtennisligaen for herrer. Kampen spilles i Mærk Næstved Hallen og kommenteres af Peter Jørgensen og Lars Hauth.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>13:55</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/05/2026</Date>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -941,7 +811,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>16:25</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -954,7 +824,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -967,7 +837,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>B.93-Lyngby (m)</EpisodeTitle>
@@ -980,7 +850,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/05/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -993,7 +863,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/05/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1054,7 +924,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
     <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i 34. og sidste spillerunde af Liga Portugal. Kommentator: TBA.</LongDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>18/05/2026</Date>
@@ -1275,7 +1145,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
     <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i 34. og sidste spillerunde af Liga Portugal. Kommentator: TBA.</LongDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>20/05/2026</Date>
@@ -1354,7 +1224,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
     <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i 34. og sidste spillerunde af Liga Portugal. Kommentator: TBA.</LongDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>20/05/2026</Date>
@@ -1432,7 +1302,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
     <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i 34. og sidste spillerunde af Liga Portugal. Kommentator: TBA.</LongDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>21/05/2026</Date>
@@ -1796,7 +1666,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
     <ShortDescription>Estoril møder Benfica i sidste spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i 34. og sidste spillerunde af Liga Portugal. Kommentator: TBA.</LongDescription>
+    <LongDescription>Benfica og danske Alexander Bah tørner sammen med Estoril på Estádio António Coimbra da Mota i sæsonens 34. og sidste spillerunde af Liga Portugal. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>24/05/2026</Date>
