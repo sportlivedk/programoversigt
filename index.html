@@ -84,9 +84,11 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
         }
 
-        .status-live { border-left-color: #e74c3c; }
+        /* Farveindikatorer for venstre kant */
+        .status-live { border-left-color: #e74c3c; } /* Skarp rød */
         .status-repeat { border-left-color: #95a5a6; }
         .status-premiere { border-left-color: #f1c40f; }
+        .status-relive { border-left-color: #b34a4a; } /* Nedtonet rød til forskudt */
 
         .time-col {
             flex: 0 0 80px;
@@ -176,9 +178,11 @@
             margin-right: 25px;
         }
 
-        .bg-live { background-color: #e74c3c; }
+        /* Farveindikatorer for ikonets baggrund */
+        .bg-live { background-color: #e74c3c; } /* Skarp rød */
         .bg-premiere { background-color: #f39c12; }
         .bg-repeat { display: none; } 
+        .bg-relive { background-color: #b34a4a; } /* Nedtonet rød til forskudt */
 
         .expand-icon {
             position: absolute;
@@ -307,15 +311,13 @@
                     const card = document.createElement('div');
                     card.className = `program-card status-${status.toLowerCase()}`;
 
-                    // --- OPDATERET AKKORDEON-LOGIK HER ---
+                    // Akkordeon-logik
                     card.addEventListener('click', function() {
                         const isExpanded = this.classList.contains('expanded');
                         
-                        // Find alle andre åbne kort og luk dem
                         const allExpanded = container.querySelectorAll('.program-card.expanded');
                         allExpanded.forEach(c => c.classList.remove('expanded'));
                         
-                        // Hvis dette kort ikke var åbent, så åbn det nu
                         if (!isExpanded) {
                             this.classList.add('expanded');
                         }
@@ -340,9 +342,17 @@
                         <div class="long-description">${longDescContent}</div>
                     `;
 
+                    // --- NY LOGIK TIL AT BESTEMME BADGE TEKST ---
+                    let displayStatus = status; 
+                    if (status.toLowerCase() === 'live') {
+                        displayStatus = 'Direkte';
+                    } else if (status.toLowerCase() === 'relive') {
+                        displayStatus = 'Forskudt';
+                    }
+
                     const statusDiv = document.createElement('div');
                     statusDiv.className = `status-badge bg-${status.toLowerCase()}`;
-                    statusDiv.textContent = status;
+                    statusDiv.textContent = displayStatus;
 
                     const arrowDiv = document.createElement('div');
                     arrowDiv.className = 'expand-icon';
@@ -353,6 +363,10 @@
                     card.appendChild(arrowDiv);
                     container.appendChild(card);
                 });
+
+                if (renderedEventsCount === 0) {
+                    container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
+                }
 
             } catch (innerError) {
                 if(loadingText) loadingText.style.display = 'none';
