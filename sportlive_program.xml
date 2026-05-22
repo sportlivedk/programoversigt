@@ -536,15 +536,15 @@
   <Event>
     <Date>25/05/2026</Date>
     <StartTime>21:15</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
     <Season/>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13664-96a790e8-579b-400b-b763-d68d19874f9c.jpg?temp_url_sig=3ebc6f3d845cfd4e8b324a8cbbca518429819397&amp;temp_url_expires=4935199873</StillSceneUrl>
-    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
-    <LongDescription>SPORT LIVE har mødt Oliver Zaren i træningslokalet forud for det store boksebrag i Madrid d. 19. juni, hvor danskeren går i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Mikkel Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
   </Event>
   <Event>
     <Date>25/05/2026</Date>
@@ -575,7 +575,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -667,6 +667,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>26/05/2026</Date>
     <StartTime>22:15</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Zaren på udebane</Title>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13664-96a790e8-579b-400b-b763-d68d19874f9c.jpg?temp_url_sig=3ebc6f3d845cfd4e8b324a8cbbca518429819397&amp;temp_url_expires=4935199873</StillSceneUrl>
+    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
+    <LongDescription>SPORT LIVE har mødt Oliver Zaren i træningslokalet forud for det store boksebrag i Madrid d. 19. juni, hvor danskeren går i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Mikkel Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/05/2026</Date>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -679,20 +692,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>22:55</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13664-96a790e8-579b-400b-b763-d68d19874f9c.jpg?temp_url_sig=3ebc6f3d845cfd4e8b324a8cbbca518429819397&amp;temp_url_expires=4935199873</StillSceneUrl>
-    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
-    <LongDescription>SPORT LIVE har mødt Oliver Zaren i træningslokalet forud for det store boksebrag i Madrid d. 19. juni, hvor danskeren går i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Mikkel Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/05/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Japan-Kina</EpisodeTitle>
@@ -705,7 +705,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -718,7 +718,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
@@ -731,10 +731,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -783,7 +783,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>17:05</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -809,7 +809,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -861,7 +861,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -874,7 +874,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -887,7 +887,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>10:25</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -900,10 +900,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -913,7 +913,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>B.93-Lyngby (m)</EpisodeTitle>
@@ -926,7 +926,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>16:25</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -939,7 +939,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -952,7 +952,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -965,7 +965,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -978,7 +978,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1098,7 +1098,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>23:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1108,7 +1108,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
@@ -1121,7 +1121,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1134,7 +1134,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -1147,7 +1147,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -1160,7 +1160,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -1173,10 +1173,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1277,7 +1277,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1290,10 +1290,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>07:55</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1303,7 +1303,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1527,7 +1527,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>20:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1537,7 +1537,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>01/06/2026</Date>
-    <StartTime>21:20</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1549,8 +1549,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
   </Event>
   <Event>
-    <Date>02/06/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>01/06/2026</Date>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
@@ -1563,7 +1563,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1644,7 +1644,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>13:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1654,7 +1654,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive days 2025</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -1667,7 +1667,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1680,7 +1680,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -1693,7 +1693,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -1706,7 +1706,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1719,7 +1719,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1732,7 +1732,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Litauen-Danmark (k)</EpisodeTitle>
@@ -1744,8 +1744,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <LongDescription>Danmark møder Litauen i den indledende kvalifikationsrunde til kvindernes European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Mads Knudsen og Frederik Mikelsons.</LongDescription>
   </Event>
   <Event>
-    <Date>03/06/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>02/06/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mexico</EpisodeTitle>
@@ -1758,7 +1758,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1771,7 +1771,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -1784,7 +1784,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>08:30</StartTime>
+    <StartTime>08:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -1797,7 +1797,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -1810,10 +1810,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>12:05</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -1823,7 +1823,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
@@ -2047,7 +2047,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>22:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2057,7 +2057,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Skanderborg Fight Night</Title>
     <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
@@ -2070,7 +2070,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2083,7 +2083,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -2096,7 +2096,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -2109,7 +2109,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>08:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive days 2025</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/06/2026</Date>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Hørsholm Rungsted-KB (k)</EpisodeTitle>
@@ -2122,7 +2135,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -2135,7 +2148,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -2148,10 +2161,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2161,7 +2174,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -2239,7 +2252,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/06/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -2252,10 +2265,10 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/06/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2502,7 +2515,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>01:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
+    <EpisodeTitle>Zaren på udebane</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -2512,7 +2525,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive days 2025</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -2525,7 +2538,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
