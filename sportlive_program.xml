@@ -1,136 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Danmark-Canada</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Danmarks 1/16-finale mod Canada ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Canada i 1/16-finalen ved VM for hold, som afvikles i den legendariske OVO Arena Wembley i London. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>10:15</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>12:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive Days</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>13:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>15:45</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>16:55</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Hørsholm Rungsted-KB (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Tredje runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Hørsholm Rungsted får besøg af KB Tennis i tredje runde af den udendørs holdturnering, Elitedivisionen. Kampen kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>20:35</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den sidste af seks kvalifikationskampe til kvindernes European League.</ShortDescription>
-    <LongDescription>Danmark møder Luxembourg i den indledende kvalifikationsrunde til kvindernes European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Mads Knudsen og Mikkel Hauge.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>23:25</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13664-96a790e8-579b-400b-b763-d68d19874f9c.jpg?temp_url_sig=3ebc6f3d845cfd4e8b324a8cbbca518429819397&amp;temp_url_expires=4935199873</StillSceneUrl>
-    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
-    <LongDescription>SPORT LIVE har mødt Oliver Zaren i træningslokalet forud for det store boksebrag i Madrid d. 19. juni, hvor danskeren går i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Mikkel Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/06/2026</Date>
-    <StartTime>23:50</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Skanderborg Fight Night</Title>
-    <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13127-3c6f4b74-69ee-403b-a27b-dcd34baf54ea.jpg?temp_url_sig=b30be80b97264be3d4bc897ef64e39de19f346f4&amp;temp_url_expires=4929689974</StillSceneUrl>
-    <ShortDescription>Professionelt boksestævne fra Kulturhuset Skanderborg.</ShortDescription>
-    <LongDescription>Danish Boxing Promotion gentager succesen fra sidste års udsolgte boksestævne i Kulturhuset Skanderborg, hvor topboksere fra både Danmark og udlandet skal i ringen. Kommentatorer: Peter Jørgensen og Enock Poulsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/06/2026</Date>
-    <StartTime>03:00</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>05/06/2026</Date>
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
@@ -626,7 +496,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (k)</EpisodeTitle>
@@ -639,7 +509,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -652,7 +522,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -665,7 +535,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Portugal-Danmark (m)</EpisodeTitle>
@@ -678,7 +548,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
@@ -691,7 +561,7 @@
   </Event>
   <Event>
     <Date>09/06/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -704,7 +574,7 @@
   </Event>
   <Event>
     <Date>09/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -730,7 +600,7 @@
   </Event>
   <Event>
     <Date>09/06/2026</Date>
-    <StartTime>08:35</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -769,7 +639,7 @@
   </Event>
   <Event>
     <Date>09/06/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -834,7 +704,7 @@
   </Event>
   <Event>
     <Date>09/06/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -860,7 +730,7 @@
   </Event>
   <Event>
     <Date>10/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -977,7 +847,7 @@
   </Event>
   <Event>
     <Date>10/06/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
@@ -990,7 +860,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1003,7 +873,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1068,7 +938,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
@@ -1081,7 +951,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Portugal-Danmark (m)</EpisodeTitle>
@@ -1094,7 +964,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1107,7 +977,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1120,7 +990,7 @@
   </Event>
   <Event>
     <Date>11/06/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Island (m)</EpisodeTitle>
@@ -1133,7 +1003,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1146,7 +1016,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1159,7 +1029,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Estoril-Benfica</EpisodeTitle>
@@ -1185,7 +1055,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1198,7 +1068,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1263,7 +1133,7 @@
   </Event>
   <Event>
     <Date>12/06/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1276,7 +1146,7 @@
   </Event>
   <Event>
     <Date>13/06/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1302,7 +1172,7 @@
   </Event>
   <Event>
     <Date>13/06/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -1328,7 +1198,7 @@
   </Event>
   <Event>
     <Date>13/06/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1341,7 +1211,7 @@
   </Event>
   <Event>
     <Date>13/06/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Bosnien-Hercegovina-Tjekkiet (m)</EpisodeTitle>
@@ -1484,7 +1354,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1497,7 +1367,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1510,7 +1380,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1523,7 +1393,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1536,7 +1406,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
     <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
@@ -1640,7 +1510,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1705,7 +1575,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1731,7 +1601,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -1744,7 +1614,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Tjekkiet-Danmark (m)</EpisodeTitle>
@@ -1757,7 +1627,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
     <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
@@ -1770,7 +1640,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -1796,7 +1666,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1913,7 +1783,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -1939,7 +1809,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -2004,7 +1874,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>12:05</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -2030,7 +1900,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -2043,7 +1913,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -2056,7 +1926,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Tjekkiet-Danmark (m)</EpisodeTitle>
@@ -2069,7 +1939,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
     <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
@@ -2082,7 +1952,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -2095,7 +1965,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2160,7 +2030,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -2173,7 +2043,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -2186,7 +2056,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
     <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
@@ -2199,7 +2069,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -2212,7 +2082,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2225,7 +2095,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -2238,7 +2108,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -2251,7 +2121,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2264,7 +2134,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2277,7 +2147,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -2290,7 +2160,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Tjekkiet-Danmark (m)</EpisodeTitle>
@@ -2303,7 +2173,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -2316,7 +2186,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Zaren på udebane</Title>
     <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
@@ -2342,7 +2212,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -2576,7 +2446,7 @@
   </Event>
   <Event>
     <Date>21/06/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
