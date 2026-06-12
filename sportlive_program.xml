@@ -1,162 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Lazio-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Finale i den italienske pokalturnering Coppa Italia.</ShortDescription>
-    <LongDescription>Finale mellem storklubberne Lazio og Inter i den italienske pokalturnering Coppa Italia. Kampen spilles i historiske omgivelser på det olympiske stadion i Rom og kommenteres af Martin Kring og Chris Kaiser Sørensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>09:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Bronzekamp om tredjepladsen i Basketligaen.</ShortDescription>
-    <LongDescription>Taberne af de to semifinaleserier i Basketligaen, Svendborg Rabbits og Horsens IC, kæmper om tredjepladsen. Bronzekampen spilles i Rise Sparekasse Arena i Svendborg og kommenteres af Peter Jørgensen og Michael Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>11:35</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Danmarks 1/8-finale mod Taiwan ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Taiwan i 1/8-finalen ved VM for hold, som afvikles i den legendariske OVO Arena Wembley i London. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>13:40</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Zaren på udebane</Title>
-    <EpisodeTitle>Optakt til EM-titelkampen i Madrid</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13664-96a790e8-579b-400b-b763-d68d19874f9c.jpg?temp_url_sig=3ebc6f3d845cfd4e8b324a8cbbca518429819397&amp;temp_url_expires=4935199873</StillSceneUrl>
-    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
-    <LongDescription>SPORT LIVE har mødt Oliver Zaren i træningslokalet forud for det store boksebrag i Madrid d. 19. juni, hvor danskeren går i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Mikkel Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>14:05</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den sidste af seks kvalifikationskampe til kvindernes European League.</ShortDescription>
-    <LongDescription>Danmark møder Luxembourg i den indledende kvalifikationsrunde til kvindernes European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Mads Knudsen og Mikkel Hauge.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>16:55</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Portugal-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Første runde af herrernes European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Portugal i den første af tre runder i European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>19:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>20:35</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Oliver Zaren - nedtælling til EM</Title>
-    <EpisodeTitle>Opvarmning til EM-titelkampen i Madrid</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13719-1fdcf10f-6dff-4db8-9270-10518725c7bf.jpg?temp_url_sig=23d86d69207877b283d996a33b9e7f9cdfb2faa2&amp;temp_url_expires=4936332400</StillSceneUrl>
-    <ShortDescription>Interview med Oliver Zaren før det store boksebrag i Madrid d. 19. juni.</ShortDescription>
-    <LongDescription>SPORT LIVE har mødt Oliver Zaren og hans træner Mikkel Kessler forud for det store boksebrag i Madrid d. 19. juni, hvor Zaren skal i ringen for at kæmpe mod spanske José Luis Navarro Jr. om den ledige og ekstremt prestigefyldte EM-titel i supermellemvægt - en af de største kampe i dansk boksning siden Kesslers storhedstid. Vært: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>21:05</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Fjerde runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Gentofte får besøg af Hørsholm Rungsted i fjerde runde af den udendørs holdturnering, Elitedivisionen. Kampen kommenteres af Mads Knudsen og Thomas Skouboe.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/06/2026</Date>
-    <StartTime>23:45</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Island (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Første runde af herrernes European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Island i den første af tre runder i European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/06/2026</Date>
-    <StartTime>01:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/06/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>12/06/2026</Date>
     <StartTime>07:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
@@ -561,7 +405,7 @@
   </Event>
   <Event>
     <Date>14/06/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -717,7 +561,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -730,7 +574,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -756,7 +600,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -769,7 +613,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Tjekkiet-Danmark (m)</EpisodeTitle>
@@ -782,7 +626,7 @@
   </Event>
   <Event>
     <Date>15/06/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Oliver Zaren - nedtælling til EM</Title>
     <EpisodeTitle>Opvarmning til EM-titelkampen i Madrid</EpisodeTitle>
@@ -847,7 +691,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Madagaskar</EpisodeTitle>
@@ -860,7 +704,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -873,7 +717,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -886,7 +730,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Oliver Zaren - nedtælling til EM</Title>
     <EpisodeTitle>Opvarmning til EM-titelkampen i Madrid</EpisodeTitle>
@@ -951,7 +795,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -964,7 +808,7 @@
   </Event>
   <Event>
     <Date>16/06/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -977,7 +821,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1094,7 +938,7 @@
   </Event>
   <Event>
     <Date>17/06/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1133,7 +977,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1146,7 +990,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -1159,7 +1003,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
@@ -1198,7 +1042,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1237,7 +1081,7 @@
   </Event>
   <Event>
     <Date>18/06/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1276,7 +1120,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1289,7 +1133,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1302,7 +1146,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Tjekkiet-Danmark (m)</EpisodeTitle>
@@ -1315,7 +1159,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -1328,7 +1172,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Oliver Zaren - nedtælling til EM</Title>
     <EpisodeTitle>Opvarmning til EM-titelkampen i Madrid</EpisodeTitle>
@@ -1341,7 +1185,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1354,7 +1198,7 @@
   </Event>
   <Event>
     <Date>19/06/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -1389,7 +1233,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>20/06/2026</Date>
@@ -1445,7 +1289,7 @@
   </Event>
   <Event>
     <Date>20/06/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -1458,7 +1302,7 @@
   </Event>
   <Event>
     <Date>20/06/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -1532,7 +1376,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>20/06/2026</Date>
@@ -1562,7 +1406,7 @@
   </Event>
   <Event>
     <Date>21/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1575,7 +1419,7 @@
   </Event>
   <Event>
     <Date>21/06/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1627,7 +1471,7 @@
   </Event>
   <Event>
     <Date>21/06/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
@@ -1662,7 +1506,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>21/06/2026</Date>
@@ -1692,7 +1536,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1744,7 +1588,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1757,7 +1601,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1913,7 +1757,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1939,7 +1783,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -1965,7 +1809,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1978,7 +1822,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1987,7 +1831,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>24/06/2026</Date>
@@ -2004,7 +1848,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2030,7 +1874,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -2043,7 +1887,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
@@ -2056,7 +1900,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -2069,7 +1913,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -2160,7 +2004,7 @@
   </Event>
   <Event>
     <Date>25/06/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -2273,7 +2117,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>25/06/2026</Date>
@@ -2290,7 +2134,7 @@
   </Event>
   <Event>
     <Date>25/06/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -2316,7 +2160,7 @@
   </Event>
   <Event>
     <Date>26/06/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2381,7 +2225,7 @@
   </Event>
   <Event>
     <Date>26/06/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2407,7 +2251,7 @@
   </Event>
   <Event>
     <Date>26/06/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -2420,7 +2264,7 @@
   </Event>
   <Event>
     <Date>26/06/2026</Date>
-    <StartTime>20:40</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -2576,7 +2420,7 @@
   </Event>
   <Event>
     <Date>27/06/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -2589,7 +2433,7 @@
   </Event>
   <Event>
     <Date>27/06/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2602,7 +2446,7 @@
   </Event>
   <Event>
     <Date>27/06/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -2611,7 +2455,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
     <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>27/06/2026</Date>
@@ -2641,7 +2485,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2654,7 +2498,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -2667,7 +2511,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>11:10</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Amerikansk fodbold</PrimaryGenre>
     <Title>Mermaid Bowl XXXVI</Title>
     <EpisodeTitle>Aalborg 89ers-Søllerød Gold Diggers</EpisodeTitle>
@@ -2680,7 +2524,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for damer</Title>
     <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
@@ -2693,7 +2537,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -2706,7 +2550,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Ukraine-Danmark</EpisodeTitle>
@@ -2719,7 +2563,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2732,7 +2576,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -2758,7 +2602,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -2771,7 +2615,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
