@@ -1,175 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Lazio-Inter</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12357-eca6944e-85f1-4454-a205-c474cf96e0dc.jpg?temp_url_sig=baadc1e8ba66dc52b3b3aa33239b3c64e3658d0c&amp;temp_url_expires=4927795656</StillSceneUrl>
-    <ShortDescription>Finale i den italienske pokalturnering Coppa Italia.</ShortDescription>
-    <LongDescription>Finale mellem storklubberne Lazio og Inter i den italienske pokalturnering Coppa Italia. Kampen spilles i historiske omgivelser på det olympiske stadion i Rom og kommenteres af Martin Kring og Chris Kaiser Sørensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>09:20</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Pokalfinale</Title>
-    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
-    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
-    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>11:30</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>12:10</StartTime>
-    <PrimaryGenre>Cykling</PrimaryGenre>
-    <Title>Tour de La Provence</Title>
-    <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13013-549d26dd-0cbd-47ff-9b48-90e8feb40b01.jpg?temp_url_sig=f836b74ade0101fb771e485b57c623efaf98d8c7&amp;temp_url_expires=4927794085</StillSceneUrl>
-    <ShortDescription>Tredje etape af Tour de La Provence fra Rognac til Arles.</ShortDescription>
-    <LongDescription>Tredje etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 210 kilometer lang rute fra Rognac til Arles. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>14:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>15:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12872-79c90f32-c458-448e-9acd-dcd98a293300.jpg?temp_url_sig=c67c69958a3a4ca5ed3a6b656b0988a079c56925&amp;temp_url_expires=4927792301</StillSceneUrl>
-    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
-    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>18:00</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Fjerde runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Gentofte får besøg af Hørsholm Rungsted i fjerde runde af den udendørs holdturnering, Elitedivisionen. Kampen kommenteres af Mads Knudsen og Thomas Skouboe.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>20:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive Days</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>21:05</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DM Triatlon Serien</Title>
-    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
-    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>21:40</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Tredje og sidste runde af herrernes European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder værterne fra Albanien i den sidste af tre runder i European League. Kampen spilles i Tirana Olympic Park og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/06/2026</Date>
-    <StartTime>23:30</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Tredje og sidste runde af herrernes European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder Rumænien i den sidste af tre runder i European League. Kampen spilles i Tirana Olympic Park i Albanien og kommenteres af Mads Knudsen og Rasmus Høyer.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/06/2026</Date>
-    <StartTime>01:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/06/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>27/06/2026</Date>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
@@ -431,7 +262,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -444,7 +275,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Mektic/Pavić-Ingildsen/Overbeck</EpisodeTitle>
@@ -470,33 +301,59 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>22:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/06/2026</Date>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2025-26</Season>
+    <Title>Pokalfinale</Title>
+    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
+    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
+    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
     <Date>29/06/2026</Date>
     <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Bordtennisligaen for herrer</Title>
+    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
+    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
+    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>04:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/06/2026</Date>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -509,20 +366,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>09:45</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/06/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -535,7 +379,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (k)</EpisodeTitle>
@@ -548,7 +392,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -561,7 +405,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -574,33 +418,33 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>17:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/06/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <StartTime>17:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>18:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/06/2026</Date>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -613,7 +457,7 @@
   </Event>
   <Event>
     <Date>29/06/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -626,7 +470,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -653,19 +497,6 @@
   <Event>
     <Date>30/06/2026</Date>
     <StartTime>09:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/06/2026</Date>
-    <StartTime>10:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
@@ -678,7 +509,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -691,20 +522,33 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>15:35</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <StartTime>14:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>15:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>30/06/2026</Date>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -717,7 +561,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -730,7 +574,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -743,7 +587,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -756,7 +600,7 @@
   </Event>
   <Event>
     <Date>30/06/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercopa de España</Title>
     <EpisodeTitle>FC Barcelona-Real Madrid</EpisodeTitle>
@@ -769,7 +613,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -782,7 +626,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -795,7 +639,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -808,7 +652,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -821,7 +665,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -834,7 +678,7 @@
   </Event>
   <Event>
     <Date>01/07/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1004,19 +848,32 @@
   <Event>
     <Date>02/07/2026</Date>
     <StartTime>21:00</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>La Gran Noche del Boxeo</Title>
-    <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
-    <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>02/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/07/2026</Date>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1028,8 +885,8 @@
     <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
   </Event>
   <Event>
-    <Date>02/07/2026</Date>
-    <StartTime>23:35</StartTime>
+    <Date>03/07/2026</Date>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1042,7 +899,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1055,7 +912,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -1068,7 +925,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1081,7 +938,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
@@ -1094,7 +951,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1107,7 +964,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1120,7 +977,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1133,20 +990,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>17:50</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/07/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1159,7 +1003,7 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -1172,20 +1016,33 @@
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>22:45</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>03/07/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>22:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/07/2026</Date>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1198,7 +1055,7 @@
   </Event>
   <Event>
     <Date>04/07/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1211,20 +1068,20 @@
   </Event>
   <Event>
     <Date>04/07/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/07/2026</Date>
-    <StartTime>07:55</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1237,7 +1094,7 @@
   </Event>
   <Event>
     <Date>04/07/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1316,19 +1173,19 @@
   <Event>
     <Date>04/07/2026</Date>
     <StartTime>22:45</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/07/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1341,7 +1198,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1471,7 +1328,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1484,7 +1341,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1497,7 +1354,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1510,7 +1367,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:55</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -1523,7 +1380,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1536,7 +1393,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1549,7 +1406,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -1562,7 +1419,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1575,7 +1432,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1587,21 +1444,34 @@
     <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
   </Event>
   <Event>
-    <Date>07/07/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>06/07/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Danmarks 1/8-finale mod Taiwan ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Taiwan i 1/8-finalen ved VM for hold, som afvikles i den legendariske OVO Arena Wembley i London. Kommentator: Martin Kring.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>00:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/07/2026</Date>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1679,7 +1549,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1732,32 +1602,6 @@
   <Event>
     <Date>08/07/2026</Date>
     <StartTime>07:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>07:45</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>08:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1767,6 +1611,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
     <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
     <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/07/2026</Date>
+    <StartTime>07:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Anders Lind-Nicholas Lum</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/07/2026</Date>
@@ -2082,7 +1939,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -2135,6 +1992,19 @@
   <Event>
     <Date>10/07/2026</Date>
     <StartTime>23:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/07/2026</Date>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -2147,20 +2017,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>00:55</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/07/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2173,20 +2030,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>01:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive Days</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2251,7 +2095,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -2303,7 +2147,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -2316,7 +2160,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -2329,7 +2173,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -2342,7 +2186,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -2355,7 +2199,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -2368,7 +2212,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>17:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -2381,7 +2225,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -2396,6 +2240,19 @@
     <Date>12/07/2026</Date>
     <StartTime>22:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>1/32-finale: Jonathan Groth-Wong Chun Ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun Ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/07/2026</Date>
+    <StartTime>23:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
     <Season>2026</Season>
@@ -2407,33 +2264,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>01:00</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>13/07/2026</Date>
-    <StartTime>01:40</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>13/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
