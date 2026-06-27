@@ -1250,7 +1250,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1263,7 +1263,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1276,7 +1276,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -1289,7 +1289,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -1302,20 +1302,7 @@
   </Event>
   <Event>
     <Date>05/07/2026</Date>
-    <StartTime>23:30</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/07/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1328,7 +1315,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
