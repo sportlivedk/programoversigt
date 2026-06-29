@@ -263,15 +263,67 @@
   <Event>
     <Date>01/07/2026</Date>
     <StartTime>02:10</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 10</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>10</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
+    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/07/2026</Date>
+    <StartTime>03:20</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/07/2026</Date>
+    <StartTime>03:45</StartTime>
+    <PrimaryGenre>Dans</PrimaryGenre>
+    <Title>Cph Open</Title>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
+    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
+    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/07/2026</Date>
+    <StartTime>04:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/07/2026</Date>
+    <StartTime>05:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>01/07/2026</Date>
@@ -281,7 +333,7 @@
     <EpisodeTitle>1/16-finale: Anders Lind-Adrien Rassenfosse</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
     <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
     <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
