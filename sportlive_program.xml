@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>06/07/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -639,7 +639,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -717,7 +717,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -730,7 +730,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -743,7 +743,7 @@
   </Event>
   <Event>
     <Date>07/07/2026</Date>
-    <StartTime>21:20</StartTime>
+    <StartTime>21:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -755,8 +755,8 @@
     <LongDescription>Damerne fra Gentofte får besøg af Hørsholm Rungsted i fjerde runde af den udendørs holdturnering, Elitedivisionen. Kampen kommenteres af Mads Knudsen og Thomas Skouboe.</LongDescription>
   </Event>
   <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>07/07/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -782,7 +782,20 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/07/2026</Date>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -795,7 +808,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -821,7 +834,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -834,7 +847,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -847,7 +860,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -899,7 +912,7 @@
   </Event>
   <Event>
     <Date>09/07/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -912,7 +925,7 @@
   </Event>
   <Event>
     <Date>09/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -925,7 +938,7 @@
   </Event>
   <Event>
     <Date>09/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -951,7 +964,7 @@
   </Event>
   <Event>
     <Date>09/07/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>12:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 1</EpisodeTitle>
@@ -964,7 +977,7 @@
   </Event>
   <Event>
     <Date>09/07/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -1068,7 +1081,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -1081,7 +1094,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1094,7 +1107,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1107,7 +1120,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1120,7 +1133,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -1133,7 +1146,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1146,7 +1159,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1159,7 +1172,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 1</EpisodeTitle>
@@ -1172,7 +1185,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1185,7 +1198,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1250,7 +1263,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -1289,7 +1302,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1354,7 +1367,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1367,7 +1380,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>17:45</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1380,7 +1393,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1393,7 +1406,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1406,7 +1419,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1419,7 +1432,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1471,7 +1484,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -1497,7 +1510,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1510,7 +1523,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1523,7 +1536,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1536,7 +1549,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -1549,7 +1562,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1562,7 +1575,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1575,7 +1588,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1588,7 +1601,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -1601,7 +1614,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -1614,7 +1627,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -1627,7 +1640,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1640,7 +1653,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1653,7 +1666,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1666,7 +1679,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1679,7 +1692,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1692,7 +1705,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1705,7 +1718,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -1718,7 +1731,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1731,7 +1744,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1744,7 +1757,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -1757,7 +1770,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1770,7 +1783,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1783,7 +1796,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1796,7 +1809,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -1809,7 +1822,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -1822,7 +1835,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1835,7 +1848,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1848,7 +1861,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -1861,7 +1874,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1874,7 +1887,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1900,7 +1913,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1926,7 +1939,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1939,7 +1952,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1952,7 +1965,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1965,7 +1978,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -1978,7 +1991,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1991,7 +2004,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -2004,7 +2017,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 1</EpisodeTitle>
@@ -2017,7 +2030,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -2030,7 +2043,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -2043,7 +2056,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2095,7 +2108,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -2134,7 +2147,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2147,7 +2160,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -2160,7 +2173,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Semifinale 2</EpisodeTitle>
@@ -2173,7 +2186,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -2186,7 +2199,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2199,7 +2212,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -2212,7 +2225,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2264,7 +2277,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -2290,7 +2303,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -2303,7 +2316,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2316,7 +2329,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -2329,7 +2342,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -2342,7 +2355,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2420,7 +2433,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -2433,7 +2446,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -2446,7 +2459,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2459,7 +2472,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -2472,7 +2485,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -2485,7 +2498,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -2498,7 +2511,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -2511,7 +2524,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
