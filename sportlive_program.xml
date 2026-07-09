@@ -1,175 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>07:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>07:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>08:40</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>09:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>09:50</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
-    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>11:45</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>15:25</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Danmark-Wales</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
-    <ShortDescription>Danmarks sidste gruppekamp ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Det danske U19-landshold møder værterne fra Wales i den sidste af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham. Kommentator: Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>17:25</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Spanien-Kroatien</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Den første af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Spanien møder Kroatien i den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>19:55</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Den anden af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Ukraine møder Tyskland i den anden af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>22:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>08/07/2026</Date>
-    <StartTime>22:35</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den første af Danmarks to semifinaler i European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Finland i den første af to semifinalekampe i European League. Kampen spilles i Sydbank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/07/2026</Date>
-    <StartTime>01:05</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>La Gran Noche del Boxeo</Title>
-    <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
-    <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/07/2026</Date>
-    <StartTime>02:35</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>09/07/2026</Date>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
@@ -269,7 +100,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -314,7 +145,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -327,7 +158,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -340,7 +171,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
@@ -353,7 +184,7 @@
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter</EpisodeTitle>
@@ -425,7 +256,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -470,7 +301,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -483,7 +314,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -496,7 +327,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>06:45</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -509,7 +340,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -522,20 +353,20 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Kroatien</EpisodeTitle>
@@ -548,7 +379,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
@@ -564,13 +395,13 @@
     <StartTime>19:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>11/07/2026</Date>
@@ -642,13 +473,13 @@
     <StartTime>13:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>12/07/2026</Date>
@@ -769,7 +600,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -782,7 +613,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter</EpisodeTitle>
@@ -795,20 +626,20 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -821,7 +652,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -834,7 +665,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -847,7 +678,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -860,7 +691,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>17:05</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -873,7 +704,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter</EpisodeTitle>
@@ -886,7 +717,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -899,20 +730,20 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -925,7 +756,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -938,7 +769,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
@@ -1010,7 +841,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -1110,13 +941,13 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>15/07/2026</Date>
@@ -1400,7 +1231,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -1432,7 +1263,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -1445,7 +1276,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1601,20 +1432,20 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1686,7 +1517,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -1803,7 +1634,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -1838,13 +1669,13 @@
     <StartTime>16:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>19/07/2026</Date>
@@ -2063,7 +1894,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -2108,7 +1939,7 @@
   </Event>
   <Event>
     <Date>21/07/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2121,7 +1952,7 @@
   </Event>
   <Event>
     <Date>21/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2193,7 +2024,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -2342,7 +2173,7 @@
   </Event>
   <Event>
     <Date>22/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2414,7 +2245,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -2501,13 +2332,13 @@
     <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>23/07/2026</Date>
@@ -2648,7 +2479,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -2778,7 +2609,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -3064,7 +2895,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
@@ -3099,13 +2930,13 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finalen ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Finalen ved europamesterskabet i fodbold for U19-landshold spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
+    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>26/07/2026</Date>
@@ -3155,7 +2986,7 @@
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
     <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
     <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
