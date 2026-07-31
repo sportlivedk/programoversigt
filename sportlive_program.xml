@@ -1,370 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>07:45</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
-    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>09:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>10:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>11:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>12:05</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>15:45</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>16:05</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>18:35</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den første af Danmarks to semifinaler i European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Finland i den første af to semifinalekampe i European League. Kampen spilles i Sydbank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>21:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>21:35</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/07/2026</Date>
-    <StartTime>22:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
-    <ShortDescription>Danmarks første gruppekamp ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Det danske U19-landshold møder Tyskland i den første af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh, Wales. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>00:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
-    <ShortDescription>Danmarks anden gruppekamp ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Det danske U19-landshold møder Spanien i den anden af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh, Wales. Kommentator: Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>07:25</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Farum Arena.</ShortDescription>
-    <LongDescription>I den sjette og sidste kvalifikationskamp til basketball-VM i 2027 møder det danske herrelandshold Ukraine til returkamp på hjemmebane i Farum Arena. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>09:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>10:15</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>10:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>13:25</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den første af Danmarks to semifinaler i European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Finland i den første af to semifinalekampe i European League. Kampen spilles i Sydbank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>15:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Pokalfinale for herrer</Title>
-    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12872-79c90f32-c458-448e-9acd-dcd98a293300.jpg?temp_url_sig=c67c69958a3a4ca5ed3a6b656b0988a079c56925&amp;temp_url_expires=4927792301</StillSceneUrl>
-    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
-    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>18:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>19:45</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>La Gran Noche del Boxeo</Title>
-    <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13680-d026de19-25ae-4edc-be47-fe709ff1c20c.jpg?temp_url_sig=1cc6c7ac89682be2e252d1803d26784c9ac7853e&amp;temp_url_expires=4936244168</StillSceneUrl>
-    <ShortDescription>Professionelt boksestævne i Spanien med bl.a. danske Oliver Zaren.</ShortDescription>
-    <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>21:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Danmark-Wales</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
-    <ShortDescription>Danmarks sidste gruppekamp ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Det danske U19-landshold møder værterne fra Wales i den sidste af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham. Kommentator: Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/07/2026</Date>
-    <StartTime>23:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>31/07/2026</Date>
-    <StartTime>01:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>31/07/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>31/07/2026</Date>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
@@ -522,7 +158,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -548,7 +184,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -574,7 +210,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -587,7 +223,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -600,7 +236,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -613,7 +249,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -626,7 +262,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -639,7 +275,7 @@
   </Event>
   <Event>
     <Date>01/08/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -652,7 +288,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -665,7 +301,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -678,7 +314,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -704,7 +340,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -717,7 +353,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -730,7 +366,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -743,7 +379,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -756,7 +392,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -769,7 +405,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -782,7 +418,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -795,7 +431,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -808,7 +444,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -821,7 +457,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -834,7 +470,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -847,7 +483,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -860,7 +496,7 @@
   </Event>
   <Event>
     <Date>02/08/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -873,7 +509,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -886,7 +522,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -899,7 +535,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -912,7 +548,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>08:30</StartTime>
+    <StartTime>08:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -925,7 +561,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -938,7 +574,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -951,7 +587,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -964,7 +600,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -977,7 +613,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -990,7 +626,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -1003,7 +639,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1016,7 +652,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1029,7 +665,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1094,7 +730,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -1107,7 +743,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1120,7 +756,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1133,7 +769,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1146,7 +782,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1159,7 +795,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -1172,7 +808,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -1185,7 +821,7 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1198,7 +834,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1211,7 +847,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1224,7 +860,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1237,7 +873,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -1250,7 +886,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1263,7 +899,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>08:30</StartTime>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1276,7 +912,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -1302,7 +938,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1341,7 +977,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1367,7 +1003,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1380,7 +1016,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -1393,7 +1029,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1458,7 +1094,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1471,7 +1107,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -1484,7 +1120,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1497,7 +1133,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -1510,7 +1146,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1523,7 +1159,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -1536,7 +1172,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1549,7 +1185,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -1562,7 +1198,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1575,7 +1211,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
@@ -1588,7 +1224,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1601,7 +1237,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -1614,7 +1250,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1627,7 +1263,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -1640,7 +1276,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -1679,7 +1315,7 @@
   </Event>
   <Event>
     <Date>08/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -1692,7 +1328,7 @@
   </Event>
   <Event>
     <Date>08/08/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1978,7 +1614,7 @@
   </Event>
   <Event>
     <Date>08/08/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1991,7 +1627,7 @@
   </Event>
   <Event>
     <Date>08/08/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -2004,7 +1640,7 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -2017,7 +1653,7 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -2030,7 +1666,7 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -2056,7 +1692,7 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -2342,7 +1978,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2355,7 +1991,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -2368,7 +2004,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -2381,7 +2017,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -2394,7 +2030,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -2407,7 +2043,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -2420,7 +2056,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (k)</EpisodeTitle>
@@ -2433,7 +2069,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -2446,7 +2082,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (m)</EpisodeTitle>
@@ -2459,7 +2095,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>15:05</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
@@ -2472,7 +2108,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Finland (k)</EpisodeTitle>
@@ -2485,7 +2121,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
@@ -2498,7 +2134,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>16:25</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Finland (m)</EpisodeTitle>
@@ -2511,7 +2147,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2537,7 +2173,7 @@
   </Event>
   <Event>
     <Date>10/08/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -2615,7 +2251,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Cykelvasan 90</Title>
     <EpisodeTitle>Nordens største mountainbikeløb</EpisodeTitle>
@@ -2628,7 +2264,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -2641,7 +2277,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -2654,7 +2290,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -2797,7 +2433,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -2810,7 +2446,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2823,7 +2459,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Yokohama</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -2836,7 +2472,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -2849,7 +2485,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -2862,7 +2498,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -2888,7 +2524,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -2901,7 +2537,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Norge (k)</EpisodeTitle>
@@ -2914,7 +2550,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>19:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -2927,7 +2563,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Norge (m)</EpisodeTitle>
@@ -2940,7 +2576,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -2953,7 +2589,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -2966,7 +2602,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>MVPW 05 - Johnson vs. Thorslund</Title>
     <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
@@ -2979,7 +2615,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -2992,7 +2628,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -3005,7 +2641,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3018,7 +2654,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Yokohama</Title>
     <EpisodeTitle>Finale (m)</EpisodeTitle>
@@ -3031,7 +2667,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3044,7 +2680,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -3057,7 +2693,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -3070,7 +2706,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3083,7 +2719,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -3226,7 +2862,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Cykelvasan 90</Title>
     <EpisodeTitle>Nordens største mountainbikeløb</EpisodeTitle>
@@ -3239,7 +2875,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3291,7 +2927,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3317,7 +2953,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3330,7 +2966,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -3343,7 +2979,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -3356,7 +2992,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
@@ -3369,7 +3005,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
@@ -3382,7 +3018,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -3395,7 +3031,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -3408,7 +3044,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -3421,7 +3057,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -3434,7 +3070,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -3447,7 +3083,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -3460,7 +3096,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -3473,7 +3109,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3525,7 +3161,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -3538,7 +3174,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
@@ -3551,7 +3187,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -3564,7 +3200,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -3577,7 +3213,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>15:25</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Semifinale 1 (k)</EpisodeTitle>
@@ -3590,7 +3226,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Semifinale 2 (k)</EpisodeTitle>
@@ -3603,7 +3239,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Bronzekamp (k)</EpisodeTitle>
@@ -3616,7 +3252,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -3629,7 +3265,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -3642,7 +3278,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -3655,7 +3291,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3668,7 +3304,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>MVPW 05 - Johnson vs. Thorslund</Title>
     <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
@@ -3681,7 +3317,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
@@ -3694,7 +3330,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3707,7 +3343,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3720,7 +3356,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -3733,7 +3369,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3746,7 +3382,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -3759,7 +3395,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -3772,7 +3408,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -3785,7 +3421,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
@@ -3798,7 +3434,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -3811,7 +3447,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -3824,7 +3460,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:00</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Semifinale 1 (m)</EpisodeTitle>
@@ -3837,7 +3473,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Semifinale 2 (m)</EpisodeTitle>
@@ -3850,7 +3486,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Bronzekamp (m)</EpisodeTitle>
@@ -3941,7 +3577,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -3954,7 +3590,7 @@
   </Event>
   <Event>
     <Date>17/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
