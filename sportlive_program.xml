@@ -1,201 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>07:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>09:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>10:05</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
-    <Title>Denmark Open</Title>
-    <EpisodeTitle>Finaler 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13282-cfca760a-49ad-46fd-b60e-b31b52c21d67.jpg?temp_url_sig=be744c636112708749fd568d06152dde6c1f02c1&amp;temp_url_expires=4932032788</StillSceneUrl>
-    <ShortDescription>Finaler ved den traditionsrige dartturnering Denmark Open i Esbjerg.</ShortDescription>
-    <LongDescription>Granly Hockey Arena i Esbjerg danner rammen om finalerne ved den traditionsrige turnering Denmark Open, som har været afviklet siden 1974 med deltagelse af nogle af verdens bedste dartspillere. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>13:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>13:55</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>14:30</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
-    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>16:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Farum Arena.</ShortDescription>
-    <LongDescription>I den sjette og sidste kvalifikationskamp til basketball-VM i 2027 møder det danske herrelandshold Ukraine til returkamp på hjemmebane i Farum Arena. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>18:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>20:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>20:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>21:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>22:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/08/2026</Date>
-    <StartTime>22:55</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/08/2026</Date>
-    <StartTime>01:50</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>03/08/2026</Date>
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
@@ -1388,8 +1193,8 @@
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med Melissa Mortensen og Dina Thorslund.</ShortDescription>
-    <LongDescription>Danmarks to største kvindeboksere er på programmet, når Caribe Royale i Orlando, Florida danner rammen om stævnet MVPW 05. Ud over hovedkampen mellem Dina Thorslund og australske Cherneka Johnson om hele fire VM-bælter i bantamvægt skal Melissa Mortensen og mexicaneren Mayelli Flores bokse om den ledige VM-titel i superbantamvægt. Kommentator: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>09/08/2026</Date>
@@ -1661,8 +1466,8 @@
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med Melissa Mortensen og Dina Thorslund.</ShortDescription>
-    <LongDescription>Danmarks to største kvindeboksere er på programmet, når Caribe Royale i Orlando, Florida danner rammen om stævnet MVPW 05. Ud over hovedkampen mellem Dina Thorslund og australske Cherneka Johnson om hele fire VM-bælter i bantamvægt skal Melissa Mortensen og mexicaneren Mayelli Flores bokse om den ledige VM-titel i superbantamvægt. Kommentator: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>10/08/2026</Date>
@@ -1895,8 +1700,8 @@
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med Melissa Mortensen og Dina Thorslund.</ShortDescription>
-    <LongDescription>Danmarks to største kvindeboksere er på programmet, når Caribe Royale i Orlando, Florida danner rammen om stævnet MVPW 05. Ud over hovedkampen mellem Dina Thorslund og australske Cherneka Johnson om hele fire VM-bælter i bantamvægt skal Melissa Mortensen og mexicaneren Mayelli Flores bokse om den ledige VM-titel i superbantamvægt. Kommentator: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>10/08/2026</Date>
@@ -2311,8 +2116,8 @@
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med Melissa Mortensen og Dina Thorslund.</ShortDescription>
-    <LongDescription>Danmarks to største kvindeboksere er på programmet, når Caribe Royale i Orlando, Florida danner rammen om stævnet MVPW 05. Ud over hovedkampen mellem Dina Thorslund og australske Cherneka Johnson om hele fire VM-bælter i bantamvægt skal Melissa Mortensen og mexicaneren Mayelli Flores bokse om den ledige VM-titel i superbantamvægt. Kommentator: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>13/08/2026</Date>
@@ -2987,8 +2792,8 @@
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med Melissa Mortensen og Dina Thorslund.</ShortDescription>
-    <LongDescription>Danmarks to største kvindeboksere er på programmet, når Caribe Royale i Orlando, Florida danner rammen om stævnet MVPW 05. Ud over hovedkampen mellem Dina Thorslund og australske Cherneka Johnson om hele fire VM-bælter i bantamvægt skal Melissa Mortensen og mexicaneren Mayelli Flores bokse om den ledige VM-titel i superbantamvægt. Kommentator: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>15/08/2026</Date>
