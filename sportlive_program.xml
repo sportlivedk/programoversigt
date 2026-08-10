@@ -262,6 +262,19 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
+    <StartTime>04:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Miwa Harimoto-Chen Xingtong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-8281e6f6-12f0-48a9-aeeb-0ff775be03bf.jpg?temp_url_sig=76d14e0617a45cd3bc13009614616404c6535bb6&amp;temp_url_expires=4939966433</StillSceneUrl>
+    <ShortDescription>Damernes finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>Damernes finale ved WTT Champions Yokohama i Japan mellem japanske Miwa Harimoto og kinesiske Chen Xingtong. Kampen spilles i Yokohama Buntai Arena og kommenteres af Henrik Hvillum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/08/2026</Date>
     <StartTime>07:20</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Cykelvasan 90</Title>
@@ -458,19 +471,6 @@
   <Event>
     <Date>12/08/2026</Date>
     <StartTime>07:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Yokohama</Title>
-    <EpisodeTitle>Miwa Harimoto-Chen Xingtong</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-8281e6f6-12f0-48a9-aeeb-0ff775be03bf.jpg?temp_url_sig=76d14e0617a45cd3bc13009614616404c6535bb6&amp;temp_url_expires=4939966433</StillSceneUrl>
-    <ShortDescription>Damernes finale ved WTT Champions Yokohama i Japan.</ShortDescription>
-    <LongDescription>Damernes finale ved WTT Champions Yokohama i Japan mellem japanske Miwa Harimoto og kinesiske Chen Xingtong. Kampen spilles i Yokohama Buntai Arena og kommenteres af Henrik Hvillum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/08/2026</Date>
-    <StartTime>08:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -483,7 +483,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -509,7 +509,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-HIK (k)</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>18:00</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Norge (k)</EpisodeTitle>
@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Norge (m)</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Lind/Hursey-Karlsson/Kallberg</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
@@ -623,6 +623,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
     <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
     <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og polske Maciej Kubik i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/08/2026</Date>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Miwa Harimoto-Chen Xingtong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-8281e6f6-12f0-48a9-aeeb-0ff775be03bf.jpg?temp_url_sig=76d14e0617a45cd3bc13009614616404c6535bb6&amp;temp_url_expires=4939966433</StillSceneUrl>
+    <ShortDescription>Damernes finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>Damernes finale ved WTT Champions Yokohama i Japan mellem japanske Miwa Harimoto og kinesiske Chen Xingtong. Kampen spilles i Yokohama Buntai Arena og kommenteres af Henrik Hvillum.</LongDescription>
   </Event>
   <Event>
     <Date>12/08/2026</Date>
@@ -639,7 +652,7 @@
   </Event>
   <Event>
     <Date>13/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
