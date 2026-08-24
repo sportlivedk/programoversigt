@@ -1,1254 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>06:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>08:05</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>08:40</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>09:10</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>09:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>10:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>10:35</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>13:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>14:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og polske Maciej Kubik i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>14:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>15:40</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>16:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Felix Lebrun-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-cdf8863a-38a6-4bb6-b6b6-8de1a05432b1.jpg?temp_url_sig=d64650e16dd6440925092f28e769f7de91170887&amp;temp_url_expires=4940563982</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>Herrernes finale ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mellem franske Felix Lebrun og japanske Tomokazu Harimoto. Kampen spilles i Malmø Arena i Sverige og kommenteres af Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>17:10</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>17:55</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Pisa-Empoli</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8270556-1ba63c81-4feb-4eb9-8f67-3478a680eedc.jpg?temp_url_sig=d29e25283106a65112f5c8c7ab997338da02a628&amp;temp_url_expires=4942306071</StillSceneUrl>
-    <ShortDescription>Pisa møder Empoli i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Pisa Sporting Club møder Empoli FC i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Cetilar Arena i Pisa og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>20:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>20:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>21:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Palermo-Lecce</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14322-d58df55f-47fa-4530-a82b-2e01eaea2fe4.jpg?temp_url_sig=fc7f0433c19b3c74560ac6207f8185785bde4ed5&amp;temp_url_expires=4942306257</StillSceneUrl>
-    <ShortDescription>Palermo møder Lecce i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Palermo møder Lecce i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Renzo Barbera i Palermo og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/08/2026</Date>
-    <StartTime>23:20</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Syvende runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Herrerne fra KB Tennis får besøg af Gentofte i syvende runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles på KB's baner på Frederiksberg og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>02:45</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>07:05</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Gentofte-HIK (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Sjette runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Gentofte får besøg af HIK i sjette runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles i Gentofte Tennisklub og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>10:30</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>11:10</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Pisa-Empoli</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8270556-1ba63c81-4feb-4eb9-8f67-3478a680eedc.jpg?temp_url_sig=d29e25283106a65112f5c8c7ab997338da02a628&amp;temp_url_expires=4942306071</StillSceneUrl>
-    <ShortDescription>Pisa møder Empoli i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Pisa Sporting Club møder Empoli FC i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Cetilar Arena i Pisa og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>13:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Palermo-Lecce</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14322-d58df55f-47fa-4530-a82b-2e01eaea2fe4.jpg?temp_url_sig=fc7f0433c19b3c74560ac6207f8185785bde4ed5&amp;temp_url_expires=4942306257</StillSceneUrl>
-    <ShortDescription>Palermo møder Lecce i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Palermo møder Lecce i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Renzo Barbera i Palermo og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>15:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>16:30</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>19:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>20:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>20:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>21:50</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>2. etape, cykling</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Syvende runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Herrerne fra KB Tennis får besøg af Gentofte i syvende runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles på KB's baner på Frederiksberg og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>10:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>11:05</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>13:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>14:25</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Futsal Ligaen</Title>
-    <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>17:20</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>17:55</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>18:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>19:30</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>MVPW 05 - Johnson vs. Thorslund</Title>
-    <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>22:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>23:05</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/08/2026</Date>
-    <StartTime>23:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>00:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Pisa-Empoli</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8270556-1ba63c81-4feb-4eb9-8f67-3478a680eedc.jpg?temp_url_sig=d29e25283106a65112f5c8c7ab997338da02a628&amp;temp_url_expires=4942306071</StillSceneUrl>
-    <ShortDescription>Pisa møder Empoli i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Pisa Sporting Club møder Empoli FC i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Cetilar Arena i Pisa og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>02:10</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Mountainbike</PrimaryGenre>
-    <Title>Cykelvasan 90</Title>
-    <EpisodeTitle>Nordens største mountainbikeløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14187-b86fbf34-3a35-4989-be16-8dfa1e9a52b0.jpg?temp_url_sig=4fa05e0d8b65393f5b98027faf2f21fba77425ca&amp;temp_url_expires=4939452902</StillSceneUrl>
-    <ShortDescription>Mountainbikeløb fra Dalarna i Sverige.</ShortDescription>
-    <LongDescription>Årets udgave af Nordens største mountainbikeløb, Cykelvasan 90, køres på en lidt kortere rute end tidligere. Til gengæld bringer de 92 kilometer rytterne endnu tættere på den klassiske rute fra Sälen til Mora i Dalarna, hvor det verdensberømte skiløb Vasaløbet finder sted hvert forår. Kommentatorer: Jørn Husum og Klaus Nielsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>11:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>11:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>12:00</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
-    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>13:50</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Farum Arena.</ShortDescription>
-    <LongDescription>I den sjette og sidste kvalifikationskamp til basketball-VM i 2027 møder det danske herrelandshold Ukraine til returkamp på hjemmebane i Farum Arena. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>15:45</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Senior DM</Title>
-    <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
-    <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
-    <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>18:20</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Gentofte-HIK (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Sjette runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Gentofte får besøg af HIK i sjette runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles i Gentofte Tennisklub og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>21:40</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>22:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>23:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/08/2026</Date>
-    <StartTime>23:50</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Palermo-Lecce</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14322-d58df55f-47fa-4530-a82b-2e01eaea2fe4.jpg?temp_url_sig=fc7f0433c19b3c74560ac6207f8185785bde4ed5&amp;temp_url_expires=4942306257</StillSceneUrl>
-    <ShortDescription>Palermo møder Lecce i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Palermo møder Lecce i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Renzo Barbera i Palermo og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>02:00</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Kvindernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Norge møder Estland i kvindernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>07:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Estland møder Sverige i herrernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>08:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>09:15</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>09:50</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>13:30</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
-    <Title>Denmark Open</Title>
-    <EpisodeTitle>Finaler 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13282-cfca760a-49ad-46fd-b60e-b31b52c21d67.jpg?temp_url_sig=be744c636112708749fd568d06152dde6c1f02c1&amp;temp_url_expires=4932032788</StillSceneUrl>
-    <ShortDescription>Finaler ved den traditionsrige dartturnering Denmark Open i Esbjerg.</ShortDescription>
-    <LongDescription>Granly Hockey Arena i Esbjerg danner rammen om finalerne ved den traditionsrige turnering Denmark Open, som har været afviklet siden 1974 med deltagelse af nogle af verdens bedste dartspillere. Kommentatorer: Peter Jørgensen og Kim Bauer Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>16:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af bordtennis</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>17:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>18:00</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Syvende runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Herrerne fra KB Tennis får besøg af Gentofte i syvende runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles på KB's baner på Frederiksberg og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>21:25</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>22:00</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>22:35</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>01:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>02:10</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Pisa-Empoli</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8270556-1ba63c81-4feb-4eb9-8f67-3478a680eedc.jpg?temp_url_sig=d29e25283106a65112f5c8c7ab997338da02a628&amp;temp_url_expires=4942306071</StillSceneUrl>
-    <ShortDescription>Pisa møder Empoli i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Pisa Sporting Club møder Empoli FC i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Cetilar Arena i Pisa og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>09:10</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>09:45</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>Gentofte-HIK (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-d271ddaa-4d18-4d09-a533-7234d5c2574a.jpg?temp_url_sig=d46cad694d92fbe1e395f7733ef944d563ee2ebe&amp;temp_url_expires=4934606469</StillSceneUrl>
-    <ShortDescription>Sjette runde af den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>Damerne fra Gentofte får besøg af HIK i sjette runde af den udendørs holdturnering, Elitedivisionen. Kampen spilles i Gentofte Tennisklub og kommenteres af Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>13:10</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>13:30</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>European League</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
-    <ShortDescription>Den første af Danmarks to semifinaler i European League.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Finland i den første af to semifinalekampe i European League. Kampen spilles i Sydbank Arena i Odense og kommenteres af Peter Jørgensen og Frederik Mikelsons.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>16:00</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>16:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>17:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for herrer</Title>
-    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
-    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>20:15</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>20:50</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>MVPW 05 - Johnson vs. Thorslund</Title>
-    <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>Stort VM-stævne fra USA med bl.a. Dina Thorslund.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/08/2026</Date>
-    <StartTime>23:50</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Finale ved U19-EM fra Wrexham i Wales.</ShortDescription>
-    <LongDescription>Spanien og Tyskland tørner sammen i finalen ved europamesterskabet i fodbold for U19-landshold, som spilles på Racecourse Ground i Wrexham, Wales. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Coppa Italia</Title>
-    <EpisodeTitle>Palermo-Lecce</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14322-d58df55f-47fa-4530-a82b-2e01eaea2fe4.jpg?temp_url_sig=fc7f0433c19b3c74560ac6207f8185785bde4ed5&amp;temp_url_expires=4942306257</StillSceneUrl>
-    <ShortDescription>Palermo møder Lecce i første runde af Coppa Italia.</ShortDescription>
-    <LongDescription>Palermo møder Lecce i første runde af den italienske pokalturnering Coppa Italia. Kampen spilles på Stadio Renzo Barbera i Palermo og kommenteres af Kenneth Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>09:10</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Odense Open</Title>
-    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
-    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>09:50</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>13:55</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>2. etape, cykling</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>18:10</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>21:45</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>22:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>22:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/08/2026</Date>
-    <StartTime>23:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Finland-Sverige (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Kvindernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Finland møder Sverige i kvindernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>00:05</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>00:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Kvindernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Norge møder Estland i kvindernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>01:10</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Estland møder Sverige i herrernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>01:50</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>24/08/2026</Date>
     <StartTime>07:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
@@ -1367,7 +119,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>15:05</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -1380,7 +132,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -1445,20 +197,20 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
   </Event>
   <Event>
-    <Date>25/08/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>24/08/2026</Date>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
@@ -1471,7 +223,7 @@
   </Event>
   <Event>
     <Date>25/08/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1614,7 +366,7 @@
   </Event>
   <Event>
     <Date>25/08/2026</Date>
-    <StartTime>15:30</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -1653,7 +405,7 @@
   </Event>
   <Event>
     <Date>25/08/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1666,7 +418,7 @@
   </Event>
   <Event>
     <Date>26/08/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1679,7 +431,7 @@
   </Event>
   <Event>
     <Date>26/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1692,16 +444,29 @@
   </Event>
   <Event>
     <Date>26/08/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>26/08/2026</Date>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
   </Event>
   <Event>
     <Date>26/08/2026</Date>
@@ -1887,7 +652,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -1900,7 +665,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -1913,7 +678,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:20</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -2007,6 +772,19 @@
     <StartTime>16:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/08/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -2017,20 +795,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>17:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/08/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -2039,11 +804,11 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -2056,7 +821,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -2069,7 +834,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -2082,7 +847,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -2095,7 +860,7 @@
   </Event>
   <Event>
     <Date>27/08/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>MVPW 05 - Johnson vs. Thorslund</Title>
     <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
@@ -2108,7 +873,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2121,7 +886,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2228,17 +993,17 @@
     <StartTime>14:40</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -2251,7 +1016,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -2264,7 +1029,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Sverige (k)</EpisodeTitle>
@@ -2277,7 +1042,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -2290,7 +1055,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -2303,7 +1068,7 @@
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -2312,11 +1077,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>28/08/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -2329,7 +1094,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2446,7 +1211,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -2520,11 +1285,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Norge (m)</EpisodeTitle>
@@ -2537,7 +1302,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -2550,7 +1315,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -2563,7 +1328,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -2576,7 +1341,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -2589,7 +1354,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -2602,7 +1367,7 @@
   </Event>
   <Event>
     <Date>29/08/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -2615,7 +1380,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -2628,7 +1393,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2745,7 +1510,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
@@ -2784,7 +1549,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -2797,7 +1562,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -2810,7 +1575,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -2819,11 +1584,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -2836,7 +1601,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -2849,7 +1614,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -2862,7 +1627,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2875,7 +1640,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -2888,7 +1653,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -2901,7 +1666,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -2914,7 +1679,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -2927,7 +1692,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -2940,7 +1705,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -2953,7 +1718,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -2966,7 +1731,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -2979,7 +1744,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -2992,7 +1757,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -3005,7 +1770,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -3018,7 +1783,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -3027,11 +1792,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -3044,7 +1809,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -3057,7 +1822,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler og finaler</EpisodeTitle>
@@ -3070,7 +1835,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -3083,7 +1848,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (k)</EpisodeTitle>
@@ -3096,7 +1861,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -3109,7 +1874,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (m)</EpisodeTitle>
@@ -3135,7 +1900,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -3148,7 +1913,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>00:40</StartTime>
+    <StartTime>00:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Wang Manyu-Kuai Man</EpisodeTitle>
@@ -3161,7 +1926,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3174,7 +1939,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -3183,7 +1948,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>01/09/2026</Date>
@@ -3343,7 +2108,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3356,7 +2121,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Felix Lebrun-Tomokazu Harimoto</EpisodeTitle>
@@ -3369,7 +2134,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3382,7 +2147,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Wang Manyu-Kuai Man</EpisodeTitle>
@@ -3395,20 +2160,20 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>08:30</StartTime>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Finland (m)</EpisodeTitle>
@@ -3421,7 +2186,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -3434,7 +2199,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -3447,7 +2212,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -3460,7 +2225,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -3473,7 +2238,7 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -3486,20 +2251,33 @@
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>19:25</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>1. etape, svømning</EpisodeTitle>
-    <Season>2026</Season>
+    <StartTime>18:45</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>UEFA Women's Champions League</Title>
+    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
+    <Season>2026-27</Season>
     <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
+    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>02/09/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>21:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketmagasinet Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/09/2026</Date>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -3508,37 +2286,50 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/09/2026</Date>
-    <StartTime>22:35</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/09/2026</Date>
-    <StartTime>23:40</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>00:20</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/09/2026</Date>
+    <StartTime>00:50</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
+    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/09/2026</Date>
+    <StartTime>01:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/09/2026</Date>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3551,7 +2342,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -3564,20 +2355,20 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>08:15</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Felix Lebrun-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
+    <StartTime>08:05</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketmagasinet Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-cdf8863a-38a6-4bb6-b6b6-8de1a05432b1.jpg?temp_url_sig=d64650e16dd6440925092f28e769f7de91170887&amp;temp_url_expires=4940563982</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>Herrernes finale ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mellem franske Felix Lebrun og japanske Tomokazu Harimoto. Kampen spilles i Malmø Arena i Sverige og kommenteres af Martin Kring.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -3625,11 +2416,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -3642,7 +2433,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -3655,7 +2446,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Lind/Hursey-Karlsson/Kallberg</EpisodeTitle>
@@ -3668,46 +2459,20 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>17:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
-    <Season>2026</Season>
+    <StartTime>17:55</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>UEFA Women's Champions League</Title>
+    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
+    <Season>2026-27</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og polske Maciej Kubik i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
+    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>18:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/09/2026</Date>
-    <StartTime>19:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/09/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -3720,7 +2485,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -3733,7 +2498,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -3746,7 +2511,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -3759,7 +2524,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -3772,7 +2537,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -3785,7 +2550,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -3798,7 +2563,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Finland (k)</EpisodeTitle>
@@ -3811,7 +2576,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Estland (k)</EpisodeTitle>
@@ -3824,7 +2589,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Sverige (k)</EpisodeTitle>
@@ -3837,7 +2602,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -3850,7 +2615,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -3863,7 +2628,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -3889,7 +2654,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -3916,45 +2681,45 @@
   <Event>
     <Date>04/09/2026</Date>
     <StartTime>15:15</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketmagasinet Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/09/2026</Date>
-    <StartTime>15:45</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
   </Event>
   <Event>
     <Date>04/09/2026</Date>
     <StartTime>16:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>19:50</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/09/2026</Date>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -3966,8 +2731,8 @@
     <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger det danske kajaklandshold med bl.a. Thorbjørn Rask, Mads Brandt Pedersen og Rasmus Brandstrup Knudsen i jagten på VM-medaljer. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>05/09/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>04/09/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -3976,7 +2741,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>05/09/2026</Date>
@@ -4106,7 +2871,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-543d46e4-f075-43e7-8d0d-b39e34954e66.jpg?temp_url_sig=f0d2277e22be0a6eb8f6cc52d6502f296e20a942&amp;temp_url_expires=4942385313</StillSceneUrl>
     <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer.</LongDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>05/09/2026</Date>
@@ -4124,19 +2889,19 @@
   <Event>
     <Date>05/09/2026</Date>
     <StartTime>16:00</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketmagasinet Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -4145,24 +2910,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
     <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen.</LongDescription>
+    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>18:45</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/09/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -4175,7 +2927,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -4188,7 +2940,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -4201,7 +2953,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -4214,7 +2966,20 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:05</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>UEFA Women's Champions League</Title>
+    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
+    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/09/2026</Date>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
@@ -4226,21 +2991,8 @@
     <LongDescription>Kvindelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>05/09/2026</Date>
-    <StartTime>23:25</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Sverige-Norge (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Sverige og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/09/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>06/09/2026</Date>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
@@ -4253,46 +3005,7 @@
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>00:25</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Sverige-Norge (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Sverige og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/09/2026</Date>
-    <StartTime>00:55</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/09/2026</Date>
-    <StartTime>01:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Estland møder Sverige i herrernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/09/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -4305,29 +3018,42 @@
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
-    <Season>2025-26</Season>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>UEFA Women's Champions League</Title>
+    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
+    <Season>2026-27</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen og Thomas Døssing.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
+    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
-    <EpisodeTitle>DM-finale (m)</EpisodeTitle>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Finale i den udendørs holdturnering, Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets finale i den udendørs turnering for klubhold, hvor finalisterne i Elitedivisionen skal kæmpe om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/09/2026</Date>
+    <StartTime>13:05</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
   <Event>
     <Date>06/09/2026</Date>
@@ -4405,24 +3131,24 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-543d46e4-f075-43e7-8d0d-b39e34954e66.jpg?temp_url_sig=f0d2277e22be0a6eb8f6cc52d6502f296e20a942&amp;temp_url_expires=4942385313</StillSceneUrl>
     <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer.</LongDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/09/2026</Date>
     <StartTime>22:05</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketmagasinet Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
@@ -4435,7 +3161,7 @@
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
@@ -4448,7 +3174,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -4461,7 +3187,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -4474,7 +3200,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
