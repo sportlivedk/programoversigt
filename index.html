@@ -299,14 +299,19 @@
                     const broadcastDateString = formatDateStandard(broadcastDateObj);
 
                     if (broadcastDateString !== currentDisplayDate) {
-                        const dateHeader = document.createElement('div');
-                        dateHeader.className = 'date-header';
-                        const options = { weekday: 'long' };
-                        const dayName = new Intl.DateTimeFormat('da-DK', options).format(broadcastDateObj);
-                        dateHeader.textContent = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} ${broadcastDateString}`;
-                        container.appendChild(dateHeader);
-                        currentDisplayDate = broadcastDateString;
-                    }
+                    const dateHeader = document.createElement('div');
+                    dateHeader.className = 'date-header';
+                    
+                    const dayName = new Intl.DateTimeFormat('da-DK', { weekday: 'long' }).format(broadcastDateObj);
+                    const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(broadcastDateObj);
+                    const day = broadcastDateObj.getDate();
+                    const year = broadcastDateObj.getFullYear();
+                    
+                    dateHeader.textContent = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName} ${year}`;
+                    
+                    container.appendChild(dateHeader);
+                    currentDisplayDate = broadcastDateString;
+                }
 
                     const card = document.createElement('div');
                     card.className = `program-card status-${status.toLowerCase()}`;
