@@ -217,15 +217,30 @@
             border-color: #dd5f12;
         }
 
-        /* --- MOBILVISNING --- */
+/* --- MOBILVISNING --- */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
             
-            /* NYT: Her fjerner vi afstanden (margin-bottom) under klokkeslættet, så sportsgrenen rykker tættere på */
-            .time-col { margin-bottom: 0px; text-align: left; line-height: 1.1; } 
+            /* NYT: Vi bruger en negativ margin og minimal line-height for at stramme det helt op */
+            .time-col { 
+                margin-bottom: -5px; /* Du kan justere dette tal til fx -8px for at rykke det endnu tættere */
+                text-align: left; 
+                line-height: 1; /* Fjerner indbygget luft over/under teksten */
+                padding-bottom: 0;
+            } 
             
-            .content-col { padding: 0; margin-bottom: 10px; }
-            .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; }
+            .content-col { 
+                padding: 0; 
+                margin-bottom: 10px; 
+                margin-top: 0; /* Sikrer ingen ekstra luft i toppen */
+            }
+
+            /* Sikrer at der ikke skubbes fra sportsgrenens side */
+            .genre {
+                margin-top: 0;
+            }
+
+            .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; margin-top: 8px; }
             .expand-icon { top: 15px; right: 15px; }
             
             .program-card.expanded .long-description {
