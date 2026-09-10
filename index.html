@@ -360,9 +360,9 @@
                     const dayName = new Intl.DateTimeFormat('da-DK', { weekday: 'long' }).format(dateObj);
                     const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
                     const day = dateObj.getDate();
-                    const year = dateObj.getFullYear();
                     
-                    const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName} ${year}`;
+                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
+                    const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
                     
                     const option = document.createElement('option');
                     option.value = dateStr;
