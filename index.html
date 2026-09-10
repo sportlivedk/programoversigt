@@ -10,7 +10,7 @@
             box-sizing: border-box;
         }
 
-        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME (BEHOLDES) --- */
+        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME --- */
         html, body {
             height: 100%;
             overflow-y: auto !important;
@@ -47,19 +47,28 @@
             margin-top: 20px;
         }
 
-        .date-header {
+        /* NYT: Design til vores dropdown-menu */
+        .date-selector {
             background-color: #e0e0e0;
-            padding: 10px 15px;
-            margin-top: 30px;
-            margin-bottom: 10px;
+            padding: 12px 15px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: none;
             border-left: 5px solid #dd5f12;
+            border-radius: 4px;
             font-size: 1.2em;
             font-weight: bold;
             color: #333;
+            width: 100%;
+            cursor: pointer;
+            font-family: inherit;
+            outline: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
-        #schedule-container .date-header:first-of-type {
-            margin-top: 0;
+        /* Lidt ekstra styling, når dropdownen er i fokus */
+        .date-selector:focus {
+            box-shadow: 0 2px 8px rgba(221, 95, 18, 0.4);
         }
 
         .program-card {
@@ -84,10 +93,10 @@
         }
 
         /* Farveindikatorer for venstre kant */
-        .status-live { border-left-color: #e74c3c; } /* Skarp rød */
+        .status-live { border-left-color: #e74c3c; } 
         .status-repeat { border-left-color: #95a5a6; }
         .status-premiere { border-left-color: #f1c40f; }
-        .status-relive { border-left-color: #ef867b; } /* Nedtonet rød til forskudt */
+        .status-relive { border-left-color: #ef867b; } 
 
         .time-col {
             flex: 0 0 80px;
@@ -178,10 +187,10 @@
         }
 
         /* Farveindikatorer for ikonets baggrund */
-        .bg-live { background-color: #e74c3c; } /* Skarp rød */
+        .bg-live { background-color: #e74c3c; } 
         .bg-premiere { background-color: #f39c12; }
         .bg-repeat { display: none; } 
-        .bg-relive { background-color: #ef867b; } /* Nedtonet rød til forskudt */
+        .bg-relive { background-color: #ef867b; } 
 
         .expand-icon {
             position: absolute;
@@ -221,6 +230,9 @@
 
     <div class="container">
         <div id="error-display"></div>
+
+        <!-- NYT: Beholder til dropdown-menuen -->
+        <div id="selector-container"></div>
 
         <div id="schedule-container">
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
@@ -266,6 +278,8 @@
 
                 const now = new Date();
                 const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                
+                // Beholder TV-døgns logikken (skiller kl 06)
                 if (now.getHours() < 6) {
                     currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
                 }
@@ -273,104 +287,149 @@
 
                 if(loadingText) loadingText.style.display = 'none';
 
-                let currentDisplayDate = '';
-                let renderedEventsCount = 0;
+                // NYT: Variabler til at gruppere begivenhederne
+                const groupedEvents = {};
+                const uniqueDates = [];
+                let hasFutureEvents = false;
 
+                // 1. Vi gennemgår alle events og putter dem i "kasser" baseret på deres dato
                 events.forEach(event => {
                     const rawDate = getTagValue(event, 'Date');
                     const time = getTagValue(event, 'StartTime');
                     const broadcastDateObj = getBroadcastDate(rawDate, time);
 
+                    // Filtrer gamle dage fra
                     if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
                         return;
                     }
 
-                    renderedEventsCount++;
+                    hasFutureEvents = true;
 
-                    const genre = getTagValue(event, 'PrimaryGenre');
-                    const title = getTagValue(event, 'Title');
-                    const epTitle = getTagValue(event, 'EpisodeTitle');
-                    const status = getTagValue(event, 'Status');
-                    const desc = getTagValue(event, 'ShortDescription');
-                    const longDesc = getTagValue(event, 'LongDescription');
-                    const stillUrl = getTagValue(event, 'StillSceneUrl');
+                    // Hent alle data
+                    const parsedEvent = {
+                        genre: getTagValue(event, 'PrimaryGenre'),
+                        title: getTagValue(event, 'Title'),
+                        epTitle: getTagValue(event, 'EpisodeTitle'),
+                        status: getTagValue(event, 'Status'),
+                        desc: getTagValue(event, 'ShortDescription'),
+                        longDesc: getTagValue(event, 'LongDescription'),
+                        stillUrl: getTagValue(event, 'StillSceneUrl'),
+                        time: time,
+                        broadcastDateObj: broadcastDateObj,
+                        broadcastDateString: formatDateStandard(broadcastDateObj)
+                    };
 
-                    const broadcastDateString = formatDateStandard(broadcastDateObj);
+                    const dateStr = parsedEvent.broadcastDateString;
 
-                    if (broadcastDateString !== currentDisplayDate) {
-                    const dateHeader = document.createElement('div');
-                    dateHeader.className = 'date-header';
-                    
-                    const dayName = new Intl.DateTimeFormat('da-DK', { weekday: 'long' }).format(broadcastDateObj);
-                    const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(broadcastDateObj);
-                    const day = broadcastDateObj.getDate();
-                    const year = broadcastDateObj.getFullYear();
-                    
-                    dateHeader.textContent = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName} ${year}`;
-                    
-                    container.appendChild(dateHeader);
-                    currentDisplayDate = broadcastDateString;
-                }
-
-                    const card = document.createElement('div');
-                    card.className = `program-card status-${status.toLowerCase()}`;
-
-                    // Akkordeon-logik
-                    card.addEventListener('click', function() {
-                        const isExpanded = this.classList.contains('expanded');
-                        
-                        const allExpanded = container.querySelectorAll('.program-card.expanded');
-                        allExpanded.forEach(c => c.classList.remove('expanded'));
-                        
-                        if (!isExpanded) {
-                            this.classList.add('expanded');
-                        }
-                    });
-
-                    const timeDiv = document.createElement('div');
-                    timeDiv.className = 'time-col';
-                    timeDiv.textContent = time;
-
-                    const contentDiv = document.createElement('div');
-                    contentDiv.className = 'content-col';
-
-                    let longDescContent = '';
-                    if (stillUrl) longDescContent += `<img src="${stillUrl}" class="program-thumbnail">`;
-                    if (longDesc) longDescContent += `<div class="long-description-text">${longDesc}</div>`;
-                    
-                    contentDiv.innerHTML = `
-                        ${genre ? `<div class="genre">${genre}</div>` : ''}
-                        <div class="title">${title}</div>
-                        ${epTitle ? `<div class="episode">${epTitle}</div>` : ''}
-                        ${desc ? `<div class="description">${desc}</div>` : ''}
-                        <div class="long-description">${longDescContent}</div>
-                    `;
-
-                    // --- NY LOGIK TIL AT BESTEMME BADGE TEKST ---
-                    let displayStatus = status; 
-                    if (status.toLowerCase() === 'live') {
-                        displayStatus = 'Direkte';
-                    } else if (status.toLowerCase() === 'relive') {
-                        displayStatus = 'Forskudt';
+                    // Opret en ny "kasse" for datoen, hvis den ikke eksisterer endnu
+                    if (!groupedEvents[dateStr]) {
+                        groupedEvents[dateStr] = {
+                            dateObj: broadcastDateObj,
+                            eventsList: []
+                        };
+                        uniqueDates.push(dateStr); // Gemmer rækkefølgen af unikke datoer
                     }
 
-                    const statusDiv = document.createElement('div');
-                    statusDiv.className = `status-badge bg-${status.toLowerCase()}`;
-                    statusDiv.textContent = displayStatus;
-
-                    const arrowDiv = document.createElement('div');
-                    arrowDiv.className = 'expand-icon';
-
-                    card.appendChild(timeDiv);
-                    card.appendChild(contentDiv);
-                    card.appendChild(statusDiv);
-                    card.appendChild(arrowDiv);
-                    container.appendChild(card);
+                    // Tilføj programmet til dagens kasse
+                    groupedEvents[dateStr].eventsList.push(parsedEvent);
                 });
 
-                if (renderedEventsCount === 0) {
+                if (!hasFutureEvents) {
                     container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
+                    return;
                 }
+
+                // 2. Byg Dropdown-menuen
+                const selectorContainer = document.getElementById('selector-container');
+                const selectElement = document.createElement('select');
+                selectElement.className = 'date-selector';
+
+                uniqueDates.forEach(dateStr => {
+                    const dateObj = groupedEvents[dateStr].dateObj;
+                    const dayName = new Intl.DateTimeFormat('da-DK', { weekday: 'long' }).format(dateObj);
+                    const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
+                    const day = dateObj.getDate();
+                    const year = dateObj.getFullYear();
+                    
+                    // Formatterer teksten til dropdown (fx "Torsdag d. 10. september 2026")
+                    const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName} ${year}`;
+                    
+                    const option = document.createElement('option');
+                    option.value = dateStr;
+                    option.textContent = optionText;
+                    selectElement.appendChild(option);
+                });
+
+                selectorContainer.appendChild(selectElement);
+
+                // 3. Funktion til at vise den valgte dags programmer
+                function renderDay(selectedDateStr) {
+                    container.innerHTML = ''; // Ryd oversigten først
+                    
+                    const dayEvents = groupedEvents[selectedDateStr].eventsList;
+
+                    dayEvents.forEach(pe => {
+                        const card = document.createElement('div');
+                        card.className = `program-card status-${pe.status.toLowerCase()}`;
+
+                        // Akkordeon-logik
+                        card.addEventListener('click', function() {
+                            const isExpanded = this.classList.contains('expanded');
+                            const allExpanded = container.querySelectorAll('.program-card.expanded');
+                            allExpanded.forEach(c => c.classList.remove('expanded'));
+                            if (!isExpanded) {
+                                this.classList.add('expanded');
+                            }
+                        });
+
+                        const timeDiv = document.createElement('div');
+                        timeDiv.className = 'time-col';
+                        timeDiv.textContent = pe.time;
+
+                        const contentDiv = document.createElement('div');
+                        contentDiv.className = 'content-col';
+
+                        let longDescContent = '';
+                        if (pe.stillUrl) longDescContent += `<img src="${pe.stillUrl}" class="program-thumbnail">`;
+                        if (pe.longDesc) longDescContent += `<div class="long-description-text">${pe.longDesc}</div>`;
+                        
+                        contentDiv.innerHTML = `
+                            ${pe.genre ? `<div class="genre">${pe.genre}</div>` : ''}
+                            <div class="title">${pe.title}</div>
+                            ${pe.epTitle ? `<div class="episode">${pe.epTitle}</div>` : ''}
+                            ${pe.desc ? `<div class="description">${pe.desc}</div>` : ''}
+                            <div class="long-description">${longDescContent}</div>
+                        `;
+
+                        let displayStatus = pe.status; 
+                        if (pe.status.toLowerCase() === 'live') {
+                            displayStatus = 'Direkte';
+                        } else if (pe.status.toLowerCase() === 'relive') {
+                            displayStatus = 'Forskudt';
+                        }
+
+                        const statusDiv = document.createElement('div');
+                        statusDiv.className = `status-badge bg-${pe.status.toLowerCase()}`;
+                        statusDiv.textContent = displayStatus;
+
+                        const arrowDiv = document.createElement('div');
+                        arrowDiv.className = 'expand-icon';
+
+                        card.appendChild(timeDiv);
+                        card.appendChild(contentDiv);
+                        card.appendChild(statusDiv);
+                        card.appendChild(arrowDiv);
+                        container.appendChild(card);
+                    });
+                }
+
+                // Lyt efter når brugeren vælger en ny dato
+                selectElement.addEventListener('change', (e) => {
+                    renderDay(e.target.value);
+                });
+
+                // 4. Start med at vise programmer for den allerførste dato på listen (Dags dato)
+                renderDay(uniqueDates[0]);
 
             } catch (innerError) {
                 if(loadingText) loadingText.style.display = 'none';
