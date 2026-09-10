@@ -10,7 +10,7 @@
             box-sizing: border-box;
         }
 
-        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME --- */
+        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME (BEHOLDES) --- */
         html, body {
             height: 100%;
             overflow-y: auto !important;
@@ -47,7 +47,7 @@
             margin-top: 20px;
         }
 
-        /* NYT: Design til vores dropdown-menu */
+        /* NYT: Design til vores dropdown-menu inklusiv tilpasset pil */
         .date-selector {
             background-color: #e0e0e0;
             padding: 12px 15px;
@@ -64,6 +64,17 @@
             font-family: inherit;
             outline: none;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            
+            /* Fjerner browserens standardpil */
+            appearance: none; 
+            -webkit-appearance: none; /* Nødvendig for iOS/Safari */
+            
+            /* Indsætter vores egen, store orange SVG-pil som baggrund */
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23dd5f12'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 15px center; /* Placerer pilen til højre */
+            background-size: 35px; /* Ændr dette tal for at gøre pilen større eller mindre */
+            padding-right: 50px; /* Giver plads til pilen, så teksten ikke overlapper */
         }
 
         /* Lidt ekstra styling, når dropdownen er i fokus */
@@ -231,7 +242,6 @@
     <div class="container">
         <div id="error-display"></div>
 
-        <!-- NYT: Beholder til dropdown-menuen -->
         <div id="selector-container"></div>
 
         <div id="schedule-container">
@@ -279,7 +289,6 @@
                 const now = new Date();
                 const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
                 
-                // Beholder TV-døgns logikken (skiller kl 06)
                 if (now.getHours() < 6) {
                     currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
                 }
@@ -287,25 +296,21 @@
 
                 if(loadingText) loadingText.style.display = 'none';
 
-                // NYT: Variabler til at gruppere begivenhederne
                 const groupedEvents = {};
                 const uniqueDates = [];
                 let hasFutureEvents = false;
 
-                // 1. Vi gennemgår alle events og putter dem i "kasser" baseret på deres dato
                 events.forEach(event => {
                     const rawDate = getTagValue(event, 'Date');
                     const time = getTagValue(event, 'StartTime');
                     const broadcastDateObj = getBroadcastDate(rawDate, time);
 
-                    // Filtrer gamle dage fra
                     if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
                         return;
                     }
 
                     hasFutureEvents = true;
 
-                    // Hent alle data
                     const parsedEvent = {
                         genre: getTagValue(event, 'PrimaryGenre'),
                         title: getTagValue(event, 'Title'),
@@ -321,16 +326,14 @@
 
                     const dateStr = parsedEvent.broadcastDateString;
 
-                    // Opret en ny "kasse" for datoen, hvis den ikke eksisterer endnu
                     if (!groupedEvents[dateStr]) {
                         groupedEvents[dateStr] = {
                             dateObj: broadcastDateObj,
                             eventsList: []
                         };
-                        uniqueDates.push(dateStr); // Gemmer rækkefølgen af unikke datoer
+                        uniqueDates.push(dateStr);
                     }
 
-                    // Tilføj programmet til dagens kasse
                     groupedEvents[dateStr].eventsList.push(parsedEvent);
                 });
 
@@ -339,7 +342,6 @@
                     return;
                 }
 
-                // 2. Byg Dropdown-menuen
                 const selectorContainer = document.getElementById('selector-container');
                 const selectElement = document.createElement('select');
                 selectElement.className = 'date-selector';
@@ -351,7 +353,6 @@
                     const day = dateObj.getDate();
                     const year = dateObj.getFullYear();
                     
-                    // Formatterer teksten til dropdown (fx "Torsdag d. 10. september 2026")
                     const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName} ${year}`;
                     
                     const option = document.createElement('option');
@@ -362,9 +363,8 @@
 
                 selectorContainer.appendChild(selectElement);
 
-                // 3. Funktion til at vise den valgte dags programmer
                 function renderDay(selectedDateStr) {
-                    container.innerHTML = ''; // Ryd oversigten først
+                    container.innerHTML = ''; 
                     
                     const dayEvents = groupedEvents[selectedDateStr].eventsList;
 
@@ -372,7 +372,6 @@
                         const card = document.createElement('div');
                         card.className = `program-card status-${pe.status.toLowerCase()}`;
 
-                        // Akkordeon-logik
                         card.addEventListener('click', function() {
                             const isExpanded = this.classList.contains('expanded');
                             const allExpanded = container.querySelectorAll('.program-card.expanded');
@@ -423,12 +422,10 @@
                     });
                 }
 
-                // Lyt efter når brugeren vælger en ny dato
                 selectElement.addEventListener('change', (e) => {
                     renderDay(e.target.value);
                 });
 
-                // 4. Start med at vise programmer for den allerførste dato på listen (Dags dato)
                 renderDay(uniqueDates[0]);
 
             } catch (innerError) {
