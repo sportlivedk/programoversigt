@@ -47,7 +47,7 @@
             margin-top: 20px;
         }
 
-        /* NYT: Design til vores dropdown-menu inklusiv tilpasset pil */
+        /* Design til vores dropdown-menu inklusiv tilpasset pil */
         .date-selector {
             background-color: #e0e0e0;
             padding: 12px 15px;
@@ -65,19 +65,16 @@
             outline: none;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             
-            /* Fjerner browserens standardpil */
             appearance: none; 
-            -webkit-appearance: none; /* Nødvendig for iOS/Safari */
+            -webkit-appearance: none; 
             
-            /* Indsætter vores egen, store orange SVG-pil som baggrund */
             background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23dd5f12'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
             background-repeat: no-repeat;
-            background-position: right 15px center; /* Placerer pilen til højre */
-            background-size: 35px; /* Ændr dette tal for at gøre pilen større eller mindre */
-            padding-right: 50px; /* Giver plads til pilen, så teksten ikke overlapper */
+            background-position: right 15px center; 
+            background-size: 35px; 
+            padding-right: 50px; 
         }
 
-        /* Lidt ekstra styling, når dropdownen er i fokus */
         .date-selector:focus {
             box-shadow: 0 2px 8px rgba(221, 95, 18, 0.4);
         }
@@ -220,9 +217,13 @@
             border-color: #dd5f12;
         }
 
+        /* --- MOBILVISNING --- */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
-            .time-col { margin-bottom: 5px; text-align: left; }
+            
+            /* NYT: Her fjerner vi afstanden (margin-bottom) under klokkeslættet, så sportsgrenen rykker tættere på */
+            .time-col { margin-bottom: 0px; text-align: left; line-height: 1.1; } 
+            
             .content-col { padding: 0; margin-bottom: 10px; }
             .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; }
             .expand-icon { top: 15px; right: 15px; }
