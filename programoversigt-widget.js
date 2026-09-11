@@ -1,14 +1,15 @@
 class SportLiveSchedule extends HTMLElement {
     connectedCallback() {
-        // Her definerer vi HTML og CSS direkte inde i elementet
         this.innerHTML = `
             <style>
-                * { box-sizing: border-box; }
+                /* LØSNING: Vi styrer kun vores egen widget, ikke hele WIX-siden */
+                .sl-widget, .sl-widget * { 
+                    box-sizing: border-box; 
+                }
                 
-                /* Vi pakker det hele ind i en container, der styrer fonten */
                 .sl-widget {
                     font-family: 'avenir-lt-w01_35-light1475496', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                    background-color: transparent; /* Lader WIX-baggrunden skinne igennem */
+                    background-color: transparent; 
                     color: #333;
                     max-width: 1000px;
                     width: 100%;
@@ -28,14 +29,17 @@ class SportLiveSchedule extends HTMLElement {
                 }
 
                 #sl-selector-container {
-                    /* Sticky virker nu perfekt, da vi ikke er i en iframe! */
                     position: -webkit-sticky; 
                     position: sticky;
-                    top: 0; 
-                    background-color: #2b2b2b; /* Matcher jeres baggrundsfarve i WIX */
+                    
+                    /* LØSNING: Stopper lige under jeres WIX-header. 
+                       Hvis der er for meget/lidt luft til WIX-menuen, kan du justere dette tal! */
+                    top: 116px; 
+                    
+                    background-color: #2b2b2b; 
                     padding-top: 15px; 
                     padding-bottom: 15px; 
-                    z-index: 100; 
+                    z-index: 1000; /* Øget z-index for at sikre, den lægger sig over alt andet indhold */
                 }
 
                 .sl-date-selector {
@@ -231,8 +235,6 @@ class SportLiveSchedule extends HTMLElement {
         const errorDisplay = this.querySelector('#sl-error-display');
         const selectorContainer = this.querySelector('#sl-selector-container');
 
-        // BEMÆRK: Vi skal pege direkte på XML-filen på GitHub her! 
-        // Udskift denne URL med den fulde sti til din XML-fil på GitHub Pages.
         const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
@@ -394,5 +396,4 @@ class SportLiveSchedule extends HTMLElement {
     }
 }
 
-// Registrerer vores nye HTML tag
 customElements.define('sport-live-schedule', SportLiveSchedule);
