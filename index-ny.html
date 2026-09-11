@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programoversigt</title>
+    <title>Programoversigt - SPORT LIVE</title>
     <style>
         /* Sikrer at bredden beregnes ens for alle elementer */
         * {
             box-sizing: border-box;
         }
 
-        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME (BEHOLDES) --- */
         html, body {
             height: 100%;
             overflow-y: auto !important;
@@ -19,17 +18,67 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            /* Vi bruger nu Avenir, som er den primære skrifttype på SPORT LIVE's hjemmeside */
+            font-family: 'avenir-lt-w01_35-light1475496', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #2b2b2b;
             color: #333;
             margin: 0;
-            padding: 0 10px 20px 10px; 
+            padding: 0;
         }
+
+        /* --- DESIGN TIL TOPMENU OG LOGO (Matchet til hjemmesidens layout) --- */
+        .site-header {
+            background-color: #2b2b2b; /* Matcher den mørke baggrund fra WIX */
+            padding: 26px 20px 20px 20px; /* Tilpasset spacing for at ligne WIX-headeren */
+            display: flex;
+            flex-direction: column; /* Stabler logo og menu vertikalt */
+            align-items: center; /* Centrerer logo og menu */
+            margin-bottom: 20px;
+        }
+
+        .header-logo {
+            height: 47px; /* Matchet fra WIX-koden */
+            width: auto;
+            margin-bottom: 20px; /* Luft mellem logo og menu */
+        }
+
+        .header-nav {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .header-nav a {
+            color: #ffffff; /* Hvid tekstfarve */
+            text-decoration: none;
+            font-weight: 700; /* Fed skrift, matchet fra WIX */
+            font-size: 14px; /* Størrelse matchet fra WIX */
+            transition: color 0.2s;
+            text-transform: uppercase; /* Gør menupunkterne til versaler */
+        }
+
+        .header-nav a:hover, .header-nav a[aria-current="page"] {
+            color: #dd5f12; /* SPORT LIVE's orange hover-farve */
+        }
+
+        /* Responsiv menu til mobil */
+        @media (max-width: 768px) {
+            .header-nav {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 15px;
+            }
+            .header-nav a {
+                font-size: 13px; /* Lidt mindre skrift på mobil */
+            }
+        }
+        /* --- SLUT PÅ MENU DESIGN --- */
 
         .container {
             max-width: 1000px;
             width: 100%;
             margin: 0 auto;
+            padding: 0 10px 20px 10px;
         }
 
         #error-display {
@@ -47,12 +96,20 @@
             margin-top: 20px;
         }
 
-        /* Design til vores dropdown-menu inklusiv tilpasset pil */
+        #selector-container {
+            position: -webkit-sticky; 
+            position: sticky;
+            top: 0; 
+            background-color: #2b2b2b; 
+            padding-top: 15px; 
+            padding-bottom: 15px; 
+            z-index: 100; 
+        }
+
         .date-selector {
             background-color: #e0e0e0;
             padding: 12px 15px;
-            margin-top: 20px;
-            margin-bottom: 20px;
+            margin: 0; 
             border: none;
             border-left: 5px solid #dd5f12;
             border-radius: 4px;
@@ -100,7 +157,6 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
         }
 
-        /* Farveindikatorer for venstre kant */
         .status-live { border-left-color: #e74c3c; } 
         .status-repeat { border-left-color: #95a5a6; }
         .status-premiere { border-left-color: #f1c40f; }
@@ -194,7 +250,6 @@
             margin-right: 25px;
         }
 
-        /* Farveindikatorer for ikonets baggrund */
         .bg-live { background-color: #e74c3c; } 
         .bg-premiere { background-color: #f39c12; }
         .bg-repeat { display: none; } 
@@ -217,13 +272,11 @@
             border-color: #dd5f12;
         }
 
-/* --- MOBILVISNING --- */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
             
             .time-col { 
                 flex: 0 0 auto; 
-                /* LØSNINGEN: Her styrer vi luften under klokkeslættet. Øg tallet for at få mere luft, fx 10px */
                 margin-bottom: 8px; 
                 text-align: left; 
             } 
@@ -247,6 +300,22 @@
     </style>
 </head>
 <body>
+
+    <!-- --- HEADER MED LOGO OG MENU (Centreret for at matche WIX) --- -->
+    <header class="site-header">
+        <a href="https://www.sport-live.dk" target="_top">
+            <img src="https://sportlivedk.github.io/programoversigt/logo.png" alt="SPORT LIVE" class="header-logo">
+        </a>
+        <nav class="header-nav">
+            <!-- Disse links matcher nu strukturen fra jeres WIX-menu -->
+            <a href="https://www.sport-live.dk/om-sport-live" target="_top">Om SPORT LIVE</a>
+            <a href="https://www.sport-live.dk/" target="_top">Nyheder</a>
+            <a href="https://www.sport-live.dk/programoversigt" target="_top" aria-current="page">Programoversigt</a>
+            <a href="https://www.sport-live.dk/sådan-får-du-sport-live" target="_top">Sådan får du SPORT LIVE</a>
+            <a href="https://www.sport-live.dk/annoncering" target="_top">Reklamer og sponsorater</a>
+        </nav>
+    </header>
+    <!-- --- SLUT PÅ HEADER --- -->
 
     <div class="container">
         <div id="error-display"></div>
@@ -361,7 +430,6 @@
                     const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
                     const day = dateObj.getDate();
                     
-                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
                     const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
                     
                     const option = document.createElement('option');
