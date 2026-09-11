@@ -2,7 +2,6 @@ class SportLiveSchedule extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <style>
-                /* Fortæller browseren at vores widget er en solid byggeklods i WIX */
                 :host {
                     display: block;
                     width: 100%;
@@ -34,7 +33,6 @@ class SportLiveSchedule extends HTMLElement {
                     text-align: center;
                 }
 
-                /* Indpakning og container til vores JS-styrede sticky funktion */
                 #sl-selector-wrapper {
                     width: 100%;
                     position: relative;
@@ -49,12 +47,11 @@ class SportLiveSchedule extends HTMLElement {
                     transition: box-shadow 0.2s; 
                 }
 
-                /* Denne klasse tilføjes af vores JS, når menuen "svæver" */
                 #sl-selector-container.is-sticky {
                     box-shadow: 0 4px 12px rgba(0,0,0,0.6);
                     border-bottom-left-radius: 8px;
                     border-bottom-right-radius: 8px;
-                    z-index: 99999; /* Z-index sat ekstremt højt, så intet WIX-indhold dækker for den */
+                    z-index: 99999; 
                 }
 
                 .sl-date-selector {
@@ -254,6 +251,7 @@ class SportLiveSchedule extends HTMLElement {
         const errorDisplay = this.querySelector('#sl-error-display');
         const selectorContainer = this.querySelector('#sl-selector-container');
 
+        // URL'en er nu sat fast ind til jeres rigtige XML-fil
         const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
@@ -388,7 +386,7 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
-            // Start overvågning af scrolling, når alt er loadet
+            // Start overvågning af vores "falske" scroll med det nye loop
             this.setupStickyScroll();
 
         } catch (innerError) {
@@ -398,46 +396,50 @@ class SportLiveSchedule extends HTMLElement {
         }
     }
 
+    // LØSNINGEN: Det usynlige Render Loop, der ignorerer WIX's scroll-begrænsninger
     setupStickyScroll() {
         const widget = this.querySelector('.sl-widget');
         const container = this.querySelector('#sl-selector-container');
         const wrapper = this.querySelector('#sl-selector-wrapper');
         
-        let ticking = false;
+        // Denne funktion kører 60 gange i sekundet (synkroniseret med skærmens opdateringshastighed)
+        const checkPosition = () => {
+            if (widget && container && wrapper) {
+                const isMobile = window.innerWidth <= 768;
+                
+                // --- VIGTIGT: JUSTER DENNE VÆRDI! ---
+                const headerHeight = isMobile ? 80 : 116; 
+                
+                // Vi tjekker den fysiske placering på skærmen LIGE NU
+                const widgetRect = widget.getBoundingClientRect();
+                const offset = headerHeight - widgetRect.top;
+                
+                const maxOffset = widget.offsetHeight - wrapper.offsetHeight;
 
-        // VIGTIGT: Vi tilføjer 'true' i slutningen af vores event-listener for at aktivere Event Capturing.
-        // Det sikrer, at vi opfanger scroll-events, selv når WIX scroller en underliggende boks.
-        window.addEventListener('scroll', (event) => {
-            if (!ticking) {
-                window.requestAnimationFrame(() => {
-                    if (!widget || !container || !wrapper) return;
-                    
-                    const isMobile = window.innerWidth <= 768;
-                    // Indsæt højden på jeres faste header her
-                    const headerHeight = isMobile ? 80 : 116; 
-                    
-                    const widgetRect = widget.getBoundingClientRect();
-                    const offset = headerHeight - widgetRect.top;
-                    
-                    const maxOffset = widget.offsetHeight - wrapper.offsetHeight;
-
-                    if (offset > 0 && offset < maxOffset) {
-                        // Skubber datovælgeren ned i takt med at brugeren scroller, så den virker fastlåst
-                        container.style.transform = `translate3d(0, ${offset}px, 0)`;
+                if (offset > 0 && offset < maxOffset) {
+                    container.style.transform = `translate3d(0, ${offset}px, 0)`;
+                    if (!container.classList.contains('is-sticky')) {
                         container.classList.add('is-sticky');
-                    } else if (offset >= maxOffset) {
-                        container.style.transform = `translate3d(0, ${maxOffset}px, 0)`;
-                        container.classList.remove('is-sticky');
-                    } else {
-                        container.style.transform = 'translate3d(0, 0, 0)';
+                    }
+                } else if (offset >= maxOffset) {
+                    container.style.transform = `translate3d(0, ${maxOffset}px, 0)`;
+                    if (container.classList.contains('is-sticky')) {
                         container.classList.remove('is-sticky');
                     }
-                    
-                    ticking = false;
-                });
-                ticking = true;
+                } else {
+                    container.style.transform = 'translate3d(0, 0, 0)';
+                    if (container.classList.contains('is-sticky')) {
+                        container.classList.remove('is-sticky');
+                    }
+                }
             }
-        }, true); // <-- 'true' er trylledrikken, der lytter på hele sidens DOM-træ
+            
+            // Fortæl browseren, at vi vil køre funktionen igen i næste frame
+            window.requestAnimationFrame(checkPosition);
+        };
+        
+        // Start loopet
+        window.requestAnimationFrame(checkPosition);
     }
 
     getTagValue(parent, tagName) {
