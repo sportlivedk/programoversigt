@@ -68,13 +68,28 @@
         /* Responsiv menu til mobil */
         @media (max-width: 768px) {
             .header-nav {
-                flex-wrap: wrap;
-                justify-content: center;
-                gap: 15px;
-            }
-            .header-nav a {
-                font-size: 13px; 
-            }
+            display: flex;
+            gap: 60px; /* Sikrer meget mere afstand mellem menupunkterne */
+            justify-content: center;
+            align-items: center;
+        }
+
+        .header-nav a {
+            color: #ffffff; 
+            text-decoration: none;
+            font-size: 12px; /* Størrelsen du ønskede */
+            font-weight: 900; /* Tvinger browseren til at bruge den fedeste vægt den kan finde */
+            letter-spacing: 0.5px; /* Giver en anelse luft mellem selve bogstaverne */
+            
+            /* LØSNINGEN PÅ DEN FEDE SKRIFT: En lille hvid kant rundt om bogstaverne */
+            -webkit-text-stroke: 0.4px #ffffff; 
+            
+            transition: color 0.2s, -webkit-text-stroke 0.2s;
+        }
+
+        .header-nav a:hover, .header-nav a[aria-current="page"] {
+            color: #dd5f12; 
+            -webkit-text-stroke: 0.4px #dd5f12; /* Sørger for at hover-farven også får den kunstige bold effekt */
         }
         /* --- SLUT PÅ MENU DESIGN --- */
 
