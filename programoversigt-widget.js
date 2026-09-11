@@ -233,7 +233,7 @@ class SportLiveSchedule extends HTMLElement {
 
         // BEMÆRK: Vi skal pege direkte på XML-filen på GitHub her! 
         // Udskift denne URL med den fulde sti til din XML-fil på GitHub Pages.
-        const XML_URL = 'https://sportlivedk.github.io/sportlive_program.xml';
+        const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
         fetch(urlWithCacheBuster)
