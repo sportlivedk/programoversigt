@@ -47,17 +47,16 @@
 
         .header-nav {
             display: flex;
-            gap: 20px;
+            gap: 40px; /* Øget fra 20px for at give mere luft mellem menupunkterne */
             justify-content: center;
         }
 
         .header-nav a {
             color: #ffffff; 
             text-decoration: none;
-            font-weight: 700; 
-            font-size: 14px; 
+            font-weight: 400; /* Ændret fra 700 til 400 for at gøre skriften tyndere/normal */
+            font-size: 14px; /* Størrelsen på 14px bibeholdes, da det tyndere snit vil få den til at virke mindre */
             transition: color 0.2s;
-            /* text-transform: uppercase; er fjernet herfra for at bevare de naturlige store/små bogstaver */
         }
 
         .header-nav a:hover, .header-nav a[aria-current="page"] {
