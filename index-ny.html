@@ -54,17 +54,18 @@
             text-decoration: none;
             font-size: 12px; 
             
-            /* LØSNINGEN: Normal vægt, ingen ekstra bredde, og en ultrasvag streg */
             font-weight: normal; 
             letter-spacing: normal; 
-            -webkit-text-stroke: 0.1px #ffffff; 
+            
+            /* LØSNINGEN: Mikroskopisk justering fra 0.1px til 0.15px */
+            -webkit-text-stroke: 0.15px #ffffff; 
             
             transition: color 0.2s, -webkit-text-stroke 0.2s;
         }
 
         .header-nav a:hover, .header-nav a[aria-current="page"] {
             color: #dd5f12; 
-            -webkit-text-stroke: 0.1px #dd5f12; 
+            -webkit-text-stroke: 0.15px #dd5f12; 
         }
 
         /* Responsiv menu til mobil */
