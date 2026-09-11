@@ -36,7 +36,6 @@ class SportLiveSchedule extends HTMLElement {
                 #sl-selector-wrapper {
                     width: 100%;
                     position: relative;
-                    z-index: 1000;
                 }
 
                 #sl-selector-container {
@@ -51,7 +50,6 @@ class SportLiveSchedule extends HTMLElement {
                     box-shadow: 0 4px 12px rgba(0,0,0,0.6);
                     border-bottom-left-radius: 8px;
                     border-bottom-right-radius: 8px;
-                    z-index: 99999; 
                 }
 
                 .sl-date-selector {
@@ -251,7 +249,6 @@ class SportLiveSchedule extends HTMLElement {
         const errorDisplay = this.querySelector('#sl-error-display');
         const selectorContainer = this.querySelector('#sl-selector-container');
 
-        // URL'en er nu sat fast ind til jeres rigtige XML-fil
         const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
@@ -386,7 +383,7 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
-            // Start overvågning af vores "falske" scroll med det nye loop
+            // Start overvågning med det endelige "Teleportation" trick
             this.setupStickyScroll();
 
         } catch (innerError) {
@@ -396,49 +393,88 @@ class SportLiveSchedule extends HTMLElement {
         }
     }
 
-    // LØSNINGEN: Det usynlige Render Loop, der ignorerer WIX's scroll-begrænsninger
+    // DEN ULTIMATIVE LØSNING: Teleportation for at bryde ud af WIX
     setupStickyScroll() {
         const widget = this.querySelector('.sl-widget');
         const container = this.querySelector('#sl-selector-container');
         const wrapper = this.querySelector('#sl-selector-wrapper');
         
-        // Denne funktion kører 60 gange i sekundet (synkroniseret med skærmens opdateringshastighed)
+        let isTeleported = false;
+
         const checkPosition = () => {
             if (widget && container && wrapper) {
                 const isMobile = window.innerWidth <= 768;
                 
-                // --- VIGTIGT: JUSTER DENNE VÆRDI! ---
+                // --- JUSTER HEADER HØJDE HER ---
                 const headerHeight = isMobile ? 80 : 116; 
                 
-                // Vi tjekker den fysiske placering på skærmen LIGE NU
+                // Hent positionerne på skærmen
+                const wrapperRect = wrapper.getBoundingClientRect();
                 const widgetRect = widget.getBoundingClientRect();
-                const offset = headerHeight - widgetRect.top;
-                
-                const maxOffset = widget.offsetHeight - wrapper.offsetHeight;
+                const containerHeight = container.offsetHeight || 55;
 
-                if (offset > 0 && offset < maxOffset) {
-                    container.style.transform = `translate3d(0, ${offset}px, 0)`;
-                    if (!container.classList.contains('is-sticky')) {
+                // Er vi scrollet forbi toppen af programoversigten?
+                const isPastTop = wrapperRect.top <= headerHeight;
+                
+                // Er bunden af programoversigten stadig synlig nok til at holde menuen?
+                const isNotPastBottom = widgetRect.bottom > headerHeight + containerHeight;
+
+                if (isPastTop && isNotPastBottom) {
+                    // Vi er i "sticky zonen". Teleporter ud til browserens rod!
+                    if (!isTeleported) {
+                        wrapper.style.height = containerHeight + 'px'; // Hold pladsen åben, så der ikke hoppes
+                        document.body.appendChild(container); // TELEPORTATION!
                         container.classList.add('is-sticky');
+                        isTeleported = true;
                     }
-                } else if (offset >= maxOffset) {
-                    container.style.transform = `translate3d(0, ${maxOffset}px, 0)`;
-                    if (container.classList.contains('is-sticky')) {
-                        container.classList.remove('is-sticky');
+                    
+                    // Sæt den fast i toppen uanset WIX's regler
+                    container.style.position = 'fixed';
+                    container.style.top = headerHeight + 'px';
+                    container.style.left = wrapperRect.left + 'px';
+                    container.style.width = wrapperRect.width + 'px';
+                    container.style.zIndex = '999999';
+                    container.style.transform = 'translateY(0)';
+
+                } else if (isPastTop && !isNotPastBottom) {
+                    // Vi er scrollet helt til bunden af oversigten - lad menuen glide op med resten
+                    if (!isTeleported) {
+                        wrapper.style.height = containerHeight + 'px';
+                        document.body.appendChild(container);
+                        container.classList.add('is-sticky');
+                        isTeleported = true;
                     }
+                    
+                    const pushUp = (headerHeight + containerHeight) - widgetRect.bottom;
+                    container.style.position = 'fixed';
+                    container.style.top = headerHeight + 'px';
+                    container.style.left = wrapperRect.left + 'px';
+                    container.style.width = wrapperRect.width + 'px';
+                    container.style.zIndex = '999999';
+                    container.style.transform = `translateY(-${pushUp}px)`; // Skubber op
+
                 } else {
-                    container.style.transform = 'translate3d(0, 0, 0)';
-                    if (container.classList.contains('is-sticky')) {
+                    // Vi er over programoversigten - teleporter tilbage til normalen
+                    if (isTeleported) {
+                        wrapper.appendChild(container); // Hent hjem igen
+                        wrapper.style.height = 'auto';
                         container.classList.remove('is-sticky');
+                        
+                        // Nulstil al styling
+                        container.style.position = 'relative';
+                        container.style.top = 'auto';
+                        container.style.left = 'auto';
+                        container.style.width = '100%';
+                        container.style.transform = 'translateY(0)';
+                        isTeleported = false;
                     }
                 }
             }
             
-            // Fortæl browseren, at vi vil køre funktionen igen i næste frame
+            // Hold loopet kørende 60 gange i sekundet
             window.requestAnimationFrame(checkPosition);
         };
         
-        // Start loopet
         window.requestAnimationFrame(checkPosition);
     }
 
