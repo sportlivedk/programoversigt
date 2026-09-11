@@ -2,7 +2,7 @@ class SportLiveSchedule extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <style>
-                /* VIGTIGT: Fortæller browseren at vores widget er en solid byggeklods i WIX */
+                /* Fortæller browseren at vores widget er en solid byggeklods i WIX */
                 :host {
                     display: block;
                     width: 100%;
@@ -34,7 +34,7 @@ class SportLiveSchedule extends HTMLElement {
                     text-align: center;
                 }
 
-                /* LØSNING: Indpakning og container til vores JS-styrede sticky funktion */
+                /* Indpakning og container til vores JS-styrede sticky funktion */
                 #sl-selector-wrapper {
                     width: 100%;
                     position: relative;
@@ -46,15 +46,15 @@ class SportLiveSchedule extends HTMLElement {
                     padding-top: 15px; 
                     padding-bottom: 15px; 
                     width: 100%;
-                    /* Glidende overgang for skyggen */
                     transition: box-shadow 0.2s; 
                 }
 
                 /* Denne klasse tilføjes af vores JS, når menuen "svæver" */
                 #sl-selector-container.is-sticky {
-                    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
                     border-bottom-left-radius: 8px;
                     border-bottom-right-radius: 8px;
+                    z-index: 99999; /* Z-index sat ekstremt højt, så intet WIX-indhold dækker for den */
                 }
 
                 .sl-date-selector {
@@ -254,7 +254,6 @@ class SportLiveSchedule extends HTMLElement {
         const errorDisplay = this.querySelector('#sl-error-display');
         const selectorContainer = this.querySelector('#sl-selector-container');
 
-        // BEMÆRK: Husk at indsætte den rigtige URL, som du netop har rettet!
         const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
@@ -389,7 +388,7 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
-            // START: Initialiser vores JS Sticky funktion
+            // Start overvågning af scrolling, når alt er loadet
             this.setupStickyScroll();
 
         } catch (innerError) {
@@ -413,19 +412,17 @@ class SportLiveSchedule extends HTMLElement {
                     
                     const isMobile = window.innerWidth <= 768;
                     
-                    // --- VIGTIGT: JUSTER DENNE VÆRDI! ---
-                    // Hvis WIX-headeren er "frosset" fast, skriv dens højde i pixels (fx 116 eller 80).
-                    // Hvis WIX-headeren ruller med op og forsvinder, skal begge tal sættes til 0!
+                    // --- VIGTIGT: HER RETTES AFSTANDEN ---
+                    // Angiv præcis hvor mange pixels jeres fastlåste WIX-header fylder.
+                    // Er den f.eks. 120 pixels høj, skal du skrive: const headerHeight = isMobile ? 80 : 120;
                     const headerHeight = isMobile ? 80 : 116; 
                     
                     const widgetRect = widget.getBoundingClientRect();
                     const offset = headerHeight - widgetRect.top;
                     
-                    // Forhindrer at datovælgeren fortsætter ned i footeren
                     const maxOffset = widget.offsetHeight - wrapper.offsetHeight;
 
                     if (offset > 0 && offset < maxOffset) {
-                        // Vi bruger translate3d for at sikre en hardware-accelereret, super glidende scroll
                         container.style.transform = `translate3d(0, ${offset}px, 0)`;
                         container.classList.add('is-sticky');
                     } else if (offset >= maxOffset) {
