@@ -405,16 +405,15 @@ class SportLiveSchedule extends HTMLElement {
         
         let ticking = false;
 
-        window.addEventListener('scroll', () => {
+        // VIGTIGT: Vi tilføjer 'true' i slutningen af vores event-listener for at aktivere Event Capturing.
+        // Det sikrer, at vi opfanger scroll-events, selv når WIX scroller en underliggende boks.
+        window.addEventListener('scroll', (event) => {
             if (!ticking) {
                 window.requestAnimationFrame(() => {
                     if (!widget || !container || !wrapper) return;
                     
                     const isMobile = window.innerWidth <= 768;
-                    
-                    // --- VIGTIGT: HER RETTES AFSTANDEN ---
-                    // Angiv præcis hvor mange pixels jeres fastlåste WIX-header fylder.
-                    // Er den f.eks. 120 pixels høj, skal du skrive: const headerHeight = isMobile ? 160 : 240;
+                    // Indsæt højden på jeres faste header her
                     const headerHeight = isMobile ? 80 : 116; 
                     
                     const widgetRect = widget.getBoundingClientRect();
@@ -423,6 +422,7 @@ class SportLiveSchedule extends HTMLElement {
                     const maxOffset = widget.offsetHeight - wrapper.offsetHeight;
 
                     if (offset > 0 && offset < maxOffset) {
+                        // Skubber datovælgeren ned i takt med at brugeren scroller, så den virker fastlåst
                         container.style.transform = `translate3d(0, ${offset}px, 0)`;
                         container.classList.add('is-sticky');
                     } else if (offset >= maxOffset) {
@@ -437,7 +437,7 @@ class SportLiveSchedule extends HTMLElement {
                 });
                 ticking = true;
             }
-        }, { passive: true });
+        }, true); // <-- 'true' er trylledrikken, der lytter på hele sidens DOM-træ
     }
 
     getTagValue(parent, tagName) {
