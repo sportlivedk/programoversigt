@@ -406,7 +406,7 @@ class SportLiveSchedule extends HTMLElement {
                 const isMobile = window.innerWidth <= 768;
                 
                 // --- JUSTER HEADER HØJDE HER ---
-                const headerHeight = isMobile ? 80 : 116; 
+                const headerHeight = isMobile ? 0 : 0; 
                 
                 // Hent positionerne på skærmen
                 const wrapperRect = wrapper.getBoundingClientRect();
