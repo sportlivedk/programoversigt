@@ -414,7 +414,7 @@ class SportLiveSchedule extends HTMLElement {
                     
                     // --- VIGTIGT: HER RETTES AFSTANDEN ---
                     // Angiv præcis hvor mange pixels jeres fastlåste WIX-header fylder.
-                    // Er den f.eks. 120 pixels høj, skal du skrive: const headerHeight = isMobile ? 80 : 120;
+                    // Er den f.eks. 120 pixels høj, skal du skrive: const headerHeight = isMobile ? 160 : 240;
                     const headerHeight = isMobile ? 80 : 116; 
                     
                     const widgetRect = widget.getBoundingClientRect();
