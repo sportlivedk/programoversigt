@@ -37,37 +37,14 @@
         }
 
         .header-logo {
-            /* Opdateret: Fast bredde på 420px for at matche den rigtige hjemmeside */
+            /* Fast bredde på 420px for at matche den rigtige hjemmeside */
             width: 420px; 
             height: auto;
             margin-bottom: 20px; 
-            /* max-width sikrer, at logoet skalerer ned på skærme, der er smallere end 420px (fx mobiler) */
             max-width: 100%; 
         }
 
-        .header-nav a {
-            color: #ffffff; 
-            text-decoration: none;
-            font-weight: bold; /* Ændret til fed (bold) ifølge WIX-opsætningen */
-            font-size: 12px; /* Sat præcis til 12px */
-            transition: color 0.2s;
-        }
-
-        .header-nav a {
-            color: #ffffff; 
-            text-decoration: none;
-            font-weight: 400; 
-            font-size: 13px; /* Reduceret en anelse for et lettere udtryk */
-            transition: color 0.2s;
-        }
-
-        .header-nav a:hover, .header-nav a[aria-current="page"] {
-            color: #dd5f12; 
-        }
-
-        /* Responsiv menu til mobil */
-        @media (max-width: 768px) {
-            .header-nav {
+        .header-nav {
             display: flex;
             gap: 60px; /* Sikrer meget mere afstand mellem menupunkterne */
             justify-content: center;
@@ -90,6 +67,15 @@
         .header-nav a:hover, .header-nav a[aria-current="page"] {
             color: #dd5f12; 
             -webkit-text-stroke: 0.4px #dd5f12; /* Sørger for at hover-farven også får den kunstige bold effekt */
+        }
+
+        /* Responsiv menu til mobil */
+        @media (max-width: 768px) {
+            .header-nav {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 15px; /* Mindre mellemrum på mobilen, så menuen kan være der */
+            }
         }
         /* --- SLUT PÅ MENU DESIGN --- */
 
