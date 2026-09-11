@@ -53,18 +53,18 @@
             color: #ffffff; 
             text-decoration: none;
             font-size: 12px; 
-            font-weight: 600; /* Sat lidt ned fra 900 for en blødere udgave */
-            letter-spacing: 0.3px; 
             
-            /* RETTELSE: Sat ned til 0.2px, så teksten ikke virker for "tyk" */
-            -webkit-text-stroke: 0.2px #ffffff; 
+            /* LØSNINGEN: Normal vægt, ingen ekstra bredde, og en ultrasvag streg */
+            font-weight: normal; 
+            letter-spacing: normal; 
+            -webkit-text-stroke: 0.1px #ffffff; 
             
             transition: color 0.2s, -webkit-text-stroke 0.2s;
         }
 
         .header-nav a:hover, .header-nav a[aria-current="page"] {
             color: #dd5f12; 
-            -webkit-text-stroke: 0.2px #dd5f12; 
+            -webkit-text-stroke: 0.1px #dd5f12; 
         }
 
         /* Responsiv menu til mobil */
@@ -307,7 +307,7 @@
     <!-- --- HEADER MED LOGO OG MENU --- -->
     <header class="site-header">
         <a href="https://www.sport-live.dk" target="_top">
-            <img src="logo.png" alt="SPORT LIVE" class="header-logo">
+            <img src="INDSÆT_LINK_TIL_LOGO_HER" alt="SPORT LIVE" class="header-logo">
         </a>
         <nav class="header-nav">
             <a href="https://www.sport-live.dk/om-sport-live" target="_top">Om SPORT LIVE</a>
