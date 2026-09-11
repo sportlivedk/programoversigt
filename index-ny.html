@@ -18,7 +18,7 @@
         }
 
         body {
-            /* Vi bruger nu Avenir, som er den primære skrifttype på SPORT LIVE's hjemmeside */
+            /* Vi bruger Avenir, som er den primære skrifttype på SPORT LIVE's hjemmeside */
             font-family: 'avenir-lt-w01_35-light1475496', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #2b2b2b;
             color: #333;
@@ -26,20 +26,23 @@
             padding: 0;
         }
 
-        /* --- DESIGN TIL TOPMENU OG LOGO (Matchet til hjemmesidens layout) --- */
+        /* --- DESIGN TIL TOPMENU OG LOGO --- */
         .site-header {
-            background-color: #2b2b2b; /* Matcher den mørke baggrund fra WIX */
-            padding: 26px 20px 20px 20px; /* Tilpasset spacing for at ligne WIX-headeren */
+            background-color: #2b2b2b; 
+            padding: 26px 20px 20px 20px; 
             display: flex;
-            flex-direction: column; /* Stabler logo og menu vertikalt */
-            align-items: center; /* Centrerer logo og menu */
+            flex-direction: column; 
+            align-items: center; 
             margin-bottom: 20px;
         }
 
         .header-logo {
-            height: 47px; /* Matchet fra WIX-koden */
-            width: auto;
-            margin-bottom: 20px; /* Luft mellem logo og menu */
+            /* Opdateret: Fast bredde på 420px for at matche den rigtige hjemmeside */
+            width: 420px; 
+            height: auto;
+            margin-bottom: 20px; 
+            /* max-width sikrer, at logoet skalerer ned på skærme, der er smallere end 420px (fx mobiler) */
+            max-width: 100%; 
         }
 
         .header-nav {
@@ -49,16 +52,16 @@
         }
 
         .header-nav a {
-            color: #ffffff; /* Hvid tekstfarve */
+            color: #ffffff; 
             text-decoration: none;
-            font-weight: 700; /* Fed skrift, matchet fra WIX */
-            font-size: 14px; /* Størrelse matchet fra WIX */
+            font-weight: 700; 
+            font-size: 14px; 
             transition: color 0.2s;
-            text-transform: uppercase; /* Gør menupunkterne til versaler */
+            /* text-transform: uppercase; er fjernet herfra for at bevare de naturlige store/små bogstaver */
         }
 
         .header-nav a:hover, .header-nav a[aria-current="page"] {
-            color: #dd5f12; /* SPORT LIVE's orange hover-farve */
+            color: #dd5f12; 
         }
 
         /* Responsiv menu til mobil */
@@ -69,7 +72,7 @@
                 gap: 15px;
             }
             .header-nav a {
-                font-size: 13px; /* Lidt mindre skrift på mobil */
+                font-size: 13px; 
             }
         }
         /* --- SLUT PÅ MENU DESIGN --- */
@@ -301,13 +304,12 @@
 </head>
 <body>
 
-    <!-- --- HEADER MED LOGO OG MENU (Centreret for at matche WIX) --- -->
+    <!-- --- HEADER MED LOGO OG MENU --- -->
     <header class="site-header">
         <a href="https://www.sport-live.dk" target="_top">
-            <img src="https://sportlivedk.github.io/programoversigt/logo.png" alt="SPORT LIVE" class="header-logo">
+            <img src="logo.png" alt="SPORT LIVE" class="header-logo">
         </a>
         <nav class="header-nav">
-            <!-- Disse links matcher nu strukturen fra jeres WIX-menu -->
             <a href="https://www.sport-live.dk/om-sport-live" target="_top">Om SPORT LIVE</a>
             <a href="https://www.sport-live.dk/" target="_top">Nyheder</a>
             <a href="https://www.sport-live.dk/programoversigt" target="_top" aria-current="page">Programoversigt</a>
