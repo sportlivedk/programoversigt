@@ -2,7 +2,13 @@ class SportLiveSchedule extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <style>
-                /* LØSNING: Vi styrer kun vores egen widget, ikke hele WIX-siden */
+                /* 1. LØSNING PÅ LAYOUTET: Fortæller at vores widget er en solid byggeklods (block) */
+                :host {
+                    display: block;
+                    width: 100%;
+                    position: relative;
+                }
+
                 .sl-widget, .sl-widget * { 
                     box-sizing: border-box; 
                 }
@@ -28,18 +34,32 @@ class SportLiveSchedule extends HTMLElement {
                     text-align: center;
                 }
 
+                /* 2. LØSNING PÅ STICKY-PROBLEMET: Opsætning til vores JavaScript */
+                #sl-selector-wrapper {
+                    width: 100%;
+                    z-index: 1000;
+                }
+
                 #sl-selector-container {
-                    position: -webkit-sticky; 
-                    position: sticky;
-                    
-                    /* LØSNING: Stopper lige under jeres WIX-header. 
-                       Hvis der er for meget/lidt luft til WIX-menuen, kan du justere dette tal! */
-                    top: 116px; 
-                    
                     background-color: #2b2b2b; 
                     padding-top: 15px; 
                     padding-bottom: 15px; 
-                    z-index: 1000; /* Øget z-index for at sikre, den lægger sig over alt andet indhold */
+                    width: 100%;
+                    transition: box-shadow 0.2s, background-color 0.2s;
+                }
+
+                /* Denne klasse tilføjes automatisk af vores JS, når vi scroller forbi menuen */
+                #sl-selector-container.is-fixed {
+                    position: fixed;
+                    left: 50%;
+                    transform: translateX(-50%); /* Sikrer at den altid er 100% centreret */
+                    max-width: 1000px; /* Matcher bredden på selve widgetten */
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+                    border-bottom-left-radius: 8px;
+                    border-bottom-right-radius: 8px;
+                    z-index: 9999;
                 }
 
                 .sl-date-selector {
@@ -219,7 +239,12 @@ class SportLiveSchedule extends HTMLElement {
 
             <div class="sl-widget">
                 <div id="sl-error-display"></div>
-                <div id="sl-selector-container"></div>
+                
+                <!-- Indpakningen der holder afstanden, når vælgeren bliver 'fixed' -->
+                <div id="sl-selector-wrapper">
+                    <div id="sl-selector-container"></div>
+                </div>
+
                 <div id="sl-schedule-container">
                     <p id="sl-loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
                 </div>
@@ -235,6 +260,7 @@ class SportLiveSchedule extends HTMLElement {
         const errorDisplay = this.querySelector('#sl-error-display');
         const selectorContainer = this.querySelector('#sl-selector-container');
 
+        // BEMÆRK: Vi beholder dit korrekte GitHub-link her
         const XML_URL = 'https://sportlivedk.github.io/programoversigt/sportlive_program.xml';
         const urlWithCacheBuster = `${XML_URL}?t=${new Date().getTime()}`;
 
@@ -369,11 +395,47 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
+            // Når alt er loadet, sætter vi vores scroll-overvågning i gang!
+            this.setupStickyScroll();
+
         } catch (innerError) {
             if (loadingText) loadingText.style.display = 'none';
             errorDisplay.style.display = 'block';
             errorDisplay.textContent = "Fejl: " + innerError.message;
         }
+    }
+
+    // Vores nye funktion der håndterer "Sticky" logikken vha. JavaScript
+    setupStickyScroll() {
+        const wrapper = this.querySelector('#sl-selector-wrapper');
+        const container = this.querySelector('#sl-selector-container');
+        
+        window.addEventListener('scroll', () => {
+            if (!wrapper || !container) return;
+            
+            // Vi tjekker om skærmen er smal (mobil) for at gætte højden på jeres header
+            const isMobile = window.innerWidth <= 768;
+            
+            // JUSTER HER: Hvor mange pixels fra toppen skal menuen stoppe?
+            const headerHeight = isMobile ? 80 : 116; 
+            
+            // Finder ud af hvor "kilen" er på skærmen lige nu
+            const rect = wrapper.getBoundingClientRect();
+            
+            // Hvis kilen rammer WIX-headerens underkant, "fryser" vi datovælgeren
+            if (rect.top <= headerHeight) {
+                // Sætter en højde på kilen, så programkortene ikke hopper opad
+                wrapper.style.height = container.offsetHeight + 'px';
+                
+                container.classList.add('is-fixed');
+                container.style.top = headerHeight + 'px';
+            } else {
+                // Fjerner fastfrysningen, når vi scroller op igen
+                wrapper.style.height = 'auto';
+                container.classList.remove('is-fixed');
+                container.style.top = 'auto';
+            }
+        });
     }
 
     getTagValue(parent, tagName) {
