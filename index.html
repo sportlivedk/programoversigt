@@ -3,201 +3,475 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPORT LIVE EPG</title>
+    <title>Programoversigt</title>
     <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            max-width: 800px; 
-            margin: 40px auto; 
-            padding: 0 20px; 
-            line-height: 1.6; 
+        /* Sikrer at bredden beregnes ens for alle elementer */
+        * {
+            box-sizing: border-box;
+        }
+
+        /* --- VIGTIGE SCROLL-REGLER TIL MOBIL / IFRAME (BEHOLDES) --- */
+        html, body {
+            height: 100%;
+            overflow-y: auto !important;
+            -webkit-overflow-scrolling: touch !important; 
+            touch-action: pan-y !important; 
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #2b2b2b;
             color: #333;
-        }
-        
-        /* Header container til at styre logo og titel */
-        .header-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-bottom: 2px solid #003366; 
-            padding-bottom: 20px;
-            margin-bottom: 30px;
+            margin: 0;
+            padding: 0 10px 20px 10px; 
         }
 
-        h1 { 
-            color: #003366; 
-            margin: 0; 
+        .container {
+            max-width: 1000px;
+            width: 100%;
+            margin: 0 auto;
         }
 
-        .logo {
-            max-height: 60px; 
-            width: auto;      
+        #error-display {
+            background-color: #ffebee;
+            color: #c62828;
+            padding: 15px;
+            border-radius: 5px;
+            border: 1px solid #ef9a9a;
+            margin-top: 20px;
+            display: none;
+            text-align: center;
         }
 
-        .intro-text {
-            margin-bottom: 20px;
+        #loading-text {
+            margin-top: 20px;
         }
 
-        .file-list { 
-            list-style: none; 
-            padding: 0; 
+/* NYT: Beholderen gøres "sticky" (fastlåst i toppen) */
+        #selector-container {
+            position: -webkit-sticky; /* For Safari-understøttelse */
+            position: sticky;
+            top: 0; /* Låser fast 0 pixels fra toppen af skærmen */
+            background-color: #2b2b2b; /* Matcher din baggrundsfarve, så programmer skjules, når de scroller forbi */
+            padding-top: 15px; /* Giver luft i toppen */
+            padding-bottom: 15px; /* Giver luft i bunden */
+            z-index: 100; /* Sikrer at menuen altid ligger som det øverste lag over programkortene */
         }
 
-        .file-list li { 
-            background: #f4f4f4; 
-            margin-bottom: 10px; 
-            padding: 15px; 
-            border-radius: 5px; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center; 
-            border-left: 5px solid #003366; 
-        }
-
-        .file-list li:hover { 
-            background: #e9e9e9; 
-        }
-
-        a.download-btn { 
-            text-decoration: none; 
-            color: white; 
-            background-color: #003366;
-            padding: 8px 15px;
+        /* Design til vores dropdown-menu inklusiv tilpasset pil */
+        .date-selector {
+            background-color: #e0e0e0;
+            padding: 12px 15px;
+            margin: 0; /* Margins er fjernet, da vi nu styrer afstanden sikkert med padding på containeren i stedet */
+            border: none;
+            border-left: 5px solid #dd5f12;
             border-radius: 4px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+            width: 100%;
+            cursor: pointer;
+            font-family: inherit;
+            outline: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            
+            appearance: none; 
+            -webkit-appearance: none; 
+            
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23dd5f12'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 15px center; 
+            background-size: 35px; 
+            padding-right: 50px; 
+        }
+
+        .date-selector:focus {
+            box-shadow: 0 2px 8px rgba(221, 95, 18, 0.4);
+        }
+
+        .program-card {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            border-left: 5px solid transparent;
+            transition: transform 0.2s, box-shadow 0.2s;
+            width: 100%;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .program-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+
+        /* Farveindikatorer for venstre kant */
+        .status-live { border-left-color: #e74c3c; } 
+        .status-repeat { border-left-color: #95a5a6; }
+        .status-premiere { border-left-color: #f1c40f; }
+        .status-relive { border-left-color: #ef867b; } 
+
+        .time-col {
+            flex: 0 0 80px;
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #555;
+            text-align: center;
+            padding-top: 2px;
+        }
+
+        .content-col {
+            flex: 1;
+            padding: 0 15px;
+            min-width: 250px;
+        }
+
+        .genre {
+            font-size: 0.8em;
+            text-transform: uppercase;
+            color: #888;
+            letter-spacing: 1px;
+            margin-bottom: 2px;
+            font-weight: bold;
+        }
+
+        .title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #dd5f12;
+            margin: 0;
+        }
+
+        .episode {
+            font-weight: 500;
+            color: #444;
+            margin: 2px 0;
+        }
+
+        .description {
             font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+            line-height: 1.4;
+        }
+
+        .long-description {
+            display: none;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .program-card.expanded .long-description {
+            display: flex;
+            gap: 15px;
+            align-items: flex-start;
+        }
+
+        .program-thumbnail {
+            width: 140px;
+            height: auto;
+            border-radius: 6px;
+            flex-shrink: 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .long-description-text {
+            font-size: 0.9em; 
+            color: #333;
+            line-height: 1.5;
+        }
+
+        .status-badge {
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8em;
             font-weight: bold;
+            text-transform: uppercase;
+            color: white;
+            white-space: nowrap;
+            margin-right: 25px;
         }
 
-        a.download-btn:hover {
-            background-color: #002244;
+        /* Farveindikatorer for ikonets baggrund */
+        .bg-live { background-color: #e74c3c; } 
+        .bg-premiere { background-color: #f39c12; }
+        .bg-repeat { display: none; } 
+        .bg-relive { background-color: #ef867b; } 
+
+        .expand-icon {
+            position: absolute;
+            right: 15px;
+            top: 20px;
+            width: 10px;
+            height: 10px;
+            border-right: 2px solid #ccc;
+            border-bottom: 2px solid #ccc;
+            transform: rotate(45deg);
+            transition: transform 0.3s;
         }
 
-        .week-title {
-            font-weight: bold;
-            font-size: 1.1em;
+        .program-card.expanded .expand-icon {
+            transform: rotate(-135deg);
+            border-color: #dd5f12;
         }
 
-        /* NY KLASSE: Styrer udseendet på opdateringsdatoen */
-        .update-date {
-            font-weight: normal; /* Fjerner fed skrift */
-            font-size: 0.9em;    /* Gør den en lille smule mindre */
-            color: #555;         /* Gør den en anelse mørkegrå */
-            margin-left: 5px;    /* Lidt luft til titlen */
+/* --- MOBILVISNING --- */
+        @media (max-width: 600px) {
+            .program-card { flex-direction: column; align-items: flex-start; }
+            
+            .time-col { 
+                flex: 0 0 auto; 
+                /* LØSNINGEN: Her styrer vi luften under klokkeslættet. Øg tallet for at få mere luft, fx 10px */
+                margin-bottom: 8px; 
+                text-align: left; 
+            } 
+            
+            .content-col { 
+                padding: 0; 
+                margin-bottom: 10px; 
+            }
+
+            .status-badge { align-self: flex-start; margin-right: 0; margin-bottom: 10px; margin-top: 8px; }
+            .expand-icon { top: 15px; right: 15px; }
+            
+            .program-card.expanded .long-description {
+                flex-direction: column;
+            }
+            .program-thumbnail {
+                width: 100%;
+                max-width: 250px;
+            }
         }
     </style>
 </head>
 <body>
 
-    <div class="header-container">
-        <h1>EPG downloads</h1>
-        <img src="logo.png" alt="SPORT LIVE Logo" class="logo">
+    <div class="container">
+        <div id="error-display"></div>
+
+        <div id="selector-container"></div>
+
+        <div id="schedule-container">
+            <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
+        </div>
     </div>
 
-    <p class="intro-text">Her finder du de senest opdaterede XML-filer med programoversigt for SPORT LIVE.</p>
+    <script>
+        const XML_FILENAME = 'sportlive_program.xml';
 
-    <ul class="file-list">
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('schedule-container');
+            const loadingText = document.getElementById('loading-text');
+            const errorDisplay = document.getElementById('error-display');
 
-        <li>
-            <span class="week-title">Uge 20 2026 <span class="update-date">(opdateret 15-05-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_20_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+            const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
-        <li>
-            <span class="week-title">Uge 21 2026 <span class="update-date">(opdateret 22-05-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_21_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+            fetch(urlWithCacheBuster)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Kunne ikke hente XML filen (${response.status} ${response.statusText}).`);
+                    }
+                    return response.text();
+                })
+                .then(xmlString => {
+                    processXML(xmlString, container, loadingText, errorDisplay);
+                })
+                .catch(error => {
+                    if(loadingText) loadingText.style.display = 'none';
+                    errorDisplay.style.display = 'block';
+                    errorDisplay.textContent = "Fejl: " + error.message;
+                });
+        });
 
-        <li>
-            <span class="week-title">Uge 22 2026 <span class="update-date">(opdateret 27-05-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_22_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+        function processXML(xmlString, container, loadingText, errorDisplay) {
+            try {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+                const events = Array.from(xmlDoc.getElementsByTagName('Event'));
 
-        <li>
-            <span class="week-title">Uge 23 2026 <span class="update-date">(opdateret 04-06-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_23_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                if (events.length === 0) {
+                    throw new Error("XML-filen indeholder ingen programmer.");
+                }
 
-        <li>
-            <span class="week-title">Uge 24 2026 <span class="update-date">(opdateret 12-06-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_24_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                const now = new Date();
+                const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                
+                if (now.getHours() < 6) {
+                    currentBroadcastDate.setDate(currentBroadcastDate.getDate() - 1);
+                }
+                const currentBroadcastTimestamp = currentBroadcastDate.getTime();
 
-        <li>
-            <span class="week-title">Uge 25 2026 <span class="update-date">(opdateret 17-06-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_25_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                if(loadingText) loadingText.style.display = 'none';
 
-        <li>
-            <span class="week-title">Uge 26 2026 <span class="update-date">(opdateret 26-06-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_26_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                const groupedEvents = {};
+                const uniqueDates = [];
+                let hasFutureEvents = false;
 
-        <li>
-            <span class="week-title">Uge 27 2026 <span class="update-date">(opdateret 02-07-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_27_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                events.forEach(event => {
+                    const rawDate = getTagValue(event, 'Date');
+                    const time = getTagValue(event, 'StartTime');
+                    const broadcastDateObj = getBroadcastDate(rawDate, time);
 
-        <li>
-            <span class="week-title">Uge 28 2026 <span class="update-date">(opdateret 09-07-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_28_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
+                        return;
+                    }
 
-        <li>
-            <span class="week-title">Uge 29 2026 <span class="update-date">(opdateret 16-07-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_29_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    hasFutureEvents = true;
 
-        <li>
-            <span class="week-title">Uge 30 2026 <span class="update-date">(opdateret 24-07-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_30_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    const parsedEvent = {
+                        genre: getTagValue(event, 'PrimaryGenre'),
+                        title: getTagValue(event, 'Title'),
+                        epTitle: getTagValue(event, 'EpisodeTitle'),
+                        status: getTagValue(event, 'Status'),
+                        desc: getTagValue(event, 'ShortDescription'),
+                        longDesc: getTagValue(event, 'LongDescription'),
+                        stillUrl: getTagValue(event, 'StillSceneUrl'),
+                        time: time,
+                        broadcastDateObj: broadcastDateObj,
+                        broadcastDateString: formatDateStandard(broadcastDateObj)
+                    };
 
-        <li>
-            <span class="week-title">Uge 31 2026 <span class="update-date">(opdateret 24-07-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_31_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    const dateStr = parsedEvent.broadcastDateString;
 
-        <li>
-            <span class="week-title">Uge 32 2026 <span class="update-date">(opdateret 06-08-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_32_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    if (!groupedEvents[dateStr]) {
+                        groupedEvents[dateStr] = {
+                            dateObj: broadcastDateObj,
+                            eventsList: []
+                        };
+                        uniqueDates.push(dateStr);
+                    }
 
-        <li>
-            <span class="week-title">Uge 33 2026 <span class="update-date">(opdateret 14-08-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_33_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    groupedEvents[dateStr].eventsList.push(parsedEvent);
+                });
 
-        <li>
-            <span class="week-title">Uge 34 2026 <span class="update-date">(opdateret 17-08-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_34_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                if (!hasFutureEvents) {
+                    container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
+                    return;
+                }
 
-        <li>
-            <span class="week-title">Uge 35 2026 <span class="update-date">(opdateret 28-08-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_35_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                const selectorContainer = document.getElementById('selector-container');
+                const selectElement = document.createElement('select');
+                selectElement.className = 'date-selector';
 
-        <li>
-            <span class="week-title">Uge 36 2026 <span class="update-date">(opdateret 04-09-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_36_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                uniqueDates.forEach(dateStr => {
+                    const dateObj = groupedEvents[dateStr].dateObj;
+                    const dayName = new Intl.DateTimeFormat('da-DK', { weekday: 'long' }).format(dateObj);
+                    const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
+                    const day = dateObj.getDate();
+                    
+                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
+                    const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
+                    
+                    const option = document.createElement('option');
+                    option.value = dateStr;
+                    option.textContent = optionText;
+                    selectElement.appendChild(option);
+                });
 
-        <li>
-            <span class="week-title">Uge 37 2026 <span class="update-date">(opdateret 11-09-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_37_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                selectorContainer.appendChild(selectElement);
 
-        <li>
-            <span class="week-title">Uge 38 2026 <span class="update-date">(opdateret 11-09-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_38_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                function renderDay(selectedDateStr) {
+                    container.innerHTML = ''; 
+                    
+                    const dayEvents = groupedEvents[selectedDateStr].eventsList;
 
-        <li>
-            <span class="week-title">Uge 39 2026 <span class="update-date">(opdateret 11-09-2026)</span></span>
-            <a href="SPORT_LIVE_DK_WEEK_39_2026.xml" class="download-btn" download>Download XML</a>
-        </li>
+                    dayEvents.forEach(pe => {
+                        const card = document.createElement('div');
+                        card.className = `program-card status-${pe.status.toLowerCase()}`;
 
-    </ul>
+                        card.addEventListener('click', function() {
+                            const isExpanded = this.classList.contains('expanded');
+                            const allExpanded = container.querySelectorAll('.program-card.expanded');
+                            allExpanded.forEach(c => c.classList.remove('expanded'));
+                            if (!isExpanded) {
+                                this.classList.add('expanded');
+                            }
+                        });
 
+                        const timeDiv = document.createElement('div');
+                        timeDiv.className = 'time-col';
+                        timeDiv.textContent = pe.time;
+
+                        const contentDiv = document.createElement('div');
+                        contentDiv.className = 'content-col';
+
+                        let longDescContent = '';
+                        if (pe.stillUrl) longDescContent += `<img src="${pe.stillUrl}" class="program-thumbnail">`;
+                        if (pe.longDesc) longDescContent += `<div class="long-description-text">${pe.longDesc}</div>`;
+                        
+                        contentDiv.innerHTML = `
+                            ${pe.genre ? `<div class="genre">${pe.genre}</div>` : ''}
+                            <div class="title">${pe.title}</div>
+                            ${pe.epTitle ? `<div class="episode">${pe.epTitle}</div>` : ''}
+                            ${pe.desc ? `<div class="description">${pe.desc}</div>` : ''}
+                            <div class="long-description">${longDescContent}</div>
+                        `;
+
+                        let displayStatus = pe.status; 
+                        if (pe.status.toLowerCase() === 'live') {
+                            displayStatus = 'Direkte';
+                        } else if (pe.status.toLowerCase() === 'relive') {
+                            displayStatus = 'Forskudt';
+                        }
+
+                        const statusDiv = document.createElement('div');
+                        statusDiv.className = `status-badge bg-${pe.status.toLowerCase()}`;
+                        statusDiv.textContent = displayStatus;
+
+                        const arrowDiv = document.createElement('div');
+                        arrowDiv.className = 'expand-icon';
+
+                        card.appendChild(timeDiv);
+                        card.appendChild(contentDiv);
+                        card.appendChild(statusDiv);
+                        card.appendChild(arrowDiv);
+                        container.appendChild(card);
+                    });
+                }
+
+                selectElement.addEventListener('change', (e) => {
+                    renderDay(e.target.value);
+                });
+
+                renderDay(uniqueDates[0]);
+
+            } catch (innerError) {
+                if(loadingText) loadingText.style.display = 'none';
+                errorDisplay.style.display = 'block';
+                errorDisplay.textContent = "Fejl: " + innerError.message;
+            }
+        }
+
+        function getTagValue(parent, tagName) {
+            const element = parent.getElementsByTagName(tagName)[0];
+            return element ? element.textContent : '';
+        }
+
+        function getBroadcastDate(dateStr, timeStr) {
+            const [day, month, year] = dateStr.split('/').map(Number);
+            const [hour, minute] = timeStr.split(':').map(Number);
+            const dateObj = new Date(year, month - 1, day);
+            if (hour < 6) dateObj.setDate(dateObj.getDate() - 1);
+            return dateObj;
+        }
+
+        function formatDateStandard(dateObj) {
+            const d = String(dateObj.getDate()).padStart(2, '0');
+            const m = String(dateObj.getMonth() + 1).padStart(2, '0'); 
+            return `${d}/${m}/${dateObj.getFullYear()}`;
+        }
+    </script>
 </body>
 </html>
