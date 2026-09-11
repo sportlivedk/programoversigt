@@ -408,7 +408,7 @@ class SportLiveSchedule extends HTMLElement {
                 const isMobile = window.innerWidth <= 768;
                 
                 // --- VIGTIGT: JUSTER DENNE VÆRDI! ---
-                const headerHeight = isMobile ? 160 : 240; 
+                const headerHeight = isMobile ? 80 : 116; 
                 
                 // Vi tjekker den fysiske placering på skærmen LIGE NU
                 const widgetRect = widget.getBoundingClientRect();
