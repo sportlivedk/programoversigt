@@ -8,18 +8,28 @@ class SportLiveSchedule extends HTMLElement {
                     position: relative;
                 }
 
-                .sl-widget, .sl-widget * { 
-                    box-sizing: border-box; 
-                }
+                * { box-sizing: border-box; }
                 
                 .sl-widget {
                     font-family: 'avenir-lt-w01_35-light1475496', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     background-color: transparent; 
                     color: #333;
                     max-width: 1000px;
-                    width: 100%;
                     margin: 0 auto;
-                    padding: 0 10px 20px 10px;
+                    padding: 0 10px 40px 10px; /* Lidt ekstra bund-padding, så man kan scrolle helt i bund */
+                    
+                    /* LØSNINGEN: Vi låser højden til skærmen minus jeres WIX header (116px på desktop) */
+                    height: calc(100vh - 116px);
+                    /* Vi tænder for intern scroll inde i widgetten */
+                    overflow-y: auto; 
+                    position: relative;
+
+                    /* Skjuler scrollbaren visuelt for et mere stilrent "WIX"-look, men bevarer funktionen */
+                    scrollbar-width: none; 
+                    -ms-overflow-style: none; 
+                }
+                .sl-widget::-webkit-scrollbar {
+                    display: none; 
                 }
 
                 #sl-error-display {
@@ -33,27 +43,17 @@ class SportLiveSchedule extends HTMLElement {
                     text-align: center;
                 }
 
-                #sl-selector-wrapper {
-                    width: 100%;
-                    position: relative;
-                    z-index: 1000;
-                }
-
                 #sl-selector-container {
                     background-color: #2b2b2b; 
                     padding-top: 15px; 
                     padding-bottom: 15px; 
                     width: 100%;
-                    transition: box-shadow 0.2s; 
-                    /* Sørger for at den placerer sig over programkortene, når den skubbes ned */
-                    position: relative;
+                    
+                    /* Da vi nu scroller INTERNT i widgetten, virker native sticky perfekt! */
+                    position: -webkit-sticky;
+                    position: sticky;
+                    top: 0;
                     z-index: 1000;
-                }
-
-                #sl-selector-container.is-sticky {
-                    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
-                    border-bottom-left-radius: 8px;
-                    border-bottom-right-radius: 8px;
                 }
 
                 .sl-date-selector {
@@ -98,7 +98,6 @@ class SportLiveSchedule extends HTMLElement {
                     width: 100%;
                     cursor: pointer;
                     position: relative;
-                    z-index: 1; /* Holder programkortene under datovælgeren */
                 }
 
                 .sl-program-card:hover {
@@ -221,6 +220,13 @@ class SportLiveSchedule extends HTMLElement {
                     border-color: #dd5f12;
                 }
 
+                @media (max-width: 768px) {
+                    /* På mobil justerer vi højden til den mindre WIX header (80px) */
+                    .sl-widget {
+                        height: calc(100vh - 80px);
+                    }
+                }
+
                 @media (max-width: 600px) {
                     .sl-program-card { flex-direction: column; align-items: flex-start; }
                     .sl-time-col { flex: 0 0 auto; margin-bottom: 8px; text-align: left; } 
@@ -235,10 +241,7 @@ class SportLiveSchedule extends HTMLElement {
             <div class="sl-widget">
                 <div id="sl-error-display"></div>
                 
-                <!-- Indpakning for at holde afstanden når menuen skubbes ned -->
-                <div id="sl-selector-wrapper">
-                    <div id="sl-selector-container"></div>
-                </div>
+                <div id="sl-selector-container"></div>
 
                 <div id="sl-schedule-container">
                     <p id="sl-loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
@@ -389,58 +392,11 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
-            // Start overvågning med det rene, matematiske scroll-loop
-            this.setupStickyScroll();
-
         } catch (innerError) {
             if (loadingText) loadingText.style.display = 'none';
             errorDisplay.style.display = 'block';
             errorDisplay.textContent = "Fejl: " + innerError.message;
         }
-    }
-
-    setupStickyScroll() {
-        const widget = this.querySelector('.sl-widget');
-        const container = this.querySelector('#sl-selector-container');
-        const wrapper = this.querySelector('#sl-selector-wrapper');
-        
-        // Sæt højden på wrapperen, så programkortene ikke hopper
-        wrapper.style.height = container.offsetHeight + 'px';
-
-        const checkPosition = () => {
-            if (widget && container && wrapper) {
-                const isMobile = window.innerWidth <= 768;
-                
-                // --- JUSTER HEADER HØJDE HER (I PIXELS) ---
-                const headerHeight = isMobile ? 80 : 116; 
-                
-                const widgetRect = widget.getBoundingClientRect();
-                
-                // Matematikken: Hvor meget af vores programoversigt er forsvundet op under headeren?
-                const scrollDistance = headerHeight - widgetRect.top;
-                
-                // Maksimal skub (så datovælgeren stopper, når programoversigten er slut)
-                const maxScroll = widget.offsetHeight - container.offsetHeight;
-
-                if (scrollDistance > 0 && scrollDistance < maxScroll) {
-                    // Vi er inde i oversigten: Skub datovælgeren nedad i takt med scroll!
-                    container.style.transform = `translateY(${scrollDistance}px)`;
-                    if (!container.classList.contains('is-sticky')) container.classList.add('is-sticky');
-                } else if (scrollDistance >= maxScroll) {
-                    // Bunden af oversigten er nået
-                    container.style.transform = `translateY(${maxScroll}px)`;
-                    if (container.classList.contains('is-sticky')) container.classList.remove('is-sticky');
-                } else {
-                    // Toppen af oversigten
-                    container.style.transform = 'translateY(0px)';
-                    if (container.classList.contains('is-sticky')) container.classList.remove('is-sticky');
-                }
-            }
-            // Kører konstant i baggrunden uden at overbelaste browseren
-            window.requestAnimationFrame(checkPosition);
-        };
-        
-        window.requestAnimationFrame(checkPosition);
     }
 
     getTagValue(parent, tagName) {
