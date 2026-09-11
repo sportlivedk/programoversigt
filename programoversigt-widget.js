@@ -36,6 +36,7 @@ class SportLiveSchedule extends HTMLElement {
                 #sl-selector-wrapper {
                     width: 100%;
                     position: relative;
+                    z-index: 1000;
                 }
 
                 #sl-selector-container {
@@ -44,6 +45,9 @@ class SportLiveSchedule extends HTMLElement {
                     padding-bottom: 15px; 
                     width: 100%;
                     transition: box-shadow 0.2s; 
+                    /* Sørger for at den placerer sig over programkortene, når den skubbes ned */
+                    position: relative;
+                    z-index: 1000;
                 }
 
                 #sl-selector-container.is-sticky {
@@ -94,6 +98,7 @@ class SportLiveSchedule extends HTMLElement {
                     width: 100%;
                     cursor: pointer;
                     position: relative;
+                    z-index: 1; /* Holder programkortene under datovælgeren */
                 }
 
                 .sl-program-card:hover {
@@ -230,6 +235,7 @@ class SportLiveSchedule extends HTMLElement {
             <div class="sl-widget">
                 <div id="sl-error-display"></div>
                 
+                <!-- Indpakning for at holde afstanden når menuen skubbes ned -->
                 <div id="sl-selector-wrapper">
                     <div id="sl-selector-container"></div>
                 </div>
@@ -383,7 +389,7 @@ class SportLiveSchedule extends HTMLElement {
             selectElement.addEventListener('change', (e) => renderDay(e.target.value));
             renderDay(uniqueDates[0]);
 
-            // Start overvågning med det endelige "Teleportation" trick
+            // Start overvågning med det rene, matematiske scroll-loop
             this.setupStickyScroll();
 
         } catch (innerError) {
@@ -393,85 +399,44 @@ class SportLiveSchedule extends HTMLElement {
         }
     }
 
-    // DEN ULTIMATIVE LØSNING: Teleportation for at bryde ud af WIX
     setupStickyScroll() {
         const widget = this.querySelector('.sl-widget');
         const container = this.querySelector('#sl-selector-container');
         const wrapper = this.querySelector('#sl-selector-wrapper');
         
-        let isTeleported = false;
+        // Sæt højden på wrapperen, så programkortene ikke hopper
+        wrapper.style.height = container.offsetHeight + 'px';
 
         const checkPosition = () => {
             if (widget && container && wrapper) {
                 const isMobile = window.innerWidth <= 768;
                 
-                // --- JUSTER HEADER HØJDE HER ---
-                const headerHeight = isMobile ? 0 : 0; 
+                // --- JUSTER HEADER HØJDE HER (I PIXELS) ---
+                const headerHeight = isMobile ? 80 : 116; 
                 
-                // Hent positionerne på skærmen
-                const wrapperRect = wrapper.getBoundingClientRect();
                 const widgetRect = widget.getBoundingClientRect();
-                const containerHeight = container.offsetHeight || 55;
-
-                // Er vi scrollet forbi toppen af programoversigten?
-                const isPastTop = wrapperRect.top <= headerHeight;
                 
-                // Er bunden af programoversigten stadig synlig nok til at holde menuen?
-                const isNotPastBottom = widgetRect.bottom > headerHeight + containerHeight;
+                // Matematikken: Hvor meget af vores programoversigt er forsvundet op under headeren?
+                const scrollDistance = headerHeight - widgetRect.top;
+                
+                // Maksimal skub (så datovælgeren stopper, når programoversigten er slut)
+                const maxScroll = widget.offsetHeight - container.offsetHeight;
 
-                if (isPastTop && isNotPastBottom) {
-                    // Vi er i "sticky zonen". Teleporter ud til browserens rod!
-                    if (!isTeleported) {
-                        wrapper.style.height = containerHeight + 'px'; // Hold pladsen åben, så der ikke hoppes
-                        document.body.appendChild(container); // TELEPORTATION!
-                        container.classList.add('is-sticky');
-                        isTeleported = true;
-                    }
-                    
-                    // Sæt den fast i toppen uanset WIX's regler
-                    container.style.position = 'fixed';
-                    container.style.top = headerHeight + 'px';
-                    container.style.left = wrapperRect.left + 'px';
-                    container.style.width = wrapperRect.width + 'px';
-                    container.style.zIndex = '999999';
-                    container.style.transform = 'translateY(0)';
-
-                } else if (isPastTop && !isNotPastBottom) {
-                    // Vi er scrollet helt til bunden af oversigten - lad menuen glide op med resten
-                    if (!isTeleported) {
-                        wrapper.style.height = containerHeight + 'px';
-                        document.body.appendChild(container);
-                        container.classList.add('is-sticky');
-                        isTeleported = true;
-                    }
-                    
-                    const pushUp = (headerHeight + containerHeight) - widgetRect.bottom;
-                    container.style.position = 'fixed';
-                    container.style.top = headerHeight + 'px';
-                    container.style.left = wrapperRect.left + 'px';
-                    container.style.width = wrapperRect.width + 'px';
-                    container.style.zIndex = '999999';
-                    container.style.transform = `translateY(-${pushUp}px)`; // Skubber op
-
+                if (scrollDistance > 0 && scrollDistance < maxScroll) {
+                    // Vi er inde i oversigten: Skub datovælgeren nedad i takt med scroll!
+                    container.style.transform = `translateY(${scrollDistance}px)`;
+                    if (!container.classList.contains('is-sticky')) container.classList.add('is-sticky');
+                } else if (scrollDistance >= maxScroll) {
+                    // Bunden af oversigten er nået
+                    container.style.transform = `translateY(${maxScroll}px)`;
+                    if (container.classList.contains('is-sticky')) container.classList.remove('is-sticky');
                 } else {
-                    // Vi er over programoversigten - teleporter tilbage til normalen
-                    if (isTeleported) {
-                        wrapper.appendChild(container); // Hent hjem igen
-                        wrapper.style.height = 'auto';
-                        container.classList.remove('is-sticky');
-                        
-                        // Nulstil al styling
-                        container.style.position = 'relative';
-                        container.style.top = 'auto';
-                        container.style.left = 'auto';
-                        container.style.width = '100%';
-                        container.style.transform = 'translateY(0)';
-                        isTeleported = false;
-                    }
+                    // Toppen af oversigten
+                    container.style.transform = 'translateY(0px)';
+                    if (container.classList.contains('is-sticky')) container.classList.remove('is-sticky');
                 }
             }
-            
-            // Hold loopet kørende 60 gange i sekundet
+            // Kører konstant i baggrunden uden at overbelaste browseren
             window.requestAnimationFrame(checkPosition);
         };
         
