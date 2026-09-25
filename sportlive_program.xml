@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>11:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>17:45</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -268,7 +268,7 @@
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
     <LongDescription>E.C. Pinheiros møder FC Barcelona i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -444,7 +444,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -457,7 +457,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -470,7 +470,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -483,7 +483,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -509,7 +509,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
@@ -1523,7 +1523,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
@@ -1562,7 +1562,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -1575,7 +1575,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -1614,7 +1614,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1666,7 +1666,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
@@ -1679,7 +1679,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -1692,7 +1692,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1718,7 +1718,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
@@ -1731,7 +1731,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1744,7 +1744,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1757,7 +1757,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1770,7 +1770,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -1783,7 +1783,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
@@ -1796,7 +1796,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1809,7 +1809,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
@@ -1822,7 +1822,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -1834,8 +1834,8 @@
     <LongDescription>Burgan Sports Club fra Kuwait møder ungarske Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Jonas Kvist Jepsen og Johan Strange.</LongDescription>
   </Event>
   <Event>
-    <Date>07/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>06/10/2026</Date>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1848,7 +1848,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1874,7 +1874,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -1900,7 +1900,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1913,7 +1913,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1926,7 +1926,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Holland</EpisodeTitle>
@@ -1939,7 +1939,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Estland-Danmark</EpisodeTitle>
@@ -1952,7 +1952,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -1965,7 +1965,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1978,7 +1978,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -2004,7 +2004,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -2017,7 +2017,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>02:40</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
