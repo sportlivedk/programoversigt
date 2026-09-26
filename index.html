@@ -26,7 +26,7 @@
             padding: 0 10px 20px 10px; 
         }
 
-        /* --- NYT: USYNLIGT ANKERPUNKT ALLERØVERST PÅ SIDEN --- */
+        /* --- USYNLIGT ANKERPUNKT ALLERØVERST PÅ SIDEN --- */
         #top-of-page {
             height: 1px;
             width: 100%;
@@ -55,7 +55,7 @@
             margin-top: 20px;
         }
 
-        /* Design til vores dropdown-menu inklusiv tilpasset pil */
+        /* Design til dropdown-menu inklusiv tilpasset pil */
         .date-selector {
             background-color: #e0e0e0;
             padding: 12px 15px;
@@ -225,11 +225,11 @@
             border-color: #dd5f12;
         }
 
-        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
+        /* --- DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
-            margin-top: 5px; /* Kort afstand til det nederste programkort */
+            margin-top: 5px; 
             margin-bottom: 10px;
         }
 
@@ -246,11 +246,12 @@
             font-weight: bold;
             letter-spacing: 1px;
             cursor: pointer;
-            padding: 4px 20px;
+            padding: 8px 20px; /* Gjort lidt højere for at gøre trykfladen nemmere at ramme på mobil */
             border-radius: 4px;
             transition: color 0.2s, transform 0.2s;
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
+            user-select: none;
         }
 
         .back-to-top-btn:hover {
@@ -275,7 +276,6 @@
             
             .time-col { 
                 flex: 0 0 auto; 
-                /* LØSNINGEN: Her styrer vi luften under klokkeslættet. Øg tallet for at få mere luft, fx 10px */
                 margin-bottom: 8px; 
                 text-align: left; 
             } 
@@ -300,7 +300,6 @@
 </head>
 <body>
 
-    <!-- NYT: Usynligt 1px ankerpunkt allerøverst i body -->
     <div id="top-of-page" tabindex="-1"></div>
 
     <div class="container">
@@ -312,7 +311,6 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: "TIL TOPPEN"-knap -->
         <div id="back-to-top-container">
             <button id="back-to-top-btn" class="back-to-top-btn" type="button">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -332,13 +330,17 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
-            // NYT: Opdelt funktion så computer-versionen er 100% urørt, og mobil får sit eget hop
-            backToTopBtn.addEventListener('click', () => {
+            function executeScrollToTop(e) {
+                if (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                }
+
                 const topElement = document.getElementById('top-of-page');
                 const isMobile = window.innerWidth <= 768 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 
                 if (!isMobile) {
-                    // --- COMPUTER / WEBBROWSER (100% IDENTISK MED DEN VERSION DER VIRKER PERFEKT) ---
+                    // --- COMPUTER / WEBBROWSER (BEHOLDES UÆNDRET DA DET VIRKER PERFEKT) ---
                     window.scrollTo(0, 0);
                     document.documentElement.scrollTop = 0;
                     document.body.scrollTop = 0;
@@ -347,39 +349,22 @@
                         topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
                     }
                 } else {
-                    // --- MOBILBROWSER (CHROME PÅ ANDROID M.FL.) ---
-                    const htmlEl = document.documentElement;
-                    const bodyEl = document.body;
-
-                    // 1. Frigør kortvarigt iframe-låsen på mobil
-                    htmlEl.style.setProperty('overflow-y', 'visible', 'important');
-                    bodyEl.style.setProperty('overflow-y', 'visible', 'important');
-                    htmlEl.style.setProperty('height', 'auto', 'important');
-                    bodyEl.style.setProperty('height', 'auto', 'important');
-
+                    // --- MOBILBROWSER (OPDATERET FOR FULD RULNING OG TOUCH-RESPONS) ---
                     window.scrollTo(0, 0);
-                    htmlEl.scrollTop = 0;
-                    bodyEl.scrollTop = 0;
+                    document.documentElement.scrollTop = 0;
+                    document.body.scrollTop = 0;
 
                     if (topElement) {
-                        // 2. Tving Chrome på Android til at hoppe direkte til toppen via fokus, scrollIntoView og #anker
-                        topElement.focus({ preventScroll: false });
-                        topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
-                        window.location.hash = '#top-of-page';
+                        topElement.focus({ preventScroll: true });
+                        // 'start' sikrer at toppen trækkes helt op under headeren frem for at stoppe midtvejs
+                        topElement.scrollIntoView({ behavior: 'auto', block: 'start' });
                     }
-
-                    // 3. Gendan mobil-scroll-reglerne og ryd #ankeret, så knappen kan bruges igen og igen
-                    setTimeout(() => {
-                        if (window.history && window.history.replaceState) {
-                            window.history.replaceState(null, '', window.location.pathname + window.location.search);
-                        }
-                        htmlEl.style.setProperty('overflow-y', 'auto', 'important');
-                        bodyEl.style.setProperty('overflow-y', 'auto', 'important');
-                        htmlEl.style.setProperty('height', '100%');
-                        bodyEl.style.setProperty('height', '100%');
-                    }, 150);
                 }
-            });
+            }
+
+            // Lytter til både almindeligt klik og direkte touch-afslutning på Android
+            backToTopBtn.addEventListener('click', executeScrollToTop);
+            backToTopBtn.addEventListener('touchend', executeScrollToTop, { passive: false });
 
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -476,7 +461,6 @@
                     const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
                     const day = dateObj.getDate();
                     
-                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
                     const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
                     
                     const option = document.createElement('option');
@@ -487,7 +471,6 @@
 
                 selectorContainer.appendChild(selectElement);
 
-                // NYT: Vis "TIL TOPPEN"-knappen nu hvor programmerne er klar
                 const backToTopContainer = document.getElementById('back-to-top-container');
                 if (backToTopContainer) {
                     backToTopContainer.style.display = 'block';
