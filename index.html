@@ -217,7 +217,48 @@
             border-color: #dd5f12;
         }
 
-/* --- MOBILVISNING --- */
+        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
+        #back-to-top-container {
+            display: none; /* Vises først når programmerne er indlæst */
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        .back-to-top-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: none;
+            border: none;
+            color: #ffffff;
+            font-family: inherit;
+            font-size: 0.95em;
+            font-weight: bold;
+            letter-spacing: 1px;
+            cursor: pointer;
+            padding: 10px 20px;
+            border-radius: 4px;
+            transition: color 0.2s, transform 0.2s;
+        }
+
+        .back-to-top-btn:hover {
+            color: #dd5f12;
+            transform: translateY(-2px);
+        }
+
+        .back-to-top-btn svg {
+            width: 24px;
+            height: 24px;
+            fill: #dd5f12;
+            transition: transform 0.2s;
+        }
+
+        .back-to-top-btn:hover svg {
+            transform: translateY(-2px);
+        }
+
+        /* --- MOBILVISNING --- */
         @media (max-width: 600px) {
             .program-card { flex-direction: column; align-items: flex-start; }
             
@@ -248,13 +289,24 @@
 </head>
 <body>
 
-    <div class="container">
+    <!-- NYT: id="top-of-page" tilføjet som ankerpunkt i toppen -->
+    <div class="container" id="top-of-page">
         <div id="error-display"></div>
 
         <div id="selector-container"></div>
 
         <div id="schedule-container">
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
+        </div>
+
+        <!-- NYT: "TIL TOPPEN"-knap placeret lige under programoversigten -->
+        <div id="back-to-top-container">
+            <button id="back-to-top-btn" class="back-to-top-btn" type="button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M7 14l5-5 5 5z"/>
+                </svg>
+                TIL TOPPEN
+            </button>
         </div>
     </div>
 
@@ -265,6 +317,20 @@
             const container = document.getElementById('schedule-container');
             const loadingText = document.getElementById('loading-text');
             const errorDisplay = document.getElementById('error-display');
+            const backToTopBtn = document.getElementById('back-to-top-btn');
+
+            // NYT: Klik-funktion der ruller både iframe og WIX-hovedvindue til toppen
+            backToTopBtn.addEventListener('click', () => {
+                const topElement = document.getElementById('top-of-page');
+                if (topElement) {
+                    // Tvinger WIX-siden (og iframen) til at rulle op til vores top-element
+                    topElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+                // Ekstra sikring hvis selve iframen har sin egen scrollbar
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+                document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
+                document.body.scrollTo({ top: 0, behavior: 'smooth' });
+            });
 
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -371,6 +437,12 @@
                 });
 
                 selectorContainer.appendChild(selectElement);
+
+                // NYT: Vis "TIL TOPPEN"-knappen nu hvor programmerne er klar
+                const backToTopContainer = document.getElementById('back-to-top-container');
+                if (backToTopContainer) {
+                    backToTopContainer.style.display = 'block';
+                }
 
                 function renderDay(selectedDateStr) {
                     container.innerHTML = ''; 
