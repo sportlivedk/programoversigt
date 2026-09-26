@@ -217,11 +217,11 @@
             border-color: #dd5f12;
         }
 
-        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
+        /* --- NYT: DESIGN TIL "TIL TOPPEN"-LINKET (JUSTERET AFSTAND) --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
-            margin-top: 25px;
+            margin-top: 8px; /* Reduceret fra 25px for at rykke teksten tættere på oversigten */
             margin-bottom: 10px;
         }
 
@@ -232,12 +232,13 @@
             background: none;
             border: none;
             color: #ffffff;
+            text-decoration: none; /* Fjerner standard link-understregning */
             font-family: inherit;
             font-size: 0.95em;
             font-weight: bold;
             letter-spacing: 1px;
             cursor: pointer;
-            padding: 10px 20px;
+            padding: 5px 20px; /* Reduceret top/bund-padding fra 10px til 5px */
             border-radius: 4px;
             transition: color 0.2s, transform 0.2s;
         }
@@ -289,8 +290,7 @@
 </head>
 <body>
 
-    <!-- NYT: id="top-of-page" tilføjet som ankerpunkt i toppen -->
-    <div class="container" id="top-of-page">
+    <div class="container">
         <div id="error-display"></div>
 
         <div id="selector-container"></div>
@@ -299,14 +299,14 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: "TIL TOPPEN"-knap placeret lige under programoversigten -->
+        <!-- NYT: "TIL TOPPEN" som direkte link til WIX-hovedvinduet via target="_top" -->
         <div id="back-to-top-container">
-            <button id="back-to-top-btn" class="back-to-top-btn" type="button">
+            <a href="https://www.sport-live.dk/programoversigt" target="_top" id="back-to-top-btn" class="back-to-top-btn">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path d="M7 14l5-5 5 5z"/>
                 </svg>
                 TIL TOPPEN
-            </button>
+            </a>
         </div>
     </div>
 
@@ -317,20 +317,6 @@
             const container = document.getElementById('schedule-container');
             const loadingText = document.getElementById('loading-text');
             const errorDisplay = document.getElementById('error-display');
-            const backToTopBtn = document.getElementById('back-to-top-btn');
-
-            // NYT: Klik-funktion der ruller både iframe og WIX-hovedvindue til toppen
-            backToTopBtn.addEventListener('click', () => {
-                const topElement = document.getElementById('top-of-page');
-                if (topElement) {
-                    // Tvinger WIX-siden (og iframen) til at rulle op til vores top-element
-                    topElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }
-                // Ekstra sikring hvis selve iframen har sin egen scrollbar
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-                document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
-                document.body.scrollTo({ top: 0, behavior: 'smooth' });
-            });
 
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -438,7 +424,7 @@
 
                 selectorContainer.appendChild(selectElement);
 
-                // NYT: Vis "TIL TOPPEN"-knappen nu hvor programmerne er klar
+                // NYT: Vis "TIL TOPPEN"-linket nu hvor programmerne er klar
                 const backToTopContainer = document.getElementById('back-to-top-container');
                 if (backToTopContainer) {
                     backToTopContainer.style.display = 'block';
