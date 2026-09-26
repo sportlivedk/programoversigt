@@ -26,11 +26,8 @@
             padding: 0 10px 20px 10px; 
         }
 
-        /* --- NYT: USYNLIGT ANKERPUNKT MED EKSTRA TOP-FRIHØJDE TIL WIX-HEADEREN --- */
+        /* --- NYT: USYNLIGT ANKERPUNKT ALLERØVERST PÅ SIDEN --- */
         #top-of-page {
-            position: relative;
-            top: -250px;
-            scroll-margin-top: 250px;
             height: 1px;
             width: 100%;
             pointer-events: none;
@@ -227,11 +224,11 @@
             border-color: #dd5f12;
         }
 
-        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN (MED TÆT AFSTAND) --- */
+        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
-            margin-top: 5px; /* Meget tæt på det nederste programkort */
+            margin-top: 5px; /* Kort afstand til det nederste programkort */
             margin-bottom: 10px;
         }
 
@@ -300,7 +297,7 @@
 </head>
 <body>
 
-    <!-- NYT: Usynligt anker placeret allerøverst i body -->
+    <!-- NYT: Usynligt 1px ankerpunkt allerøverst i body -->
     <div id="top-of-page"></div>
 
     <div class="container">
@@ -332,17 +329,18 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
-            // NYT: Rul både iframe og WIX-hovedvindue helt i top (inkl. frihøjde til WIX-headeren)
+            // NYT: Klik-funktion der tvinger både iframe og WIX-hovedvindue helt op til 0px
             backToTopBtn.addEventListener('click', () => {
-                // 1. Nulstil eventuel intern scroll i iframen øjeblikkeligt (uden at forstyrre den bløde rulning)
+                // 1. Nulstil eventuel intern scroll i iframen
                 window.scrollTo(0, 0);
                 document.documentElement.scrollTop = 0;
                 document.body.scrollTop = 0;
 
-                // 2. Rul WIX-hovedvinduet helt op til vores hævede ankerpunkt
+                // 2. Ved at bruge block: 'end' på det øverste 1px-element tvinger vi
+                // WIX-vinduet til at rulle elementet fri af den faste header, helt op til sidens top (0px)
                 const topElement = document.getElementById('top-of-page');
                 if (topElement) {
-                    topElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
                 }
             });
 
