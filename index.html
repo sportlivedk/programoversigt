@@ -30,6 +30,7 @@
         #top-of-page {
             height: 1px;
             width: 100%;
+            outline: none;
             pointer-events: none;
         }
 
@@ -248,6 +249,8 @@
             padding: 4px 20px;
             border-radius: 4px;
             transition: color 0.2s, transform 0.2s;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
         }
 
         .back-to-top-btn:hover {
@@ -298,7 +301,7 @@
 <body>
 
     <!-- NYT: Usynligt 1px ankerpunkt allerøverst i body -->
-    <div id="top-of-page"></div>
+    <div id="top-of-page" tabindex="-1"></div>
 
     <div class="container">
         <div id="error-display"></div>
@@ -329,18 +332,52 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
-            // NYT: Klik-funktion der tvinger både iframe og WIX-hovedvindue helt op til 0px
+            // NYT: Opdelt funktion så computer-versionen er 100% urørt, og mobil får sit eget hop
             backToTopBtn.addEventListener('click', () => {
-                // 1. Nulstil eventuel intern scroll i iframen
-                window.scrollTo(0, 0);
-                document.documentElement.scrollTop = 0;
-                document.body.scrollTop = 0;
-
-                // 2. Ved at bruge block: 'end' på det øverste 1px-element tvinger vi
-                // WIX-vinduet til at rulle elementet fri af den faste header, helt op til sidens top (0px)
                 const topElement = document.getElementById('top-of-page');
-                if (topElement) {
-                    topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
+                const isMobile = window.innerWidth <= 768 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+                if (!isMobile) {
+                    // --- COMPUTER / WEBBROWSER (100% IDENTISK MED DEN VERSION DER VIRKER PERFEKT) ---
+                    window.scrollTo(0, 0);
+                    document.documentElement.scrollTop = 0;
+                    document.body.scrollTop = 0;
+
+                    if (topElement) {
+                        topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
+                    }
+                } else {
+                    // --- MOBILBROWSER (CHROME PÅ ANDROID M.FL.) ---
+                    const htmlEl = document.documentElement;
+                    const bodyEl = document.body;
+
+                    // 1. Frigør kortvarigt iframe-låsen på mobil
+                    htmlEl.style.setProperty('overflow-y', 'visible', 'important');
+                    bodyEl.style.setProperty('overflow-y', 'visible', 'important');
+                    htmlEl.style.setProperty('height', 'auto', 'important');
+                    bodyEl.style.setProperty('height', 'auto', 'important');
+
+                    window.scrollTo(0, 0);
+                    htmlEl.scrollTop = 0;
+                    bodyEl.scrollTop = 0;
+
+                    if (topElement) {
+                        // 2. Tving Chrome på Android til at hoppe direkte til toppen via fokus, scrollIntoView og #anker
+                        topElement.focus({ preventScroll: false });
+                        topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
+                        window.location.hash = '#top-of-page';
+                    }
+
+                    // 3. Gendan mobil-scroll-reglerne og ryd #ankeret, så knappen kan bruges igen og igen
+                    setTimeout(() => {
+                        if (window.history && window.history.replaceState) {
+                            window.history.replaceState(null, '', window.location.pathname + window.location.search);
+                        }
+                        htmlEl.style.setProperty('overflow-y', 'auto', 'important');
+                        bodyEl.style.setProperty('overflow-y', 'auto', 'important');
+                        htmlEl.style.setProperty('height', '100%');
+                        bodyEl.style.setProperty('height', '100%');
+                    }, 150);
                 }
             });
 
