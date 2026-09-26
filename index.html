@@ -26,6 +26,16 @@
             padding: 0 10px 20px 10px; 
         }
 
+        /* --- NYT: USYNLIGT ANKERPUNKT MED EKSTRA TOP-FRIHØJDE TIL WIX-HEADEREN --- */
+        #top-of-page {
+            position: relative;
+            top: -250px;
+            scroll-margin-top: 250px;
+            height: 1px;
+            width: 100%;
+            pointer-events: none;
+        }
+
         .container {
             max-width: 1000px;
             width: 100%;
@@ -217,11 +227,11 @@
             border-color: #dd5f12;
         }
 
-        /* --- NYT: DESIGN TIL "TIL TOPPEN"-LINKET (JUSTERET AFSTAND) --- */
+        /* --- NYT: DESIGN TIL "TIL TOPPEN"-KNAPPEN (MED TÆT AFSTAND) --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
-            margin-top: 8px; /* Reduceret fra 25px for at rykke teksten tættere på oversigten */
+            margin-top: 5px; /* Meget tæt på det nederste programkort */
             margin-bottom: 10px;
         }
 
@@ -232,13 +242,13 @@
             background: none;
             border: none;
             color: #ffffff;
-            text-decoration: none; /* Fjerner standard link-understregning */
+            text-decoration: none;
             font-family: inherit;
             font-size: 0.95em;
             font-weight: bold;
             letter-spacing: 1px;
             cursor: pointer;
-            padding: 5px 20px; /* Reduceret top/bund-padding fra 10px til 5px */
+            padding: 4px 20px;
             border-radius: 4px;
             transition: color 0.2s, transform 0.2s;
         }
@@ -290,6 +300,9 @@
 </head>
 <body>
 
+    <!-- NYT: Usynligt anker placeret allerøverst i body -->
+    <div id="top-of-page"></div>
+
     <div class="container">
         <div id="error-display"></div>
 
@@ -299,14 +312,14 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: "TIL TOPPEN" som direkte link til WIX-hovedvinduet via target="_top" -->
+        <!-- NYT: "TIL TOPPEN"-knap -->
         <div id="back-to-top-container">
-            <a href="https://www.sport-live.dk/programoversigt" target="_top" id="back-to-top-btn" class="back-to-top-btn">
+            <button id="back-to-top-btn" class="back-to-top-btn" type="button">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path d="M7 14l5-5 5 5z"/>
                 </svg>
                 TIL TOPPEN
-            </a>
+            </button>
         </div>
     </div>
 
@@ -317,6 +330,21 @@
             const container = document.getElementById('schedule-container');
             const loadingText = document.getElementById('loading-text');
             const errorDisplay = document.getElementById('error-display');
+            const backToTopBtn = document.getElementById('back-to-top-btn');
+
+            // NYT: Rul både iframe og WIX-hovedvindue helt i top (inkl. frihøjde til WIX-headeren)
+            backToTopBtn.addEventListener('click', () => {
+                // 1. Nulstil eventuel intern scroll i iframen øjeblikkeligt (uden at forstyrre den bløde rulning)
+                window.scrollTo(0, 0);
+                document.documentElement.scrollTop = 0;
+                document.body.scrollTop = 0;
+
+                // 2. Rul WIX-hovedvinduet helt op til vores hævede ankerpunkt
+                const topElement = document.getElementById('top-of-page');
+                if (topElement) {
+                    topElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
 
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -424,7 +452,7 @@
 
                 selectorContainer.appendChild(selectElement);
 
-                // NYT: Vis "TIL TOPPEN"-linket nu hvor programmerne er klar
+                // NYT: Vis "TIL TOPPEN"-knappen nu hvor programmerne er klar
                 const backToTopContainer = document.getElementById('back-to-top-container');
                 if (backToTopContainer) {
                     backToTopContainer.style.display = 'block';
