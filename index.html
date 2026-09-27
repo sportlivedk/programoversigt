@@ -224,30 +224,32 @@
             border-color: #dd5f12;
         }
 
-        /* --- DESIGN TIL "TIL TOPPEN" SOM SAMLET SVG-GRAFIK --- */
+        /* --- DESIGN TIL "TIL TOPPEN" --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
             margin-top: 5px; 
-            margin-bottom: 10px;
+            margin-bottom: 25px; /* Lidt luft ned til iframe-kanten */
         }
 
         .back-to-top-btn {
             display: inline-block;
+            text-decoration: none;
             cursor: pointer;
-            padding: 6px 15px;
+            padding: 4px 10px;
             border-radius: 4px;
+            outline: none;
             transition: transform 0.2s;
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
             user-select: none;
+            -webkit-user-select: none;
         }
 
         .back-to-top-svg {
             width: 155px;
             height: 28px;
             display: block;
-            overflow: visible;
         }
 
         .back-to-top-text {
@@ -257,6 +259,7 @@
             font-weight: bold;
             letter-spacing: 1px;
             transition: fill 0.2s;
+            pointer-events: none !important; /* Sikrer at tryk går direkte i <path>-fladen */
         }
 
         @media (hover: hover) {
@@ -300,7 +303,7 @@
 </head>
 <body>
 
-    <!-- Ankerpunkt i toppen der modtager fokus og scrollIntoView -->
+    <!-- Ankerpunkt i toppen af siden -->
     <div id="top-of-page" tabindex="-1"></div>
 
     <div class="container">
@@ -312,18 +315,18 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: Både pil og "TIL TOPPEN" ligger nu inde i den samme SVG-grafik -->
+        <!-- Ægte anker-link hvor hele fladen (både pil og tekst) er en 100% massiv <path> -->
         <div id="back-to-top-container">
-            <div id="back-to-top-btn" class="back-to-top-btn" role="button" tabindex="0">
+            <a href="#top-of-page" id="back-to-top-btn" class="back-to-top-btn">
                 <svg class="back-to-top-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 28">
-                    <!-- Usynlig flade der gør hele SVG-boksen (både pil og tekst) til ét samlet grafik-klikfelt -->
-                    <rect x="0" y="0" width="155" height="28" fill="#ffffff" fill-opacity="0.001" />
+                    <!-- 100% massiv <path> i sidens baggrundsfarve (#2b2b2b), som modtager alle klik -->
+                    <path d="M0 0 H155 V28 H0 Z" fill="#2b2b2b" />
                     <!-- Den orange opad-pil -->
-                    <path d="M7 17l5-5 5 5z" fill="#dd5f12" />
-                    <!-- Selve teksten tegnet som en del af SVG-grafikken -->
-                    <text x="26" y="19" class="back-to-top-text">TIL TOPPEN</text>
+                    <path d="M7 17l5-5 5 5z" fill="#dd5f12" pointer-events="none" />
+                    <!-- Teksten med pointer-events="none", så klik på teksten rammer <path>-fladen -->
+                    <text x="26" y="19" class="back-to-top-text" pointer-events="none">TIL TOPPEN</text>
                 </svg>
-            </div>
+            </a>
         </div>
     </div>
 
@@ -336,47 +339,44 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
+            // Nulstiller eventuelt #top-of-page i URL'en FØR selve klikket, 
+            // så vi ikke behøver en setTimeout-timer efter klikket
+            function resetHashBeforeClick() {
+                if (window.location.hash === '#top-of-page' && window.history && window.history.replaceState) {
+                    window.history.replaceState(null, '', window.location.pathname + window.location.search);
+                }
+            }
+
+            backToTopBtn.addEventListener('touchstart', resetHashBeforeClick, { passive: true });
+            backToTopBtn.addEventListener('mousedown', resetHashBeforeClick);
+
             backToTopBtn.addEventListener('click', (e) => {
-                e.preventDefault();
                 const topElement = document.getElementById('top-of-page');
                 const isMobile = window.innerWidth <= 768 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 
+                // Fjern fokus fra selve knappen i bunden, så browseren aldrig fastholder bunden
+                backToTopBtn.blur();
+
                 if (!isMobile) {
-                    // --- COMPUTER / WEBBROWSER (100% UÆNDRET) ---
-                    window.scrollTo(0, 0);
-                    document.documentElement.scrollTop = 0;
-                    document.body.scrollTop = 0;
+                    // --- COMPUTER / WEBBROWSER ---
+                    e.preventDefault();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                    document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
+                    document.body.scrollTo({ top: 0, behavior: 'smooth' });
 
                     if (topElement) {
                         topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
                     }
                 } else {
-                    // --- MOBILBROWSER (DEN PRÆCISE KODE DER HOPPEDE HELT TIL TOPPEN) ---
-                    const htmlEl = document.documentElement;
-                    const bodyEl = document.body;
-
-                    // Åbner kortvarigt html/body, så rulningen sendes ud til selve WIX-vinduet
-                    htmlEl.style.setProperty('overflow-y', 'visible', 'important');
-                    bodyEl.style.setProperty('overflow-y', 'visible', 'important');
-                    htmlEl.style.setProperty('height', 'auto', 'important');
-                    bodyEl.style.setProperty('height', 'auto', 'important');
-
+                    // --- MOBILBROWSER (UDEN SETTIMEOUT, SÅ DEN BLIVER I TOPPEN) ---
                     window.scrollTo(0, 0);
-                    htmlEl.scrollTop = 0;
-                    bodyEl.scrollTop = 0;
+                    document.documentElement.scrollTop = 0;
+                    document.body.scrollTop = 0;
 
                     if (topElement) {
                         topElement.focus({ preventScroll: false });
                         topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
                     }
-
-                    // Gendanner dine mobil-scroll-regler efter hoppet
-                    setTimeout(() => {
-                        htmlEl.style.setProperty('overflow-y', 'auto', 'important');
-                        bodyEl.style.setProperty('overflow-y', 'auto', 'important');
-                        htmlEl.style.setProperty('height', '100%');
-                        bodyEl.style.setProperty('height', '100%');
-                    }, 200);
                 }
             });
 
