@@ -54,7 +54,7 @@
             margin-top: 20px;
         }
 
-        /* Design til vores dropdown-menu inklusiv tilpasset pil */
+        /* Design til dropdown-menu inklusiv tilpasset pil */
         .date-selector {
             background-color: #e0e0e0;
             padding: 12px 15px;
@@ -224,7 +224,7 @@
             border-color: #dd5f12;
         }
 
-        /* --- DESIGN TIL "TIL TOPPEN" SOM REN <PATH>-GRAFIK --- */
+        /* --- DESIGN TIL "TIL TOPPEN"-KNAPPEN --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
@@ -233,37 +233,43 @@
         }
 
         .back-to-top-btn {
-            display: inline-block;
-            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            background-color: #2b2b2b; /* Matcher sidens baggrund 100%, men bevarer solid touch-flade */
+            border: none; /* Fjerner rammen helt */
+            color: #ffffff;
+            font-family: inherit;
+            font-size: 0.95em;
+            font-weight: bold;
+            letter-spacing: 1px;
             cursor: pointer;
-            padding: 4px 10px;
-            border-radius: 4px;
+            padding: 10px 22px;
+            border-radius: 6px;
             outline: none;
-            transition: transform 0.2s;
+            transition: color 0.2s, transform 0.2s;
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
-            user-select: none;
-            -webkit-user-select: none;
         }
 
-        .back-to-top-svg {
-            width: 130px;
-            height: 28px;
+        /* Gør pil og tekst gennemsigtige for klikket, så hele knappens flade modtager trykket */
+        .back-to-top-btn svg,
+        .back-to-top-btn span {
+            pointer-events: none;
+        }
+
+        .back-to-top-btn svg {
+            width: 20px;
+            height: 20px;
+            fill: #dd5f12;
             display: block;
-        }
-
-        .back-to-top-letters {
-            fill: #ffffff;
-            transition: fill 0.2s;
         }
 
         @media (hover: hover) {
             .back-to-top-btn:hover {
+                color: #dd5f12;
                 transform: translateY(-2px);
-            }
-
-            .back-to-top-btn:hover .back-to-top-letters {
-                fill: #dd5f12;
             }
         }
 
@@ -273,7 +279,6 @@
             
             .time-col { 
                 flex: 0 0 auto; 
-                /* LØSNINGEN: Her styrer vi luften under klokkeslættet. Øg tallet for at få mere luft, fx 10px */
                 margin-bottom: 8px; 
                 text-align: left; 
             } 
@@ -310,18 +315,13 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: Både pilen og bogstaverne "TIL TOPPEN" er nu rene <path>-figurer (intet <text>-element) -->
         <div id="back-to-top-container">
-            <a href="#top-of-page" id="back-to-top-btn" class="back-to-top-btn" aria-label="Til toppen">
-                <svg class="back-to-top-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 28">
-                    <!-- Baggrunds-<path> i sidens farve (#2b2b2b), så mellemrum mellem bogstaver også fanger tryk -->
-                    <path d="M0 0 H130 V28 H0 Z" fill="#2b2b2b" />
-                    <!-- Den orange opad-pil som <path> -->
-                    <path d="M7 17l5-5 5 5z" fill="#dd5f12" />
-                    <!-- Bogstaverne "TIL TOPPEN" tegnet som <path> (nøjagtig samme element-type som pilen) -->
-                    <path class="back-to-top-letters" fill-rule="evenodd" d="M26 9 H34 V11 H31.1 V20 H28.9 V11 H26 Z M37 9 H39.2 V20 H37 Z M42.5 9 H44.7 V18 H49.5 V20 H42.5 Z M56.5 9 H64.5 V11 H61.6 V20 H59.4 V11 H56.5 Z M71.8 8.8 C74.8 8.8 76.8 11.1 76.8 14.5 C76.8 17.9 74.8 20.2 71.8 20.2 C68.8 20.2 66.8 17.9 66.8 14.5 C66.8 11.1 68.8 8.8 71.8 8.8 Z M71.8 10.8 C70.0 10.8 69.0 12.3 69.0 14.5 C69.0 16.7 70.0 18.2 71.8 18.2 C73.6 18.2 74.6 16.7 74.6 14.5 C74.6 12.3 73.6 10.8 71.8 10.8 Z M79.8 9 H84.0 C86.5 9 88.0 10.3 88.0 12.5 C88.0 14.7 86.5 16.0 84.0 16.0 H82.0 V20 H79.8 Z M82.0 10.9 V14.1 H83.8 C85.1 14.1 85.8 13.5 85.8 12.5 C85.8 11.5 85.1 10.9 83.8 10.9 Z M90.8 9 H95.0 C97.5 9 99.0 10.3 99.0 12.5 C99.0 14.7 97.5 16.0 95.0 16.0 H93.0 V20 H90.8 Z M93.0 10.9 V14.1 H94.8 C96.1 14.1 96.8 13.5 96.8 12.5 C96.8 11.5 96.1 10.9 94.8 10.9 Z M102.0 9 H109.2 V10.9 H104.2 V13.5 H108.6 V15.4 H104.2 V18.1 H109.4 V20 H102.0 Z M112.5 9 H114.7 L119.1 16.5 V9 H121.3 V20 H119.1 L114.7 12.5 V20 H112.5 Z" />
+            <button type="button" id="back-to-top-btn" class="back-to-top-btn" aria-label="Rul til toppen">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M7 14l5-5 5 5z"/>
                 </svg>
-            </a>
+                <span>TIL TOPPEN</span>
+            </button>
         </div>
     </div>
 
@@ -334,17 +334,18 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
-            // Nulstiller eventuelt #top-of-page i URL'en FØR selve klikket
-            function resetHashBeforeClick() {
-                if (window.location.hash === '#top-of-page' && window.history && window.history.replaceState) {
-                    window.history.replaceState(null, '', window.location.pathname + window.location.search);
+            let isExecutingScroll = false;
+
+            function triggerScrollToTop(e) {
+                if (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
                 }
-            }
 
-            backToTopBtn.addEventListener('touchstart', resetHashBeforeClick, { passive: true });
-            backToTopBtn.addEventListener('mousedown', resetHashBeforeClick);
+                // Forhindrer dobbelt-aktivering hvis både touchend og click affyres
+                if (isExecutingScroll) return;
+                isExecutingScroll = true;
 
-            backToTopBtn.addEventListener('click', (e) => {
                 const topElement = document.getElementById('top-of-page');
                 const isMobile = window.innerWidth <= 768 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 
@@ -352,7 +353,6 @@
 
                 if (!isMobile) {
                     // --- COMPUTER / WEBBROWSER ---
-                    e.preventDefault();
                     window.scrollTo({ top: 0, behavior: 'smooth' });
                     document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
                     document.body.scrollTo({ top: 0, behavior: 'smooth' });
@@ -371,7 +371,15 @@
                         topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
                     }
                 }
-            });
+
+                setTimeout(() => {
+                    isExecutingScroll = false;
+                }, 400);
+            }
+
+            // Lytter på både almindeligt klik og touch-afslutning på mobilen
+            backToTopBtn.addEventListener('click', triggerScrollToTop);
+            backToTopBtn.addEventListener('touchend', triggerScrollToTop);
 
             const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -468,7 +476,6 @@
                     const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
                     const day = dateObj.getDate();
                     
-                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
                     const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
                     
                     const option = document.createElement('option');
