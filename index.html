@@ -224,7 +224,7 @@
             border-color: #dd5f12;
         }
 
-        /* --- DESIGN TIL "TIL TOPPEN"-LINKET (SAMLET TRYKFLADE FOR PIL OG TEKST) --- */
+        /* --- DESIGN TIL "TIL TOPPEN" SOM SAMLET SVG-GRAFIK --- */
         #back-to-top-container {
             display: none; /* Vises først når programmerne er indlæst */
             text-align: center;
@@ -233,53 +233,39 @@
         }
 
         .back-to-top-btn {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
-            background: none;
-            border: none;
-            color: #ffffff;
-            text-decoration: none;
-            font-family: inherit;
-            font-size: 0.95em;
-            font-weight: bold;
-            letter-spacing: 1px;
+            display: inline-block;
             cursor: pointer;
-            padding: 10px 24px;
+            padding: 6px 15px;
             border-radius: 4px;
-            transition: color 0.2s, transform 0.2s;
+            transition: transform 0.2s;
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
             user-select: none;
-            -webkit-user-select: none;
-            position: relative;
         }
 
-        /* VIGTIGT: Gør at pilen og teksten ikke opfattes som separate lag, 
-           så hele knappen modtager trykket ensartet uanset hvor man rammer */
-        .back-to-top-btn svg,
-        .back-to-top-btn svg path,
-        .back-to-top-btn span {
-            pointer-events: none;
+        .back-to-top-svg {
+            width: 155px;
+            height: 28px;
+            display: block;
+            overflow: visible;
         }
 
-        .back-to-top-btn svg {
-            width: 24px;
-            height: 24px;
-            fill: #dd5f12;
-            transition: transform 0.2s;
+        .back-to-top-text {
+            fill: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            transition: fill 0.2s;
         }
 
-        /* Hover-bevægelse kører kun på enheder med mus, så knappen ikke flytter sig under fingeren på mobil */
         @media (hover: hover) {
             .back-to-top-btn:hover {
-                color: #dd5f12;
                 transform: translateY(-2px);
             }
 
-            .back-to-top-btn:hover svg {
-                transform: translateY(-2px);
+            .back-to-top-btn:hover .back-to-top-text {
+                fill: #dd5f12;
             }
         }
 
@@ -314,7 +300,7 @@
 </head>
 <body>
 
-    <!-- Ankerpunkt i toppen som både kan modtage fokus og link-hop (#top-of-page) -->
+    <!-- Ankerpunkt i toppen der modtager fokus og scrollIntoView -->
     <div id="top-of-page" tabindex="-1"></div>
 
     <div class="container">
@@ -326,14 +312,18 @@
             <p id="loading-text" style="text-align: center; font-size: 1.2em; color: #ffffff;">Henter seneste programdata...</p>
         </div>
 
-        <!-- NYT: Teksten er nu pakket ind i <span>, så både pil og tekst udgør ét samlet klik-felt -->
+        <!-- NYT: Både pil og "TIL TOPPEN" ligger nu inde i den samme SVG-grafik -->
         <div id="back-to-top-container">
-            <a href="#top-of-page" id="back-to-top-btn" class="back-to-top-btn">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path d="M7 14l5-5 5 5z"/>
+            <div id="back-to-top-btn" class="back-to-top-btn" role="button" tabindex="0">
+                <svg class="back-to-top-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 28">
+                    <!-- Usynlig flade der gør hele SVG-boksen (både pil og tekst) til ét samlet grafik-klikfelt -->
+                    <rect x="0" y="0" width="155" height="28" fill="#ffffff" fill-opacity="0.001" />
+                    <!-- Den orange opad-pil -->
+                    <path d="M7 17l5-5 5 5z" fill="#dd5f12" />
+                    <!-- Selve teksten tegnet som en del af SVG-grafikken -->
+                    <text x="26" y="19" class="back-to-top-text">TIL TOPPEN</text>
                 </svg>
-                <span>TIL TOPPEN</span>
-            </a>
+            </div>
         </div>
     </div>
 
@@ -346,65 +336,13 @@
             const errorDisplay = document.getElementById('error-display');
             const backToTopBtn = document.getElementById('back-to-top-btn');
 
-            function triggerMobileTopJump() {
-                const topElement = document.getElementById('top-of-page');
-                const htmlEl = document.documentElement;
-                const bodyEl = document.body;
-
-                // Åbner kortvarigt html/body, så rulningen sendes ud til selve WIX-vinduet
-                htmlEl.style.setProperty('overflow-y', 'visible', 'important');
-                bodyEl.style.setProperty('overflow-y', 'visible', 'important');
-                htmlEl.style.setProperty('height', 'auto', 'important');
-                bodyEl.style.setProperty('height', 'auto', 'important');
-
-                window.scrollTo(0, 0);
-                htmlEl.scrollTop = 0;
-                bodyEl.scrollTop = 0;
-
-                if (topElement) {
-                    // Tvinger både Android og iOS til at hoppe direkte op til #top-of-page
-                    window.location.hash = '#top-of-page';
-                    topElement.focus({ preventScroll: false });
-                    topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
-                }
-
-                // Gendanner mobil-scroll-reglerne og fjerner #top-of-page fra URL'en igen
-                setTimeout(() => {
-                    if (window.history && window.history.replaceState) {
-                        window.history.replaceState(null, '', window.location.pathname + window.location.search);
-                    }
-                    htmlEl.style.setProperty('overflow-y', 'auto', 'important');
-                    bodyEl.style.setProperty('overflow-y', 'auto', 'important');
-                    htmlEl.style.setProperty('height', '100%');
-                    bodyEl.style.setProperty('height', '100%');
-                }, 200);
-            }
-
-            // Registrerer hvor fingeren sættes ned, så vi kun udløser hop ved et reelt tryk (og ikke under scroll)
-            let touchStartY = 0;
-            backToTopBtn.addEventListener('touchstart', (e) => {
-                if (e.touches && e.touches.length > 0) {
-                    touchStartY = e.touches[0].clientY;
-                }
-            }, { passive: true });
-
-            // Sikrer at selve teksten "TIL TOPPEN" og pilen reagerer øjeblikkeligt på mobil
-            backToTopBtn.addEventListener('touchend', (e) => {
-                if (e.changedTouches && e.changedTouches.length > 0) {
-                    const touchEndY = e.changedTouches[0].clientY;
-                    if (Math.abs(touchEndY - touchStartY) < 10) {
-                        triggerMobileTopJump();
-                    }
-                }
-            }, { passive: true });
-
             backToTopBtn.addEventListener('click', (e) => {
+                e.preventDefault();
                 const topElement = document.getElementById('top-of-page');
                 const isMobile = window.innerWidth <= 768 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 
                 if (!isMobile) {
                     // --- COMPUTER / WEBBROWSER (100% UÆNDRET) ---
-                    e.preventDefault();
                     window.scrollTo(0, 0);
                     document.documentElement.scrollTop = 0;
                     document.body.scrollTop = 0;
@@ -413,8 +351,32 @@
                         topElement.scrollIntoView({ behavior: 'smooth', block: 'end' });
                     }
                 } else {
-                    // --- MOBIL FALLBACK VED ALMINDELIGT KLIK ---
-                    triggerMobileTopJump();
+                    // --- MOBILBROWSER (DEN PRÆCISE KODE DER HOPPEDE HELT TIL TOPPEN) ---
+                    const htmlEl = document.documentElement;
+                    const bodyEl = document.body;
+
+                    // Åbner kortvarigt html/body, så rulningen sendes ud til selve WIX-vinduet
+                    htmlEl.style.setProperty('overflow-y', 'visible', 'important');
+                    bodyEl.style.setProperty('overflow-y', 'visible', 'important');
+                    htmlEl.style.setProperty('height', 'auto', 'important');
+                    bodyEl.style.setProperty('height', 'auto', 'important');
+
+                    window.scrollTo(0, 0);
+                    htmlEl.scrollTop = 0;
+                    bodyEl.scrollTop = 0;
+
+                    if (topElement) {
+                        topElement.focus({ preventScroll: false });
+                        topElement.scrollIntoView({ behavior: 'auto', block: 'end' });
+                    }
+
+                    // Gendanner dine mobil-scroll-regler efter hoppet
+                    setTimeout(() => {
+                        htmlEl.style.setProperty('overflow-y', 'auto', 'important');
+                        bodyEl.style.setProperty('overflow-y', 'auto', 'important');
+                        htmlEl.style.setProperty('height', '100%');
+                        bodyEl.style.setProperty('height', '100%');
+                    }, 200);
                 }
             });
 
