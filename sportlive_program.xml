@@ -1,201 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>EM for herrer</Title>
-    <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
-    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
-    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>09:45</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Elitedivisionen</Title>
-    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
-    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
-    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>13:25</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>14:15</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>14:45</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>15:05</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>15:15</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Tyske Füchse Berlin møder Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>17:00</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Spanske FC Barcelona møder egyptiske Zamalek Club i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>18:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
-    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>En ny sæson i Basketligaen står for døren, og i basketmagasinet Overtime ser Jonas Kvist Jepsen og Thomas Døssing frem mod den kommende sæson og vender de største og vigtigste historier.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>19:30</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
-    <ShortDescription>BK Vejen møder Bears Academy i anden runde af Basketligaen.</ShortDescription>
-    <LongDescription>Vejen Idrætscenter lægger gulv og kurve til kampen mellem BK Vejen og Bears Academy fra Aarhus i anden spillerunde af Basketligaen. Kommentatorer: Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>21:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
-    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>22:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Anders Lind-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
-    <ShortDescription>1/8-finale ved WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved WTT Champions Macao i Kina mødes danske Anders Lind og japanske Tomokazu Harimoto. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/09/2026</Date>
-    <StartTime>22:50</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>UEFA Women's Champions League</Title>
-    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
-    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/09/2026</Date>
-    <StartTime>01:20</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/09/2026</Date>
-    <StartTime>01:55</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>29/09/2026</Date>
     <StartTime>07:20</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
@@ -225,7 +30,7 @@
     <Date>29/09/2026</Date>
     <StartTime>10:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>1</EpisodeNo>
@@ -265,9 +70,9 @@
     <StartTime>14:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -395,7 +200,7 @@
     <StartTime>11:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -525,9 +330,9 @@
     <StartTime>11:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -642,9 +447,9 @@
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -745,7 +550,7 @@
     <Date>02/10/2026</Date>
     <StartTime>20:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -785,7 +590,7 @@
     <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -875,7 +680,7 @@
     <Date>03/10/2026</Date>
     <StartTime>16:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -902,9 +707,9 @@
     <StartTime>20:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -979,7 +784,7 @@
     <Date>04/10/2026</Date>
     <StartTime>13:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -1110,9 +915,9 @@
     <StartTime>10:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -1175,7 +980,7 @@
     <StartTime>17:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -1382,7 +1187,7 @@
     <Date>06/10/2026</Date>
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -1499,7 +1304,7 @@
     <Date>07/10/2026</Date>
     <StartTime>13:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -1565,9 +1370,9 @@
     <StartTime>20:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -1616,7 +1421,7 @@
     <Date>08/10/2026</Date>
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -1708,9 +1513,9 @@
     <StartTime>17:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -1825,7 +1630,7 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -1942,9 +1747,9 @@
     <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -2006,7 +1811,7 @@
     <Date>10/10/2026</Date>
     <StartTime>08:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
@@ -2124,7 +1929,7 @@
     <StartTime>22:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -2176,9 +1981,9 @@
     <StartTime>07:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <EpisodeTitle>Basketcheferne</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
     <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
@@ -2305,7 +2110,7 @@
     <Date>12/10/2026</Date>
     <StartTime>00:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketmagasinet Overtime</Title>
+    <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo>2</EpisodeNo>
