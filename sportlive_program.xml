@@ -242,14 +242,14 @@
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Premiere</Status>
+    <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
     <LongDescription>Burgan Sports Club fra Kuwait møder ungarske Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Jonas Kvist Jepsen og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>30/09/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>30/09/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>30/09/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>06:50</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Serbien</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -1224,7 +1224,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1237,7 +1237,20 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>01:30</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
+    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
+    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/10/2026</Date>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1250,7 +1263,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
@@ -1263,7 +1276,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -1276,7 +1289,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:20</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -1289,7 +1302,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>11:10</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1302,7 +1315,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1315,7 +1328,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Holland</EpisodeTitle>
@@ -1328,7 +1341,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Estland-Danmark</EpisodeTitle>
@@ -1341,7 +1354,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -1354,7 +1367,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1367,7 +1380,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1380,7 +1393,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
@@ -1393,7 +1406,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -1406,7 +1419,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
