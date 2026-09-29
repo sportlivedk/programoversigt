@@ -200,8 +200,14 @@
                 const dateStr = getTagValue(node, 'Date');
                 const timeStr = getTagValue(node, 'StartTime');
                 const genre = getTagValue(node, 'PrimaryGenre');
-                const title = getTagValue(node, 'Title');
+                let title = getTagValue(node, 'Title');
                 const epTitle = getTagValue(node, 'EpisodeTitle');
+                
+                // NYT: Hent EpisodeNo og tilføj i parentes, hvis det findes
+                const epNo = getTagValue(node, 'EpisodeNo');
+                if (epNo && epNo.trim() !== '') {
+                    title += ` (${epNo.trim()})`;
+                }
                 
                 const parsedDate = parseDateTime(dateStr, timeStr);
 

@@ -435,9 +435,16 @@
 
                     hasFutureEvents = true;
 
+                    // NYT: Hent titel og tilføj (EpisodeNo) i parentes, hvis episodenummer findes
+                    let title = getTagValue(event, 'Title');
+                    const epNo = getTagValue(event, 'EpisodeNo');
+                    if (epNo && epNo.trim() !== '') {
+                        title += ` (${epNo.trim()})`;
+                    }
+
                     const parsedEvent = {
                         genre: getTagValue(event, 'PrimaryGenre'),
-                        title: getTagValue(event, 'Title'),
+                        title: title,
                         epTitle: getTagValue(event, 'EpisodeTitle'),
                         status: getTagValue(event, 'Status'),
                         desc: getTagValue(event, 'ShortDescription'),
@@ -476,6 +483,7 @@
                     const monthName = new Intl.DateTimeFormat('da-DK', { month: 'long' }).format(dateObj);
                     const day = dateObj.getDate();
                     
+                    // Årstallet er fjernet fra optionText for et renere og mere responsivt look
                     const optionText = `${dayName.charAt(0).toUpperCase() + dayName.slice(1)} d. ${day}. ${monthName}`;
                     
                     const option = document.createElement('option');
