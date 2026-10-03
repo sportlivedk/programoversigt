@@ -1,175 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>08:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>EM-prækvalifikation</Title>
-    <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14323-60a137fb-a558-42fb-a25a-1680538e1b85.jpg?temp_url_sig=69ef2abb13d637b3b03f716f570955aeff7940c1&amp;temp_url_expires=4942373157</StillSceneUrl>
-    <ShortDescription>EM-prækvalifikationskamp i Farum Arena.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder på hjemmebane Rumænien i anden runde af prækvalifikationen til FIBA EuroBasket 2029. Kampen spilles i Farum Arena og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>10:30</StartTime>
-    <PrimaryGenre>Roning</PrimaryGenre>
-    <Title>VM i roning</Title>
-    <EpisodeTitle>Semifinaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
-    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Thomas Sønnichsen og Frederik Juel Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>11:05</StartTime>
-    <PrimaryGenre>Roning</PrimaryGenre>
-    <Title>VM i roning</Title>
-    <EpisodeTitle>Finaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
-    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Peter Jørgensen og Frederik Juel Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>13:10</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>13:55</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Bronzekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Bronzekamp om tredjepladsen mellem de to egyptiske klubber Zamalek Club og Al Ahly SC ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>15:45</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>17:25</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>UEFA Women's Champions League</Title>
-    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
-    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>19:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>21:00</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
-    <ShortDescription>Holbæk-Stenhus møder BMS Herlev i tredje runde af Basketligaen.</ShortDescription>
-    <LongDescription>I tredje spillerunde af Basketligaen får Holbæk-Stenhus besøg af BMS Herlev i Holbæk Sportsby. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/10/2026</Date>
-    <StartTime>23:20</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>DM i kajaksprint</Title>
-    <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-d6f09409-6c76-4561-9c70-653da5cd7025.jpg?temp_url_sig=24f4689d1f700933d96f91a31e6fac20cf784770&amp;temp_url_expires=4944218074</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/10/2026</Date>
-    <StartTime>01:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/10/2026</Date>
-    <StartTime>02:05</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>03/10/2026</Date>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
@@ -314,7 +145,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -327,7 +158,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -340,7 +171,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -353,7 +184,20 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/10/2026</Date>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
@@ -366,7 +210,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -379,20 +223,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>18:15</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/10/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -405,7 +236,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -418,7 +249,7 @@
   </Event>
   <Event>
     <Date>04/10/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
@@ -430,8 +261,8 @@
     <LongDescription>Bronzekamp om tredjepladsen mellem de to egyptiske klubber Zamalek Club og Al Ahly SC ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
-    <Date>05/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>04/10/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -444,29 +275,81 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
+    <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Estland møder Sverige i herrernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Kvindelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>02:15</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
+    <StartTime>02:00</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Herrelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/10/2026</Date>
+    <StartTime>02:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/10/2026</Date>
+    <StartTime>03:35</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/10/2026</Date>
+    <StartTime>04:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/10/2026</Date>
+    <StartTime>05:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>05/10/2026</Date>
@@ -575,19 +458,32 @@
   <Event>
     <Date>05/10/2026</Date>
     <StartTime>18:25</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>19:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/10/2026</Date>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -600,20 +496,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>19:25</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Cherneka Johnson-Dina Thorslund</Title>
-    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/10/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -626,7 +509,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
@@ -639,7 +522,7 @@
   </Event>
   <Event>
     <Date>05/10/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
@@ -651,8 +534,8 @@
     <LongDescription>Spanske FC Barcelona møder egyptiske Zamalek Club i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
-    <Date>05/10/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>06/10/2026</Date>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -665,7 +548,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -692,15 +575,28 @@
   <Event>
     <Date>06/10/2026</Date>
     <StartTime>08:50</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Spanske FC Barcelona møder egyptiske Zamalek Club i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/10/2026</Date>
+    <StartTime>09:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/10/2026</Date>
@@ -717,7 +613,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -730,7 +626,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -756,7 +652,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
@@ -769,7 +665,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -782,7 +678,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
@@ -795,7 +691,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -821,7 +717,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -991,15 +887,28 @@
   <Event>
     <Date>08/10/2026</Date>
     <StartTime>00:45</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Tyske Füchse Berlin møder egyptiske Al Ahly SC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Jonas Kvist Jepsen og Johan Strange.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/10/2026</Date>
+    <StartTime>01:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/10/2026</Date>
@@ -1446,19 +1355,32 @@
   <Event>
     <Date>10/10/2026</Date>
     <StartTime>23:30</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/10/2026</Date>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -1471,7 +1393,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -1484,7 +1406,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -1497,20 +1419,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>01:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/10/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1523,20 +1432,20 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>07:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1549,29 +1458,29 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>09:05</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
+    <StartTime>08:35</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>09:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
+    <StartTime>09:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/10/2026</Date>
@@ -1965,7 +1874,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -1978,7 +1887,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -1991,29 +1900,29 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>11:45</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <StartTime>11:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>12:25</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>1. etape, svømning</EpisodeTitle>
+    <StartTime>12:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>14/10/2026</Date>
@@ -2043,7 +1952,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>15:25</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -2265,32 +2174,32 @@
   <Event>
     <Date>15/10/2026</Date>
     <StartTime>22:50</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>15/10/2026</Date>
     <StartTime>23:35</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -2303,7 +2212,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2459,7 +2368,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -2472,7 +2381,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -2485,20 +2394,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>11:00</StartTime>
-    <PrimaryGenre>Roning</PrimaryGenre>
-    <Title>VM i roning</Title>
-    <EpisodeTitle>Semifinaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
-    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Thomas Sønnichsen og Frederik Juel Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/10/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -2511,7 +2407,20 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/10/2026</Date>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -2602,7 +2511,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2629,15 +2538,15 @@
   <Event>
     <Date>18/10/2026</Date>
     <StartTime>08:00</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>18/10/2026</Date>
@@ -2654,7 +2563,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
