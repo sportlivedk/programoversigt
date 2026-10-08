@@ -1562,7 +1562,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>06:50</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1575,7 +1575,20 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>China Smash</Title>
+    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
+    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
+    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>18/10/2026</Date>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -1588,7 +1601,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>08:30</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -1601,7 +1614,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>11:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1614,7 +1627,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -1627,7 +1640,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1640,33 +1653,20 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>16:55</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <StartTime>17:55</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Damernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Damernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>17:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Herrernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Herrernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/10/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
@@ -1679,7 +1679,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1692,7 +1692,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1704,8 +1704,8 @@
     <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
   </Event>
   <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>18/10/2026</Date>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -1718,7 +1718,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -1731,7 +1731,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -1744,7 +1744,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1797,19 +1797,19 @@
   <Event>
     <Date>19/10/2026</Date>
     <StartTime>12:55</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
-    <Season>2026</Season>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketcheferne</Title>
+    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <Season>2026-27</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Damernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Damernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
+    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
+    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -1822,7 +1822,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -1835,7 +1835,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -1848,7 +1848,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -1861,7 +1861,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -1874,7 +1874,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -1887,7 +1887,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -1900,7 +1900,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1992,19 +1992,19 @@
   <Event>
     <Date>20/10/2026</Date>
     <StartTime>18:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Herrernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Herrernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -2017,7 +2017,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -2030,7 +2030,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -2043,7 +2043,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -2056,7 +2056,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -2069,7 +2069,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -2082,7 +2082,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -2095,7 +2095,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2213,32 +2213,19 @@
   <Event>
     <Date>21/10/2026</Date>
     <StartTime>21:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
-    <Season>2026</Season>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
+    <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Damernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Damernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Professionelt boksestævne fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>22:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Herrernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Herrernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/10/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -2248,6 +2235,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
     <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
     <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>21/10/2026</Date>
+    <StartTime>23:15</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>21/10/2026</Date>
@@ -2264,7 +2264,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2446,33 +2446,33 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Damernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Damernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
     <StartTime>07:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Individuelt EM</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14682-aac35113-5123-43af-a1c8-d60e65a525b7.jpg?temp_url_sig=3e63f8a62b32dbe7b1488720bd6fb31473704898&amp;temp_url_expires=4946006865</StillSceneUrl>
-    <ShortDescription>Herrernes EM-singlefinale fra Ljubljana i Slovenien.</ShortDescription>
-    <LongDescription>Herrernes singlefinale ved EM i bordtennis for individuelle spillere, som afvikles i Sport Hall Stožice i Sloveniens hovedstad Ljubljana. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -2485,7 +2485,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -2550,7 +2550,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -2563,7 +2563,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -2576,7 +2576,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>19:50</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -2589,7 +2589,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -2602,7 +2602,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
