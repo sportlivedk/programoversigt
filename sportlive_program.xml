@@ -1,370 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>07:15</StartTime>
-    <PrimaryGenre>Roning</PrimaryGenre>
-    <Title>VM i roning</Title>
-    <EpisodeTitle>Finaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
-    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Thomas Sønnichsen og Frederik Juel Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>09:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>10:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>FIBA Europe Cup</Title>
-    <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
-    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den første af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af SL Benfica fra Portugal. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Jens Jensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>13:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>14:20</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>CUPRA FIP Tour</Title>
-    <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
-    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
-    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>19:00</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Premiere</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>19:40</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>VM-kvalifikation</Title>
-    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
-    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>21:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Sverige-Norge (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Sverige og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>22:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>22:45</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>23:35</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>00:00</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>01:55</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>07:10</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>07:55</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>EM for herrer</Title>
-    <EpisodeTitle>Italien-Danmark</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
-    <ShortDescription>1/8-finale fra Torino i Norditalien.</ShortDescription>
-    <LongDescription>Det danske herrelandshold møder værterne fra Italien i 1/8-finalen ved europamesterskabet i volleyball. Kampen spilles i PalaVela i Torino og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>09:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>11:00</StartTime>
-    <PrimaryGenre>Håndbold</PrimaryGenre>
-    <Title>VM for klubhold</Title>
-    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
-    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>12:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>DM i disc golf</Title>
-    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
-    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
-    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>13:20</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>CUPRA FIP Tour</Title>
-    <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
-    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
-    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>18:35</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>19:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>China Smash</Title>
-    <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-1d25fe65-fb13-4491-9915-e41f888c49e6.jpg?temp_url_sig=6debeb0dca22842f32c9a0af7b60672edcc336a5&amp;temp_url_expires=4945420253</StillSceneUrl>
-    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
-    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og tyske Patrick Franziska i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>20:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>China Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-798f005a-57d6-4df4-bb27-fd67682422ad.jpg?temp_url_sig=d0958c93ba4c01c04ca8627d1783a747e0edb6c6&amp;temp_url_expires=4945420276</StillSceneUrl>
-    <ShortDescription>Første runde af China Smash i Beijing.</ShortDescription>
-    <LongDescription>I den indledende runde af China Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og japanske Tomokazu Harimoto i Shougang Park i Beijing. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>21:00</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>21:40</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
-    <ShortDescription>Næstved møder Svendborg i femte runde af Basketligaen.</ShortDescription>
-    <LongDescription>I femte spillerunde af Basketligaen får Team FOG Næstved besøg af Svendborg Rabbits i Arena Næstved. Kommentatorer: Peter Jørgensen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/10/2026</Date>
-    <StartTime>00:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/10/2026</Date>
-    <StartTime>01:05</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/10/2026</Date>
-    <StartTime>01:40</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/10/2026</Date>
-    <StartTime>02:15</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>21/10/2026</Date>
     <StartTime>07:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
@@ -466,7 +102,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>21/10/2026</Date>
@@ -479,7 +115,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>21/10/2026</Date>
@@ -635,7 +271,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>22/10/2026</Date>
@@ -648,7 +284,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>22/10/2026</Date>
@@ -869,7 +505,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
@@ -921,7 +557,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
@@ -986,7 +622,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>24/10/2026</Date>
@@ -1012,7 +648,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>24/10/2026</Date>
@@ -1103,7 +739,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
   </Event>
   <Event>
     <Date>24/10/2026</Date>
@@ -1233,7 +869,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>25/10/2026</Date>
@@ -1246,7 +882,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>25/10/2026</Date>
@@ -1259,7 +895,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
   </Event>
   <Event>
     <Date>26/10/2026</Date>
@@ -1506,7 +1142,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>27/10/2026</Date>
@@ -1649,7 +1285,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>27/10/2026</Date>
@@ -1766,7 +1402,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>28/10/2026</Date>
@@ -1818,7 +1454,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
   </Event>
   <Event>
     <Date>28/10/2026</Date>
@@ -1909,7 +1545,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>29/10/2026</Date>
@@ -1987,7 +1623,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>29/10/2026</Date>
@@ -2247,7 +1883,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>31/10/2026</Date>
@@ -2390,7 +2026,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
   </Event>
   <Event>
     <Date>01/11/2026</Date>
@@ -2455,7 +2091,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen.</LongDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
   </Event>
   <Event>
     <Date>01/11/2026</Date>
@@ -2572,7 +2208,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
@@ -2590,6 +2226,1163 @@
   <Event>
     <Date>02/11/2026</Date>
     <StartTime>02:15</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Montpellier</Title>
+    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>08:05</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Montpellier</Title>
+    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>09:10</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Italien-Danmark</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>1/8-finale fra Torino i Norditalien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold møder værterne fra Italien i 1/8-finalen ved europamesterskabet i volleyball. Kampen spilles i PalaVela i Torino og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>11:10</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
+    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>13:40</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>14:25</StartTime>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Elitedivisionen</Title>
+    <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13323-3a60b13c-2626-4a2f-8abd-539face4f434.jpg?temp_url_sig=8e5c8c5ea41256ebd0d7e51cb1c0c831e07a0112&amp;temp_url_expires=4932714969</StillSceneUrl>
+    <ShortDescription>Herrernes udendørs finale i Elitedivisionen.</ShortDescription>
+    <LongDescription>KB Tennis på Frederiksberg lægger grus til årets herrefinale i den udendørs turnering for klubhold, hvor KB og Gentofte kæmper om Danmarks Idrætsforbunds officielle mesterskabsmedaljer. Kommentatorer: Mads Knudsen og Søren Wedege.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>18:05</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>18:40</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>19:15</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Herlev møder Værløse i sjette runde af Basketligaen.</ShortDescription>
+    <LongDescription>I sjette spillerunde af Basketligaen tager BMS Herlev imod Værløse Blue Hawks i Herlev Hallen. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>CUPRA FIP Tour</Title>
+    <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
+    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
+    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>02:15</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>07:45</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>DM i kajaksprint</Title>
+    <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-d6f09409-6c76-4561-9c70-653da5cd7025.jpg?temp_url_sig=24f4689d1f700933d96f91a31e6fac20cf784770&amp;temp_url_expires=4944218074</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>09:50</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>Tyske Füchse Berlin møder egyptiske Al Ahly SC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Jonas Kvist Jepsen og Johan Strange.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>11:20</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Herlev møder Værløse i sjette runde af Basketligaen.</ShortDescription>
+    <LongDescription>I sjette spillerunde af Basketligaen tager BMS Herlev imod Værløse Blue Hawks i Herlev Hallen. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>17:15</StartTime>
+    <PrimaryGenre>Roning</PrimaryGenre>
+    <Title>VM i roning</Title>
+    <EpisodeTitle>Semifinaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
+    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Thomas Sønnichsen og Frederik Juel Hansen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>17:55</StartTime>
+    <PrimaryGenre>Roning</PrimaryGenre>
+    <Title>VM i roning</Title>
+    <EpisodeTitle>Finaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
+    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Peter Jørgensen og Frederik Juel Hansen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>20:00</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Dobbelt VM-titelkamp fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>20:45</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>21:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>FIBA Europe Cup</Title>
+    <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
+    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>23:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Montpellier</Title>
+    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>01:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Montpellier</Title>
+    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>02:00</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Herlev møder Værløse i sjette runde af Basketligaen.</ShortDescription>
+    <LongDescription>I sjette spillerunde af Basketligaen tager BMS Herlev imod Værløse Blue Hawks i Herlev Hallen. Kommentatorer: Peter Jørgensen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>09:25</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>09:50</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>10:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>10:55</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>11:35</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>CUPRA FIP Tour</Title>
+    <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
+    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
+    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>16:50</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>18:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>3</EpisodeNo>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>19:30</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Optakt til Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14405-37b05e60-d89c-4651-92d9-5a51403291ee.jpg?temp_url_sig=fc1a4d8c3ba3dfb45a215a8f9141d76a961f6fb3&amp;temp_url_expires=4943688788</StillSceneUrl>
+    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Gladsaxe.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Gladsaxe Sportscenter, hvor vi varmer op til aftenens kamp i Basketligaen mellem Gladsaxe BK og Holbæk-Stenhus. Værter: Jonas Kvist Jepsen og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>19:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>22:20</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>22:50</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>00:45</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>02:25</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>FIBA Europe Cup</Title>
+    <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
+    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
+    <LongDescription>I den første af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af SL Benfica fra Portugal. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Jens Jensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>09:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>FIBA Europe Cup</Title>
+    <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
+    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>3</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>13:00</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>14:55</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajaksprint</Title>
+    <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
+    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>15:30</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajaksprint</Title>
+    <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
+    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>15:50</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajaksprint</Title>
+    <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
+    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>16:00</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>18:25</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Herlev Fight Night</Title>
+    <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
+    <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>22:40</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>23:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/11/2026</Date>
+    <StartTime>23:55</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
+    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>02:25</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>CUPRA FIP Tour</Title>
+    <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
+    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
+    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>11:40</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>12:20</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>DM i kajaksprint</Title>
+    <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-d6f09409-6c76-4561-9c70-653da5cd7025.jpg?temp_url_sig=24f4689d1f700933d96f91a31e6fac20cf784770&amp;temp_url_expires=4944218074</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>14:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>15:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>15:50</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Italien-Danmark</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>1/8-finale fra Torino i Norditalien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold møder værterne fra Italien i 1/8-finalen ved europamesterskabet i volleyball. Kampen spilles i PalaVela i Torino og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>19:30</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>20:10</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>22:35</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>3</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/11/2026</Date>
+    <StartTime>23:35</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Dobbelt VM-titelkamp fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>00:25</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>02:20</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>07:00</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>CUPRA FIP Tour</Title>
+    <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
+    <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
+    <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentatorer: Martin Kring og Daniel Sønderby.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>12:20</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>14:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>3</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>15:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>FIBA Europe Cup</Title>
+    <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
+    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
+    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>18:20</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>UEFA Women's Champions League</Title>
+    <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
+    <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>20:50</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/11/2026</Date>
+    <StartTime>21:25</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Herlev Fight Night</Title>
+    <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
+    <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>01:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>02:20</StartTime>
+    <PrimaryGenre/>
+    <Title>Godnat</Title>
+    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
+    <Season>1</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription/>
+    <LongDescription/>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Håndbold</PrimaryGenre>
+    <Title>VM for klubhold</Title>
+    <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
+    <ShortDescription>Finalekamp fra New Capital i Egypten.</ShortDescription>
+    <LongDescription>De forsvarende verdensmestre fra FC Barcelona møder ungarske Veszprém HC i finalen ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>08:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>3</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>09:45</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>12:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>12:50</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajaksprint</Title>
+    <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
+    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>14:45</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>15:20</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>17:20</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>VM-kvalifikation</Title>
+    <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
+    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
+    <LongDescription>Danmark møder på udebane Rumænien i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Sepsi Arena i Sfantu Gheorghe og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>19:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Relive</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
+    <ShortDescription>Damernes finale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Damernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>20:35</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Relive</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
+    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>21:40</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Cherneka Johnson-Dina Thorslund</Title>
+    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
+    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>22:35</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Dobbelt VM-titelkamp fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/11/2026</Date>
+    <StartTime>23:20</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>DM i kajaksprint</Title>
+    <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-d6f09409-6c76-4561-9c70-653da5cd7025.jpg?temp_url_sig=24f4689d1f700933d96f91a31e6fac20cf784770&amp;temp_url_expires=4944218074</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/11/2026</Date>
+    <StartTime>01:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/11/2026</Date>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
