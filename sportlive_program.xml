@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -431,7 +431,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -444,7 +444,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -457,7 +457,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -470,7 +470,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -509,7 +509,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -1667,58 +1667,19 @@
   <Event>
     <Date>14/11/2026</Date>
     <StartTime>16:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
-    <ShortDescription>Randers møder Næstved i ottende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I ottende spillerunde af Basketligaen tørner Randers Cimbria sammen med Team FOG Næstved hjemme i Arena Randers. Kommentatorer: Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/11/2026</Date>
-    <StartTime>19:15</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>19:45</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Danish Fight Night</Title>
-    <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14800-ad6f9e24-1b47-491d-a314-b25007121859.jpg?temp_url_sig=8b37c34830cc50dc0a48e8427c85d380591bb676&amp;temp_url_expires=4948429764</StillSceneUrl>
-    <ShortDescription>14. udgave af Danish Fight Night fra Sluseholmen i København.</ShortDescription>
-    <LongDescription>14. udgave af Danish Fight Night under overskriften "Tomorrow's Champions" byder på professionel boksning i topklasse med etablerede navne som den ukrainske sværvægter Nikolay Piddubnyy og en række unge talenter, bl.a. Rasmus Mikkelsen, Enock Mbilizi, Hamza Hussein og flere andre. Stævnet afvikles på Scandic Hotel Sluseholmen i København og kommenteres af Tue Trnka.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>00:00</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Cherneka Johnson-Dina Thorslund</Title>
-    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1730,8 +1691,8 @@
     <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>01:30</StartTime>
+    <Date>14/11/2026</Date>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -1743,8 +1704,47 @@
     <LongDescription>Danmarks hurtigste gokartkørere kæmpede d. 1. november om DM-titlerne ved sæsonens sidste afdeling af Dansk Gokart Cup - danmarksmesterskaberne i indendørs gokart - som fandt sted hos Racehall København i Taastrup. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
+    <Date>14/11/2026</Date>
+    <StartTime>18:45</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Danish Fight Night</Title>
+    <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14800-ad6f9e24-1b47-491d-a314-b25007121859.jpg?temp_url_sig=8b37c34830cc50dc0a48e8427c85d380591bb676&amp;temp_url_expires=4948429764</StillSceneUrl>
+    <ShortDescription>14. udgave af Danish Fight Night fra Sluseholmen i København.</ShortDescription>
+    <LongDescription>14. udgave af Danish Fight Night under overskriften "Tomorrow's Champions" byder på professionel boksning i topklasse med etablerede navne som den ukrainske sværvægter Nikolay Piddubnyy og en række unge talenter, bl.a. Rasmus Mikkelsen, Enock Mbilizi, Hamza Hussein og flere andre. Stævnet afvikles på Scandic Hotel Sluseholmen i København og kommenteres af Tue Trnka.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/11/2026</Date>
+    <StartTime>23:00</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Cherneka Johnson-Dina Thorslund</Title>
+    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
+    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/11/2026</Date>
+    <StartTime>23:50</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
+    <ShortDescription>Randers møder Næstved i ottende runde af Basketligaen.</ShortDescription>
+    <LongDescription>I ottende spillerunde af Basketligaen tørner Randers Cimbria sammen med Team FOG Næstved hjemme i Arena Randers. Kommentatorer: Peter Jørgensen og Simon Falden.</LongDescription>
+  </Event>
+  <Event>
     <Date>15/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
