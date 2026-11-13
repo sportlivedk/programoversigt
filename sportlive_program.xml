@@ -1,188 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EPG>
   <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Roning</PrimaryGenre>
-    <Title>VM i roning</Title>
-    <EpisodeTitle>Finaler</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14220-4ab0fb92-2ec2-4352-b445-0aff4c96a418.jpg?temp_url_sig=568c7994417805161326575303ee5cee7e759827&amp;temp_url_expires=4940300540</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i roning fra Amsterdam i Holland.</ShortDescription>
-    <LongDescription>VM i roning afvikles på den store Bosbaan-sø i Amsterdam, hvor landshold fra hele verden dyster i 12 forskellige discipliner - seks for mænd og seks for kvinder. Danmark stiller som altid med et stærkt hold på både kvinde- og herresiden, og vi følger bl.a. de danske roere i kampen om medaljer. Kommentatorer: Peter Jørgensen og Frederik Juel Hansen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>09:05</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Herrernes K1 U23-løb med bl.a. danske Valdemar Jørgensen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>09:45</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>10:15</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Herrernes K1-løb med bl.a. danske Philip Knudsen og forsvarende verdensmester Mads Brandt Pedersen ved VM i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>11:00</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>11:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>12:45</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>FIBA Europe Cup</Title>
-    <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
-    <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
-    <LongDescription>I den tredje af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af LANDAU Lions fra Aserbajdsjan. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Morten Sahlertz.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>15:20</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>EM-kvalifikation for kvinder</Title>
-    <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
-    <ShortDescription>Anden kvalifikationsrunde til EuroBasket 2027.</ShortDescription>
-    <LongDescription>Det danske kvindelandshold i basketball møder på hjemmebane Portugal i den første af seks gruppekampe i anden kvalifikationsrunde forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>17:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>3</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-be462814-69f6-4790-8969-a631e31f115c.jpg?temp_url_sig=a27db61a7b24f6a8619ad5508806a31f9826ce6f&amp;temp_url_expires=4943319744</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Den nye sæson i Basketligaen er i fuld gang, og i basketmagasinet Overtime går Jonas Kvist Jepsen og Thomas Døssing bag om de største og vigtigste historier fra ligaen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>18:30</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Optakt til aftenens kamp</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14405-37b05e60-d89c-4651-92d9-5a51403291ee.jpg?temp_url_sig=fc1a4d8c3ba3dfb45a215a8f9141d76a961f6fb3&amp;temp_url_expires=4943688788</StillSceneUrl>
-    <ShortDescription>Optakt til aftenens kamp i Basketligaen direkte fra Randers.</ShortDescription>
-    <LongDescription>Vi sender direkte fra Arena Randers, hvor vi varmer op til aftenens kamp i Basketligaen mellem Randers Cimbria og Team FOG Næstved. Værter: Jonas Kvist Jepsen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>18:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Live</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
-    <ShortDescription>Randers møder Næstved i ottende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I ottende spillerunde af Basketligaen tørner Randers Cimbria sammen med Team FOG Næstved hjemme i Arena Randers. Kommentatorer: Peter Jørgensen og Simon Falden.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>21:20</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finale i indendørs gokart.</ShortDescription>
-    <LongDescription>Danmarks hurtigste gokartkørere kæmpede d. 1. november om DM-titlerne ved sæsonens sidste afdeling af Dansk Gokart Cup - danmarksmesterskaberne i indendørs gokart - som fandt sted hos Racehall København i Taastrup. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>22:00</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Herlev Fight Night</Title>
-    <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
-    <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og Ahmad El Ahmad.</LongDescription>
-  </Event>
-  <Event>
-    <Date>13/11/2026</Date>
-    <StartTime>02:25</StartTime>
-    <PrimaryGenre/>
-    <Title>Godnat</Title>
-    <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
-    <Season>1</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription/>
-    <LongDescription/>
-  </Event>
-  <Event>
     <Date>13/11/2026</Date>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
@@ -496,7 +314,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -509,7 +327,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -522,7 +340,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -535,7 +353,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -548,7 +366,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -561,7 +379,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -574,7 +392,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -587,7 +405,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1081,7 +899,7 @@
   </Event>
   <Event>
     <Date>17/11/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1094,7 +912,7 @@
   </Event>
   <Event>
     <Date>17/11/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Danish Fight Night</Title>
     <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
@@ -1107,7 +925,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1120,7 +938,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -1133,7 +951,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -1146,7 +964,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1211,7 +1029,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>15:25</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -1224,7 +1042,7 @@
   </Event>
   <Event>
     <Date>18/11/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
