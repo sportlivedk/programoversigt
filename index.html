@@ -327,6 +327,7 @@
 
     <script>
         const XML_FILENAME = 'sportlive_program.xml';
+        const REFRESH_INTERVAL_MINUTES = 15; // Automatisk opdatering hvert 15. minut
 
         document.addEventListener('DOMContentLoaded', () => {
             const container = document.getElementById('schedule-container');
@@ -381,26 +382,40 @@
             backToTopBtn.addEventListener('click', triggerScrollToTop);
             backToTopBtn.addEventListener('touchend', triggerScrollToTop);
 
-            const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
+            // NYT: Genbrugelig funktion til både første indlæsning og baggrundsopdatering
+            function fetchAndProcessData(isInitialLoad) {
+                const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
-            fetch(urlWithCacheBuster)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Kunne ikke hente XML filen (${response.status} ${response.statusText}).`);
-                    }
-                    return response.text();
-                })
-                .then(xmlString => {
-                    processXML(xmlString, container, loadingText, errorDisplay);
-                })
-                .catch(error => {
-                    if(loadingText) loadingText.style.display = 'none';
-                    errorDisplay.style.display = 'block';
-                    errorDisplay.textContent = "Fejl: " + error.message;
-                });
+                fetch(urlWithCacheBuster)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Kunne ikke hente XML filen (${response.status} ${response.statusText}).`);
+                        }
+                        return response.text();
+                    })
+                    .then(xmlString => {
+                        processXML(xmlString, container, loadingText, errorDisplay, isInitialLoad);
+                    })
+                    .catch(error => {
+                        if (isInitialLoad) {
+                            if (loadingText) loadingText.style.display = 'none';
+                            errorDisplay.style.display = 'block';
+                            errorDisplay.textContent = "Fejl: " + error.message;
+                        }
+                        console.error("Fejl ved opdatering af programoversigt:", error);
+                    });
+            }
+
+            // Hent data med det samme når siden åbnes
+            fetchAndProcessData(true);
+
+            // Sæt uret i gang - opdaterer i baggrunden hvert 15. minut
+            setInterval(() => {
+                fetchAndProcessData(false);
+            }, REFRESH_INTERVAL_MINUTES * 60 * 1000);
         });
 
-        function processXML(xmlString, container, loadingText, errorDisplay) {
+        function processXML(xmlString, container, loadingText, errorDisplay, isInitialLoad) {
             try {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(xmlString, "text/xml");
@@ -410,6 +425,14 @@
                     throw new Error("XML-filen indeholder ingen programmer.");
                 }
 
+                // NYT: Aflæs aktuelt valgt dato og eventuelt åbent programkort før opdatering
+                const selectorContainer = document.getElementById('selector-container');
+                const existingSelect = selectorContainer.querySelector('.date-selector');
+                const previouslySelectedDate = existingSelect ? existingSelect.value : null;
+
+                const expandedCard = container.querySelector('.program-card.expanded');
+                const expandedCardKey = expandedCard ? expandedCard.getAttribute('data-card-key') : null;
+
                 const now = new Date();
                 const currentBroadcastDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
                 
@@ -418,7 +441,8 @@
                 }
                 const currentBroadcastTimestamp = currentBroadcastDate.getTime();
 
-                if(loadingText) loadingText.style.display = 'none';
+                if (loadingText) loadingText.style.display = 'none';
+                errorDisplay.style.display = 'none';
 
                 const groupedEvents = {};
                 const uniqueDates = [];
@@ -435,7 +459,7 @@
 
                     hasFutureEvents = true;
 
-                    // NYT: Hent titel og tilføj (EpisodeNo) i parentes, hvis episodenummer findes
+                    // Hent titel og tilføj (EpisodeNo) i parentes, hvis episodenummer findes
                     let title = getTagValue(event, 'Title');
                     const epNo = getTagValue(event, 'EpisodeNo');
                     if (epNo && epNo.trim() !== '') {
@@ -469,11 +493,11 @@
                 });
 
                 if (!hasFutureEvents) {
+                    selectorContainer.innerHTML = '';
                     container.innerHTML = "<p style='text-align: center; color: #ffffff; margin-top: 20px;'>Ingen aktuelle programmer i oversigten.</p>";
                     return;
                 }
 
-                const selectorContainer = document.getElementById('selector-container');
                 const selectElement = document.createElement('select');
                 selectElement.className = 'date-selector';
 
@@ -492,6 +516,8 @@
                     selectElement.appendChild(option);
                 });
 
+                // NYT: Tøm beholderen før ny dropdown indsættes, så der ikke oprettes dubletter
+                selectorContainer.innerHTML = '';
                 selectorContainer.appendChild(selectElement);
 
                 const backToTopContainer = document.getElementById('back-to-top-container');
@@ -499,7 +525,7 @@
                     backToTopContainer.style.display = 'block';
                 }
 
-                function renderDay(selectedDateStr) {
+                function renderDay(selectedDateStr, keepExpandedKey = null) {
                     container.innerHTML = ''; 
                     
                     const dayEvents = groupedEvents[selectedDateStr].eventsList;
@@ -507,6 +533,14 @@
                     dayEvents.forEach(pe => {
                         const card = document.createElement('div');
                         card.className = `program-card status-${pe.status.toLowerCase()}`;
+                        
+                        // Unik nøgle så vi kan genåbne kortet, hvis det var åbent før auto-opdatering
+                        const cardKey = `${pe.time}_${pe.title}`;
+                        card.setAttribute('data-card-key', cardKey);
+
+                        if (keepExpandedKey && keepExpandedKey === cardKey) {
+                            card.classList.add('expanded');
+                        }
 
                         card.addEventListener('click', function() {
                             const isExpanded = this.classList.contains('expanded');
@@ -562,12 +596,21 @@
                     renderDay(e.target.value);
                 });
 
-                renderDay(uniqueDates[0]);
+                // NYT: Fasthold brugerens valgte dato, hvis den stadig findes i listen
+                const dateToRender = (previouslySelectedDate && uniqueDates.includes(previouslySelectedDate))
+                    ? previouslySelectedDate
+                    : uniqueDates[0];
+
+                selectElement.value = dateToRender;
+                renderDay(dateToRender, expandedCardKey);
 
             } catch (innerError) {
-                if(loadingText) loadingText.style.display = 'none';
-                errorDisplay.style.display = 'block';
-                errorDisplay.textContent = "Fejl: " + innerError.message;
+                if (isInitialLoad) {
+                    if (loadingText) loadingText.style.display = 'none';
+                    errorDisplay.style.display = 'block';
+                    errorDisplay.textContent = "Fejl: " + innerError.message;
+                }
+                console.error("XML-behandlingsfejl:", innerError);
             }
         }
 
