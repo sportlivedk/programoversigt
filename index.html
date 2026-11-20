@@ -107,9 +107,9 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
         }
 
-        /* NYT: Lys, afdæmpet baggrundsfarve til det program, der sendes lige nu */
+        /* NYT: Tydelig, afdæmpet baggrundsfarve til det program, der sendes lige nu */
         .program-card.current-program {
-            background-color: #fff3e6;
+            background-color: #ffe5c8;
         }
 
         /* Farveindikatorer for venstre kant */
@@ -419,7 +419,7 @@
                 fetchAndProcessData(false);
             }, REFRESH_INTERVAL_MINUTES * 60 * 1000);
 
-            // NYT: Tjekker uret hvert 30. sekund, så det fremhævede program skifter præcist ved programstart
+            // Tjekker uret hvert 30. sekund, så det fremhævede program skifter præcist ved programstart
             setInterval(() => {
                 updateCurrentProgramHighlight(container);
             }, 30 * 1000);
@@ -454,7 +454,7 @@
                 if (loadingText) loadingText.style.display = 'none';
                 errorDisplay.style.display = 'none';
 
-                // NYT: Beregn præcist start- og sluttidspunkt for hvert program (inkl. nattepause-logik)
+                // Beregn præcist start- og sluttidspunkt for hvert program (inkl. nattepause-logik)
                 const rawEventsWithTime = events.map(event => {
                     const rawDate = getTagValue(event, 'Date');
                     const time = getTagValue(event, 'StartTime');
@@ -628,7 +628,7 @@
                         container.appendChild(card);
                     });
 
-                    // NYT: Fremhæv det aktuelle program med det samme
+                    // Fremhæv det aktuelle program med det samme
                     updateCurrentProgramHighlight(container);
                 }
 
@@ -654,7 +654,7 @@
             }
         }
 
-        // NYT: Opdaterer baggrundsmarkeringen ud fra aktuelt klokkeslæt
+        // Opdaterer baggrundsmarkeringen ud fra aktuelt klokkeslæt
         function updateCurrentProgramHighlight(container) {
             const nowMs = new Date().getTime();
             const cards = container.querySelectorAll('.program-card');
