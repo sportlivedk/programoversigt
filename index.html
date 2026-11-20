@@ -96,7 +96,7 @@
             flex-wrap: wrap;
             align-items: flex-start;
             border-left: 5px solid transparent;
-            transition: transform 0.2s, box-shadow 0.2s;
+            transition: transform 0.2s, box-shadow 0.2s, background-color 0.3s;
             width: 100%;
             cursor: pointer;
             position: relative;
@@ -105,6 +105,11 @@
         .program-card:hover {
             transform: translateY(-2px);
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+
+        /* NYT: Lys, afdæmpet baggrundsfarve til det program, der sendes lige nu */
+        .program-card.current-program {
+            background-color: #fff3e6;
         }
 
         /* Farveindikatorer for venstre kant */
@@ -382,7 +387,7 @@
             backToTopBtn.addEventListener('click', triggerScrollToTop);
             backToTopBtn.addEventListener('touchend', triggerScrollToTop);
 
-            // NYT: Genbrugelig funktion til både første indlæsning og baggrundsopdatering
+            // Genbrugelig funktion til både første indlæsning og baggrundsopdatering
             function fetchAndProcessData(isInitialLoad) {
                 const urlWithCacheBuster = `${XML_FILENAME}?t=${new Date().getTime()}`;
 
@@ -409,10 +414,15 @@
             // Hent data med det samme når siden åbnes
             fetchAndProcessData(true);
 
-            // Sæt uret i gang - opdaterer i baggrunden hvert 15. minut
+            // Sæt uret i gang - opdaterer XML-data i baggrunden hvert 15. minut
             setInterval(() => {
                 fetchAndProcessData(false);
             }, REFRESH_INTERVAL_MINUTES * 60 * 1000);
+
+            // NYT: Tjekker uret hvert 30. sekund, så det fremhævede program skifter præcist ved programstart
+            setInterval(() => {
+                updateCurrentProgramHighlight(container);
+            }, 30 * 1000);
         });
 
         function processXML(xmlString, container, loadingText, errorDisplay, isInitialLoad) {
@@ -425,7 +435,7 @@
                     throw new Error("XML-filen indeholder ingen programmer.");
                 }
 
-                // NYT: Aflæs aktuelt valgt dato og eventuelt åbent programkort før opdatering
+                // Aflæs aktuelt valgt dato og eventuelt åbent programkort før opdatering
                 const selectorContainer = document.getElementById('selector-container');
                 const existingSelect = selectorContainer.querySelector('.date-selector');
                 const previouslySelectedDate = existingSelect ? existingSelect.value : null;
@@ -444,13 +454,36 @@
                 if (loadingText) loadingText.style.display = 'none';
                 errorDisplay.style.display = 'none';
 
+                // NYT: Beregn præcist start- og sluttidspunkt for hvert program (inkl. nattepause-logik)
+                const rawEventsWithTime = events.map(event => {
+                    const rawDate = getTagValue(event, 'Date');
+                    const time = getTagValue(event, 'StartTime');
+                    return {
+                        eventNode: event,
+                        rawDate: rawDate,
+                        time: time,
+                        startTimestamp: parseDateTime(rawDate, time).getTime()
+                    };
+                });
+
+                const sortedByTime = [...rawEventsWithTime].sort((a, b) => a.startTimestamp - b.startTimestamp);
+                sortedByTime.forEach((item, idx) => {
+                    const nextStart = (idx + 1 < sortedByTime.length) ? sortedByTime[idx + 1].startTimestamp : Infinity;
+                    const rawTitle = getTagValue(item.eventNode, 'Title');
+                    const maxDurationMs = rawTitle.toLowerCase().includes('godnat')
+                        ? 2 * 60 * 1000
+                        : 8 * 60 * 60 * 1000;
+                    item.endTimestamp = Math.min(nextStart, item.startTimestamp + maxDurationMs);
+                });
+
                 const groupedEvents = {};
                 const uniqueDates = [];
                 let hasFutureEvents = false;
 
-                events.forEach(event => {
-                    const rawDate = getTagValue(event, 'Date');
-                    const time = getTagValue(event, 'StartTime');
+                rawEventsWithTime.forEach(item => {
+                    const event = item.eventNode;
+                    const rawDate = item.rawDate;
+                    const time = item.time;
                     const broadcastDateObj = getBroadcastDate(rawDate, time);
 
                     if (broadcastDateObj.getTime() < currentBroadcastTimestamp) {
@@ -475,6 +508,8 @@
                         longDesc: getTagValue(event, 'LongDescription'),
                         stillUrl: getTagValue(event, 'StillSceneUrl'),
                         time: time,
+                        startTimestamp: item.startTimestamp,
+                        endTimestamp: item.endTimestamp,
                         broadcastDateObj: broadcastDateObj,
                         broadcastDateString: formatDateStandard(broadcastDateObj)
                     };
@@ -516,7 +551,7 @@
                     selectElement.appendChild(option);
                 });
 
-                // NYT: Tøm beholderen før ny dropdown indsættes, så der ikke oprettes dubletter
+                // Tøm beholderen før ny dropdown indsættes, så der ikke oprettes dubletter
                 selectorContainer.innerHTML = '';
                 selectorContainer.appendChild(selectElement);
 
@@ -537,6 +572,8 @@
                         // Unik nøgle så vi kan genåbne kortet, hvis det var åbent før auto-opdatering
                         const cardKey = `${pe.time}_${pe.title}`;
                         card.setAttribute('data-card-key', cardKey);
+                        card.setAttribute('data-start', pe.startTimestamp);
+                        card.setAttribute('data-end', pe.endTimestamp);
 
                         if (keepExpandedKey && keepExpandedKey === cardKey) {
                             card.classList.add('expanded');
@@ -590,13 +627,16 @@
                         card.appendChild(arrowDiv);
                         container.appendChild(card);
                     });
+
+                    // NYT: Fremhæv det aktuelle program med det samme
+                    updateCurrentProgramHighlight(container);
                 }
 
                 selectElement.addEventListener('change', (e) => {
                     renderDay(e.target.value);
                 });
 
-                // NYT: Fasthold brugerens valgte dato, hvis den stadig findes i listen
+                // Fasthold brugerens valgte dato, hvis den stadig findes i listen
                 const dateToRender = (previouslySelectedDate && uniqueDates.includes(previouslySelectedDate))
                     ? previouslySelectedDate
                     : uniqueDates[0];
@@ -612,6 +652,27 @@
                 }
                 console.error("XML-behandlingsfejl:", innerError);
             }
+        }
+
+        // NYT: Opdaterer baggrundsmarkeringen ud fra aktuelt klokkeslæt
+        function updateCurrentProgramHighlight(container) {
+            const nowMs = new Date().getTime();
+            const cards = container.querySelectorAll('.program-card');
+            cards.forEach(card => {
+                const start = Number(card.getAttribute('data-start'));
+                const end = Number(card.getAttribute('data-end'));
+                if (nowMs >= start && nowMs < end) {
+                    card.classList.add('current-program');
+                } else {
+                    card.classList.remove('current-program');
+                }
+            });
+        }
+
+        function parseDateTime(dateStr, timeStr) {
+            const [day, month, year] = dateStr.trim().split('/').map(Number);
+            const [hour, minute] = timeStr.trim().split(':').map(Number);
+            return new Date(year, month - 1, day, hour, minute, 0);
         }
 
         function getTagValue(parent, tagName) {
