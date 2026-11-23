@@ -93,19 +93,6 @@
   </Event>
   <Event>
     <Date>23/11/2026</Date>
-    <StartTime>17:20</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>DM i disc golf</Title>
-    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
-    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
-    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/11/2026</Date>
     <StartTime>18:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
@@ -119,7 +106,7 @@
   </Event>
   <Event>
     <Date>23/11/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -132,7 +119,7 @@
   </Event>
   <Event>
     <Date>23/11/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -158,7 +145,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior Grand Prix 3</Title>
     <EpisodeTitle>Reportage fra Skinderskovhallen i Herlev</EpisodeTitle>
