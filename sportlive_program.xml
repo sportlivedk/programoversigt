@@ -2082,7 +2082,7 @@
   </Event>
   <Event>
     <Date>03/12/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -2095,7 +2095,7 @@
   </Event>
   <Event>
     <Date>03/12/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -2108,7 +2108,7 @@
   </Event>
   <Event>
     <Date>03/12/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -2121,33 +2121,7 @@
   </Event>
   <Event>
     <Date>03/12/2026</Date>
-    <StartTime>15:15</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/12/2026</Date>
-    <StartTime>15:50</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/12/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>15:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Værløse Blue Hawks-BC Copenhagen</EpisodeTitle>
@@ -2160,7 +2134,20 @@
   </Event>
   <Event>
     <Date>03/12/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>17:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Magasinprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>4</EpisodeNo>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-9a1f2d68-ec15-418a-990e-fc3f945e5577.jpg?temp_url_sig=4b0738e65c805d96805a883d07c941f798a29c9c&amp;temp_url_expires=4951188626</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketligaen er nået halvvejs i sæsonen, og i magasinet Overtime gør Jonas Kvist Jepsen og Thomas Døssing status og ser nærmere på de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/12/2026</Date>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Cremonese</EpisodeTitle>
@@ -2370,19 +2357,6 @@
     <Date>04/12/2026</Date>
     <StartTime>18:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Gala de Boxe record D'EOTTM</Title>
-    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
-    <ShortDescription>Dobbelt VM-titelkamp fra Quebec City i Canada.</ShortDescription>
-    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/12/2026</Date>
-    <StartTime>19:35</StartTime>
-    <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
     <Season/>
@@ -2394,7 +2368,20 @@
   </Event>
   <Event>
     <Date>04/12/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>19:35</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Magasinprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>4</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-9a1f2d68-ec15-418a-990e-fc3f945e5577.jpg?temp_url_sig=4b0738e65c805d96805a883d07c941f798a29c9c&amp;temp_url_expires=4951188626</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketligaen er nået halvvejs i sæsonen, og i magasinet Overtime gør Jonas Kvist Jepsen og Thomas Døssing status og ser nærmere på de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/12/2026</Date>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -2407,7 +2394,7 @@
   </Event>
   <Event>
     <Date>04/12/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -2420,7 +2407,7 @@
   </Event>
   <Event>
     <Date>04/12/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Cremonese</EpisodeTitle>
@@ -2433,7 +2420,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -2446,7 +2433,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -2459,7 +2446,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -2472,20 +2459,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>07:40</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Patrick Franziska-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Herrernes finalekamp mellem tyske Patrick Franziska og japanske Tomokazu Harimoto ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/12/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -2498,7 +2472,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -2511,7 +2485,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>09:15</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -2524,7 +2498,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Cremonese</EpisodeTitle>
@@ -2537,7 +2511,20 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>13:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Magasinprogram om Basketligaen</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>4</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-9a1f2d68-ec15-418a-990e-fc3f945e5577.jpg?temp_url_sig=4b0738e65c805d96805a883d07c941f798a29c9c&amp;temp_url_expires=4951188626</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketligaen er nået halvvejs i sæsonen, og i magasinet Overtime gør Jonas Kvist Jepsen og Thomas Døssing status og ser nærmere på de største og vigtigste historier fra ligaen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/12/2026</Date>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-Lions de Genève</EpisodeTitle>
@@ -2563,7 +2550,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>17:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler i enerkajak</EpisodeTitle>
@@ -2576,7 +2563,7 @@
   </Event>
   <Event>
     <Date>05/12/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Danish Fight Night</Title>
     <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
@@ -2615,7 +2602,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -2641,7 +2628,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior Grand Prix 3</Title>
     <EpisodeTitle>Reportage fra Skinderskovhallen i Herlev</EpisodeTitle>
@@ -2654,7 +2641,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -2667,7 +2654,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -2680,7 +2667,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -2693,7 +2680,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -2706,7 +2693,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -2719,7 +2706,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -2732,7 +2719,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Cremonese</EpisodeTitle>
@@ -2745,7 +2732,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Juventus-Sassuolo</EpisodeTitle>
@@ -2758,7 +2745,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Årets sportspræstation på SPORT LIVE</Title>
     <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
@@ -2771,7 +2758,7 @@
   </Event>
   <Event>
     <Date>06/12/2026</Date>
-    <StartTime>21:20</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -2784,20 +2771,20 @@
   </Event>
   <Event>
     <Date>07/12/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Magasinprogram om Basketligaen</EpisodeTitle>
     <Season>2026-27</Season>
-    <EpisodeNo/>
+    <EpisodeNo>4</EpisodeNo>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14371-9a1f2d68-ec15-418a-990e-fc3f945e5577.jpg?temp_url_sig=4b0738e65c805d96805a883d07c941f798a29c9c&amp;temp_url_expires=4951188626</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketligaen er nået halvvejs i sæsonen, og i magasinet Overtime gør Jonas Kvist Jepsen og Thomas Døssing status og ser nærmere på de største og vigtigste historier fra ligaen.</LongDescription>
   </Event>
   <Event>
     <Date>07/12/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -2810,7 +2797,7 @@
   </Event>
   <Event>
     <Date>07/12/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
